@@ -7,3 +7,4 @@ data/raw/*
 ml_state.json
 ml_states.json
 .env
+*.png
