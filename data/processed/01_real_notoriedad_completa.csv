@@ -1,0 +1,1008 @@
+date,Marca,Indice_Busqueda,Categoria
+2025-10-05,Gabrica,7,Corporativos
+2025-10-12,Gabrica,8,Corporativos
+2025-10-19,Gabrica,7,Corporativos
+2025-10-26,Gabrica,8,Corporativos
+2025-11-02,Gabrica,7,Corporativos
+2025-11-09,Gabrica,8,Corporativos
+2025-11-16,Gabrica,0,Corporativos
+2025-11-23,Gabrica,0,Corporativos
+2025-11-30,Gabrica,10,Corporativos
+2025-12-07,Gabrica,6,Corporativos
+2025-12-14,Gabrica,11,Corporativos
+2025-12-21,Gabrica,0,Corporativos
+2025-12-28,Gabrica,0,Corporativos
+2026-01-04,Gabrica,6,Corporativos
+2026-01-11,Gabrica,7,Corporativos
+2026-01-18,Gabrica,0,Corporativos
+2026-01-25,Gabrica,0,Corporativos
+2026-02-01,Gabrica,9,Corporativos
+2026-02-08,Gabrica,10,Corporativos
+2026-02-15,Gabrica,7,Corporativos
+2026-02-22,Gabrica,10,Corporativos
+2026-03-01,Gabrica,8,Corporativos
+2026-03-08,Gabrica,6,Corporativos
+2026-03-15,Gabrica,0,Corporativos
+2026-03-22,Gabrica,7,Corporativos
+2026-03-29,Gabrica,0,Corporativos
+2026-04-05,Gabrica,11,Corporativos
+2026-04-12,Gabrica,6,Corporativos
+2026-04-19,Gabrica,7,Corporativos
+2026-04-26,Gabrica,5,Corporativos
+2026-05-03,Gabrica,8,Corporativos
+2026-05-10,Gabrica,11,Corporativos
+2026-05-17,Gabrica,9,Corporativos
+2026-05-24,Gabrica,6,Corporativos
+2026-05-31,Gabrica,6,Corporativos
+2026-06-07,Gabrica,9,Corporativos
+2026-06-14,Gabrica,8,Corporativos
+2026-06-21,Gabrica,6,Corporativos
+2026-06-28,Gabrica,7,Corporativos
+2026-07-05,Gabrica,5,Corporativos
+2026-07-12,Gabrica,0,Corporativos
+2026-07-19,Gabrica,10,Corporativos
+2026-07-26,Gabrica,9,Corporativos
+2026-08-02,Gabrica,6,Corporativos
+2026-08-09,Gabrica,9,Corporativos
+2026-08-16,Gabrica,8,Corporativos
+2026-08-23,Gabrica,5,Corporativos
+2026-08-30,Gabrica,8,Corporativos
+2026-09-06,Gabrica,12,Corporativos
+2026-09-13,Gabrica,9,Corporativos
+2026-09-20,Gabrica,5,Corporativos
+2026-09-27,Gabrica,7,Corporativos
+2026-10-04,Gabrica,10,Corporativos
+2025-10-05,Purina,66,Corporativos
+2025-10-12,Purina,67,Corporativos
+2025-10-19,Purina,70,Corporativos
+2025-10-26,Purina,67,Corporativos
+2025-11-02,Purina,80,Corporativos
+2025-11-09,Purina,73,Corporativos
+2025-11-16,Purina,69,Corporativos
+2025-11-23,Purina,63,Corporativos
+2025-11-30,Purina,73,Corporativos
+2025-12-07,Purina,78,Corporativos
+2025-12-14,Purina,70,Corporativos
+2025-12-21,Purina,78,Corporativos
+2025-12-28,Purina,79,Corporativos
+2026-01-04,Purina,79,Corporativos
+2026-01-11,Purina,68,Corporativos
+2026-01-18,Purina,78,Corporativos
+2026-01-25,Purina,69,Corporativos
+2026-02-01,Purina,67,Corporativos
+2026-02-08,Purina,80,Corporativos
+2026-02-15,Purina,79,Corporativos
+2026-02-22,Purina,79,Corporativos
+2026-03-01,Purina,76,Corporativos
+2026-03-08,Purina,77,Corporativos
+2026-03-15,Purina,83,Corporativos
+2026-03-22,Purina,76,Corporativos
+2026-03-29,Purina,90,Corporativos
+2026-04-05,Purina,82,Corporativos
+2026-04-12,Purina,82,Corporativos
+2026-04-19,Purina,75,Corporativos
+2026-04-26,Purina,80,Corporativos
+2026-05-03,Purina,69,Corporativos
+2026-05-10,Purina,74,Corporativos
+2026-05-17,Purina,75,Corporativos
+2026-05-24,Purina,72,Corporativos
+2026-05-31,Purina,78,Corporativos
+2026-06-07,Purina,75,Corporativos
+2026-06-14,Purina,66,Corporativos
+2026-06-21,Purina,71,Corporativos
+2026-06-28,Purina,76,Corporativos
+2026-07-05,Purina,73,Corporativos
+2026-07-12,Purina,75,Corporativos
+2026-07-19,Purina,85,Corporativos
+2026-07-26,Purina,83,Corporativos
+2026-08-02,Purina,74,Corporativos
+2026-08-09,Purina,67,Corporativos
+2026-08-16,Purina,74,Corporativos
+2026-08-23,Purina,68,Corporativos
+2026-08-30,Purina,67,Corporativos
+2026-09-06,Purina,85,Corporativos
+2026-09-13,Purina,66,Corporativos
+2026-09-20,Purina,79,Corporativos
+2026-09-27,Purina,76,Corporativos
+2026-10-04,Purina,71,Corporativos
+2025-10-05,Royal Canin,48,Corporativos
+2025-10-12,Royal Canin,45,Corporativos
+2025-10-19,Royal Canin,43,Corporativos
+2025-10-26,Royal Canin,46,Corporativos
+2025-11-02,Royal Canin,46,Corporativos
+2025-11-09,Royal Canin,54,Corporativos
+2025-11-16,Royal Canin,48,Corporativos
+2025-11-23,Royal Canin,52,Corporativos
+2025-11-30,Royal Canin,48,Corporativos
+2025-12-07,Royal Canin,47,Corporativos
+2025-12-14,Royal Canin,55,Corporativos
+2025-12-21,Royal Canin,57,Corporativos
+2025-12-28,Royal Canin,54,Corporativos
+2026-01-04,Royal Canin,66,Corporativos
+2026-01-11,Royal Canin,54,Corporativos
+2026-01-18,Royal Canin,64,Corporativos
+2026-01-25,Royal Canin,54,Corporativos
+2026-02-01,Royal Canin,48,Corporativos
+2026-02-08,Royal Canin,54,Corporativos
+2026-02-15,Royal Canin,55,Corporativos
+2026-02-22,Royal Canin,57,Corporativos
+2026-03-01,Royal Canin,52,Corporativos
+2026-03-08,Royal Canin,45,Corporativos
+2026-03-15,Royal Canin,48,Corporativos
+2026-03-22,Royal Canin,55,Corporativos
+2026-03-29,Royal Canin,49,Corporativos
+2026-04-05,Royal Canin,59,Corporativos
+2026-04-12,Royal Canin,55,Corporativos
+2026-04-19,Royal Canin,46,Corporativos
+2026-04-26,Royal Canin,54,Corporativos
+2026-05-03,Royal Canin,53,Corporativos
+2026-05-10,Royal Canin,51,Corporativos
+2026-05-17,Royal Canin,51,Corporativos
+2026-05-24,Royal Canin,45,Corporativos
+2026-05-31,Royal Canin,51,Corporativos
+2026-06-07,Royal Canin,51,Corporativos
+2026-06-14,Royal Canin,51,Corporativos
+2026-06-21,Royal Canin,44,Corporativos
+2026-06-28,Royal Canin,50,Corporativos
+2026-07-05,Royal Canin,55,Corporativos
+2026-07-12,Royal Canin,57,Corporativos
+2026-07-19,Royal Canin,65,Corporativos
+2026-07-26,Royal Canin,54,Corporativos
+2026-08-02,Royal Canin,44,Corporativos
+2026-08-09,Royal Canin,47,Corporativos
+2026-08-16,Royal Canin,60,Corporativos
+2026-08-23,Royal Canin,58,Corporativos
+2026-08-30,Royal Canin,61,Corporativos
+2026-09-06,Royal Canin,59,Corporativos
+2026-09-13,Royal Canin,57,Corporativos
+2026-09-20,Royal Canin,56,Corporativos
+2026-09-27,Royal Canin,56,Corporativos
+2026-10-04,Royal Canin,51,Corporativos
+2025-10-05,Agrocampo,91,Corporativos
+2025-10-12,Agrocampo,67,Corporativos
+2025-10-19,Agrocampo,53,Corporativos
+2025-10-26,Agrocampo,62,Corporativos
+2025-11-02,Agrocampo,60,Corporativos
+2025-11-09,Agrocampo,54,Corporativos
+2025-11-16,Agrocampo,58,Corporativos
+2025-11-23,Agrocampo,100,Corporativos
+2025-11-30,Agrocampo,93,Corporativos
+2025-12-07,Agrocampo,66,Corporativos
+2025-12-14,Agrocampo,74,Corporativos
+2025-12-21,Agrocampo,75,Corporativos
+2025-12-28,Agrocampo,68,Corporativos
+2026-01-04,Agrocampo,67,Corporativos
+2026-01-11,Agrocampo,64,Corporativos
+2026-01-18,Agrocampo,55,Corporativos
+2026-01-25,Agrocampo,68,Corporativos
+2026-02-01,Agrocampo,55,Corporativos
+2026-02-08,Agrocampo,69,Corporativos
+2026-02-15,Agrocampo,59,Corporativos
+2026-02-22,Agrocampo,64,Corporativos
+2026-03-01,Agrocampo,56,Corporativos
+2026-03-08,Agrocampo,61,Corporativos
+2026-03-15,Agrocampo,53,Corporativos
+2026-03-22,Agrocampo,58,Corporativos
+2026-03-29,Agrocampo,72,Corporativos
+2026-04-05,Agrocampo,52,Corporativos
+2026-04-12,Agrocampo,53,Corporativos
+2026-04-19,Agrocampo,53,Corporativos
+2026-04-26,Agrocampo,59,Corporativos
+2026-05-03,Agrocampo,76,Corporativos
+2026-05-10,Agrocampo,57,Corporativos
+2026-05-17,Agrocampo,48,Corporativos
+2026-05-24,Agrocampo,48,Corporativos
+2026-05-31,Agrocampo,49,Corporativos
+2026-06-07,Agrocampo,46,Corporativos
+2026-06-14,Agrocampo,58,Corporativos
+2026-06-21,Agrocampo,49,Corporativos
+2026-06-28,Agrocampo,64,Corporativos
+2026-07-05,Agrocampo,59,Corporativos
+2026-07-12,Agrocampo,61,Corporativos
+2026-07-19,Agrocampo,60,Corporativos
+2026-07-26,Agrocampo,53,Corporativos
+2026-08-02,Agrocampo,46,Corporativos
+2026-08-09,Agrocampo,51,Corporativos
+2026-08-16,Agrocampo,58,Corporativos
+2026-08-23,Agrocampo,49,Corporativos
+2026-08-30,Agrocampo,52,Corporativos
+2026-09-06,Agrocampo,57,Corporativos
+2026-09-13,Agrocampo,48,Corporativos
+2026-09-20,Agrocampo,54,Corporativos
+2026-09-27,Agrocampo,55,Corporativos
+2026-10-04,Agrocampo,71,Corporativos
+2025-10-05,Simparica,17,Antiparasitarios
+2025-10-12,Simparica,11,Antiparasitarios
+2025-10-19,Simparica,16,Antiparasitarios
+2025-10-26,Simparica,11,Antiparasitarios
+2025-11-02,Simparica,21,Antiparasitarios
+2025-11-09,Simparica,14,Antiparasitarios
+2025-11-16,Simparica,22,Antiparasitarios
+2025-11-23,Simparica,27,Antiparasitarios
+2025-11-30,Simparica,23,Antiparasitarios
+2025-12-07,Simparica,17,Antiparasitarios
+2025-12-14,Simparica,22,Antiparasitarios
+2025-12-21,Simparica,20,Antiparasitarios
+2025-12-28,Simparica,28,Antiparasitarios
+2026-01-04,Simparica,22,Antiparasitarios
+2026-01-11,Simparica,18,Antiparasitarios
+2026-01-18,Simparica,17,Antiparasitarios
+2026-01-25,Simparica,15,Antiparasitarios
+2026-02-01,Simparica,15,Antiparasitarios
+2026-02-08,Simparica,22,Antiparasitarios
+2026-02-15,Simparica,14,Antiparasitarios
+2026-02-22,Simparica,19,Antiparasitarios
+2026-03-01,Simparica,17,Antiparasitarios
+2026-03-08,Simparica,19,Antiparasitarios
+2026-03-15,Simparica,16,Antiparasitarios
+2026-03-22,Simparica,16,Antiparasitarios
+2026-03-29,Simparica,20,Antiparasitarios
+2026-04-05,Simparica,22,Antiparasitarios
+2026-04-12,Simparica,23,Antiparasitarios
+2026-04-19,Simparica,14,Antiparasitarios
+2026-04-26,Simparica,17,Antiparasitarios
+2026-05-03,Simparica,14,Antiparasitarios
+2026-05-10,Simparica,13,Antiparasitarios
+2026-05-17,Simparica,18,Antiparasitarios
+2026-05-24,Simparica,13,Antiparasitarios
+2026-05-31,Simparica,20,Antiparasitarios
+2026-06-07,Simparica,9,Antiparasitarios
+2026-06-14,Simparica,21,Antiparasitarios
+2026-06-21,Simparica,20,Antiparasitarios
+2026-06-28,Simparica,19,Antiparasitarios
+2026-07-05,Simparica,16,Antiparasitarios
+2026-07-12,Simparica,13,Antiparasitarios
+2026-07-19,Simparica,18,Antiparasitarios
+2026-07-26,Simparica,17,Antiparasitarios
+2026-08-02,Simparica,12,Antiparasitarios
+2026-08-09,Simparica,20,Antiparasitarios
+2026-08-16,Simparica,17,Antiparasitarios
+2026-08-23,Simparica,19,Antiparasitarios
+2026-08-30,Simparica,20,Antiparasitarios
+2026-09-06,Simparica,12,Antiparasitarios
+2026-09-13,Simparica,18,Antiparasitarios
+2026-09-20,Simparica,12,Antiparasitarios
+2026-09-27,Simparica,16,Antiparasitarios
+2026-10-04,Simparica,18,Antiparasitarios
+2025-10-05,Bravecto,36,Antiparasitarios
+2025-10-12,Bravecto,31,Antiparasitarios
+2025-10-19,Bravecto,33,Antiparasitarios
+2025-10-26,Bravecto,39,Antiparasitarios
+2025-11-02,Bravecto,33,Antiparasitarios
+2025-11-09,Bravecto,35,Antiparasitarios
+2025-11-16,Bravecto,41,Antiparasitarios
+2025-11-23,Bravecto,39,Antiparasitarios
+2025-11-30,Bravecto,42,Antiparasitarios
+2025-12-07,Bravecto,49,Antiparasitarios
+2025-12-14,Bravecto,46,Antiparasitarios
+2025-12-21,Bravecto,46,Antiparasitarios
+2025-12-28,Bravecto,47,Antiparasitarios
+2026-01-04,Bravecto,44,Antiparasitarios
+2026-01-11,Bravecto,36,Antiparasitarios
+2026-01-18,Bravecto,28,Antiparasitarios
+2026-01-25,Bravecto,29,Antiparasitarios
+2026-02-01,Bravecto,35,Antiparasitarios
+2026-02-08,Bravecto,33,Antiparasitarios
+2026-02-15,Bravecto,38,Antiparasitarios
+2026-02-22,Bravecto,33,Antiparasitarios
+2026-03-01,Bravecto,38,Antiparasitarios
+2026-03-08,Bravecto,28,Antiparasitarios
+2026-03-15,Bravecto,41,Antiparasitarios
+2026-03-22,Bravecto,34,Antiparasitarios
+2026-03-29,Bravecto,39,Antiparasitarios
+2026-04-05,Bravecto,38,Antiparasitarios
+2026-04-12,Bravecto,36,Antiparasitarios
+2026-04-19,Bravecto,41,Antiparasitarios
+2026-04-26,Bravecto,37,Antiparasitarios
+2026-05-03,Bravecto,38,Antiparasitarios
+2026-05-10,Bravecto,25,Antiparasitarios
+2026-05-17,Bravecto,41,Antiparasitarios
+2026-05-24,Bravecto,39,Antiparasitarios
+2026-05-31,Bravecto,34,Antiparasitarios
+2026-06-07,Bravecto,29,Antiparasitarios
+2026-06-14,Bravecto,44,Antiparasitarios
+2026-06-21,Bravecto,35,Antiparasitarios
+2026-06-28,Bravecto,35,Antiparasitarios
+2026-07-05,Bravecto,35,Antiparasitarios
+2026-07-12,Bravecto,31,Antiparasitarios
+2026-07-19,Bravecto,37,Antiparasitarios
+2026-07-26,Bravecto,28,Antiparasitarios
+2026-08-02,Bravecto,30,Antiparasitarios
+2026-08-09,Bravecto,33,Antiparasitarios
+2026-08-16,Bravecto,38,Antiparasitarios
+2026-08-23,Bravecto,28,Antiparasitarios
+2026-08-30,Bravecto,21,Antiparasitarios
+2026-09-06,Bravecto,31,Antiparasitarios
+2026-09-13,Bravecto,33,Antiparasitarios
+2026-09-20,Bravecto,27,Antiparasitarios
+2026-09-27,Bravecto,32,Antiparasitarios
+2026-10-04,Bravecto,32,Antiparasitarios
+2025-10-05,Nexgard,52,Antiparasitarios
+2025-10-12,Nexgard,63,Antiparasitarios
+2025-10-19,Nexgard,61,Antiparasitarios
+2025-10-26,Nexgard,47,Antiparasitarios
+2025-11-02,Nexgard,55,Antiparasitarios
+2025-11-09,Nexgard,61,Antiparasitarios
+2025-11-16,Nexgard,42,Antiparasitarios
+2025-11-23,Nexgard,61,Antiparasitarios
+2025-11-30,Nexgard,65,Antiparasitarios
+2025-12-07,Nexgard,61,Antiparasitarios
+2025-12-14,Nexgard,86,Antiparasitarios
+2025-12-21,Nexgard,92,Antiparasitarios
+2025-12-28,Nexgard,93,Antiparasitarios
+2026-01-04,Nexgard,100,Antiparasitarios
+2026-01-11,Nexgard,72,Antiparasitarios
+2026-01-18,Nexgard,77,Antiparasitarios
+2026-01-25,Nexgard,50,Antiparasitarios
+2026-02-01,Nexgard,58,Antiparasitarios
+2026-02-08,Nexgard,65,Antiparasitarios
+2026-02-15,Nexgard,51,Antiparasitarios
+2026-02-22,Nexgard,46,Antiparasitarios
+2026-03-01,Nexgard,60,Antiparasitarios
+2026-03-08,Nexgard,44,Antiparasitarios
+2026-03-15,Nexgard,58,Antiparasitarios
+2026-03-22,Nexgard,76,Antiparasitarios
+2026-03-29,Nexgard,75,Antiparasitarios
+2026-04-05,Nexgard,78,Antiparasitarios
+2026-04-12,Nexgard,58,Antiparasitarios
+2026-04-19,Nexgard,53,Antiparasitarios
+2026-04-26,Nexgard,71,Antiparasitarios
+2026-05-03,Nexgard,58,Antiparasitarios
+2026-05-10,Nexgard,53,Antiparasitarios
+2026-05-17,Nexgard,71,Antiparasitarios
+2026-05-24,Nexgard,56,Antiparasitarios
+2026-05-31,Nexgard,51,Antiparasitarios
+2026-06-07,Nexgard,51,Antiparasitarios
+2026-06-14,Nexgard,58,Antiparasitarios
+2026-06-21,Nexgard,54,Antiparasitarios
+2026-06-28,Nexgard,59,Antiparasitarios
+2026-07-05,Nexgard,61,Antiparasitarios
+2026-07-12,Nexgard,71,Antiparasitarios
+2026-07-19,Nexgard,63,Antiparasitarios
+2026-07-26,Nexgard,55,Antiparasitarios
+2026-08-02,Nexgard,61,Antiparasitarios
+2026-08-09,Nexgard,42,Antiparasitarios
+2026-08-16,Nexgard,59,Antiparasitarios
+2026-08-23,Nexgard,56,Antiparasitarios
+2026-08-30,Nexgard,58,Antiparasitarios
+2026-09-06,Nexgard,51,Antiparasitarios
+2026-09-13,Nexgard,57,Antiparasitarios
+2026-09-20,Nexgard,59,Antiparasitarios
+2026-09-27,Nexgard,57,Antiparasitarios
+2026-10-04,Nexgard,63,Antiparasitarios
+2025-10-05,Frontline,0,Antiparasitarios
+2025-10-12,Frontline,0,Antiparasitarios
+2025-10-19,Frontline,0,Antiparasitarios
+2025-10-26,Frontline,0,Antiparasitarios
+2025-11-02,Frontline,10,Antiparasitarios
+2025-11-09,Frontline,9,Antiparasitarios
+2025-11-16,Frontline,10,Antiparasitarios
+2025-11-23,Frontline,11,Antiparasitarios
+2025-11-30,Frontline,9,Antiparasitarios
+2025-12-07,Frontline,14,Antiparasitarios
+2025-12-14,Frontline,14,Antiparasitarios
+2025-12-21,Frontline,0,Antiparasitarios
+2025-12-28,Frontline,11,Antiparasitarios
+2026-01-04,Frontline,11,Antiparasitarios
+2026-01-11,Frontline,0,Antiparasitarios
+2026-01-18,Frontline,10,Antiparasitarios
+2026-01-25,Frontline,14,Antiparasitarios
+2026-02-01,Frontline,11,Antiparasitarios
+2026-02-08,Frontline,8,Antiparasitarios
+2026-02-15,Frontline,8,Antiparasitarios
+2026-02-22,Frontline,8,Antiparasitarios
+2026-03-01,Frontline,13,Antiparasitarios
+2026-03-08,Frontline,0,Antiparasitarios
+2026-03-15,Frontline,16,Antiparasitarios
+2026-03-22,Frontline,0,Antiparasitarios
+2026-03-29,Frontline,16,Antiparasitarios
+2026-04-05,Frontline,13,Antiparasitarios
+2026-04-12,Frontline,11,Antiparasitarios
+2026-04-19,Frontline,12,Antiparasitarios
+2026-04-26,Frontline,16,Antiparasitarios
+2026-05-03,Frontline,18,Antiparasitarios
+2026-05-10,Frontline,14,Antiparasitarios
+2026-05-17,Frontline,9,Antiparasitarios
+2026-05-24,Frontline,13,Antiparasitarios
+2026-05-31,Frontline,12,Antiparasitarios
+2026-06-07,Frontline,12,Antiparasitarios
+2026-06-14,Frontline,22,Antiparasitarios
+2026-06-21,Frontline,19,Antiparasitarios
+2026-06-28,Frontline,21,Antiparasitarios
+2026-07-05,Frontline,14,Antiparasitarios
+2026-07-12,Frontline,13,Antiparasitarios
+2026-07-19,Frontline,0,Antiparasitarios
+2026-07-26,Frontline,9,Antiparasitarios
+2026-08-02,Frontline,10,Antiparasitarios
+2026-08-09,Frontline,0,Antiparasitarios
+2026-08-16,Frontline,0,Antiparasitarios
+2026-08-23,Frontline,0,Antiparasitarios
+2026-08-30,Frontline,14,Antiparasitarios
+2026-09-06,Frontline,12,Antiparasitarios
+2026-09-13,Frontline,0,Antiparasitarios
+2026-09-20,Frontline,5,Antiparasitarios
+2026-09-27,Frontline,6,Antiparasitarios
+2026-10-04,Frontline,5,Antiparasitarios
+2025-10-05,Hills,3,Alimentos_Premium
+2025-10-12,Hills,3,Alimentos_Premium
+2025-10-19,Hills,3,Alimentos_Premium
+2025-10-26,Hills,3,Alimentos_Premium
+2025-11-02,Hills,3,Alimentos_Premium
+2025-11-09,Hills,3,Alimentos_Premium
+2025-11-16,Hills,3,Alimentos_Premium
+2025-11-23,Hills,3,Alimentos_Premium
+2025-11-30,Hills,4,Alimentos_Premium
+2025-12-07,Hills,3,Alimentos_Premium
+2025-12-14,Hills,3,Alimentos_Premium
+2025-12-21,Hills,3,Alimentos_Premium
+2025-12-28,Hills,4,Alimentos_Premium
+2026-01-04,Hills,3,Alimentos_Premium
+2026-01-11,Hills,3,Alimentos_Premium
+2026-01-18,Hills,4,Alimentos_Premium
+2026-01-25,Hills,4,Alimentos_Premium
+2026-02-01,Hills,3,Alimentos_Premium
+2026-02-08,Hills,3,Alimentos_Premium
+2026-02-15,Hills,4,Alimentos_Premium
+2026-02-22,Hills,3,Alimentos_Premium
+2026-03-01,Hills,3,Alimentos_Premium
+2026-03-08,Hills,3,Alimentos_Premium
+2026-03-15,Hills,3,Alimentos_Premium
+2026-03-22,Hills,3,Alimentos_Premium
+2026-03-29,Hills,4,Alimentos_Premium
+2026-04-05,Hills,4,Alimentos_Premium
+2026-04-12,Hills,3,Alimentos_Premium
+2026-04-19,Hills,3,Alimentos_Premium
+2026-04-26,Hills,3,Alimentos_Premium
+2026-05-03,Hills,3,Alimentos_Premium
+2026-05-10,Hills,3,Alimentos_Premium
+2026-05-17,Hills,3,Alimentos_Premium
+2026-05-24,Hills,3,Alimentos_Premium
+2026-05-31,Hills,3,Alimentos_Premium
+2026-06-07,Hills,3,Alimentos_Premium
+2026-06-14,Hills,5,Alimentos_Premium
+2026-06-21,Hills,5,Alimentos_Premium
+2026-06-28,Hills,4,Alimentos_Premium
+2026-07-05,Hills,3,Alimentos_Premium
+2026-07-12,Hills,4,Alimentos_Premium
+2026-07-19,Hills,3,Alimentos_Premium
+2026-07-26,Hills,3,Alimentos_Premium
+2026-08-02,Hills,3,Alimentos_Premium
+2026-08-09,Hills,3,Alimentos_Premium
+2026-08-16,Hills,3,Alimentos_Premium
+2026-08-23,Hills,3,Alimentos_Premium
+2026-08-30,Hills,4,Alimentos_Premium
+2026-09-06,Hills,3,Alimentos_Premium
+2026-09-13,Hills,4,Alimentos_Premium
+2026-09-20,Hills,4,Alimentos_Premium
+2026-09-27,Hills,4,Alimentos_Premium
+2026-10-04,Hills,4,Alimentos_Premium
+2025-10-05,Equilibrio,4,Alimentos_Premium
+2025-10-12,Equilibrio,4,Alimentos_Premium
+2025-10-19,Equilibrio,4,Alimentos_Premium
+2025-10-26,Equilibrio,4,Alimentos_Premium
+2025-11-02,Equilibrio,4,Alimentos_Premium
+2025-11-09,Equilibrio,5,Alimentos_Premium
+2025-11-16,Equilibrio,4,Alimentos_Premium
+2025-11-23,Equilibrio,3,Alimentos_Premium
+2025-11-30,Equilibrio,3,Alimentos_Premium
+2025-12-07,Equilibrio,3,Alimentos_Premium
+2025-12-14,Equilibrio,2,Alimentos_Premium
+2025-12-21,Equilibrio,2,Alimentos_Premium
+2025-12-28,Equilibrio,2,Alimentos_Premium
+2026-01-04,Equilibrio,2,Alimentos_Premium
+2026-01-11,Equilibrio,2,Alimentos_Premium
+2026-01-18,Equilibrio,2,Alimentos_Premium
+2026-01-25,Equilibrio,2,Alimentos_Premium
+2026-02-01,Equilibrio,3,Alimentos_Premium
+2026-02-08,Equilibrio,4,Alimentos_Premium
+2026-02-15,Equilibrio,4,Alimentos_Premium
+2026-02-22,Equilibrio,4,Alimentos_Premium
+2026-03-01,Equilibrio,4,Alimentos_Premium
+2026-03-08,Equilibrio,4,Alimentos_Premium
+2026-03-15,Equilibrio,4,Alimentos_Premium
+2026-03-22,Equilibrio,4,Alimentos_Premium
+2026-03-29,Equilibrio,3,Alimentos_Premium
+2026-04-05,Equilibrio,4,Alimentos_Premium
+2026-04-12,Equilibrio,4,Alimentos_Premium
+2026-04-19,Equilibrio,4,Alimentos_Premium
+2026-04-26,Equilibrio,4,Alimentos_Premium
+2026-05-03,Equilibrio,4,Alimentos_Premium
+2026-05-10,Equilibrio,4,Alimentos_Premium
+2026-05-17,Equilibrio,4,Alimentos_Premium
+2026-05-24,Equilibrio,4,Alimentos_Premium
+2026-05-31,Equilibrio,4,Alimentos_Premium
+2026-06-07,Equilibrio,3,Alimentos_Premium
+2026-06-14,Equilibrio,3,Alimentos_Premium
+2026-06-21,Equilibrio,2,Alimentos_Premium
+2026-06-28,Equilibrio,2,Alimentos_Premium
+2026-07-05,Equilibrio,2,Alimentos_Premium
+2026-07-12,Equilibrio,3,Alimentos_Premium
+2026-07-19,Equilibrio,3,Alimentos_Premium
+2026-07-26,Equilibrio,3,Alimentos_Premium
+2026-08-02,Equilibrio,3,Alimentos_Premium
+2026-08-09,Equilibrio,3,Alimentos_Premium
+2026-08-16,Equilibrio,3,Alimentos_Premium
+2026-08-23,Equilibrio,3,Alimentos_Premium
+2026-08-30,Equilibrio,3,Alimentos_Premium
+2026-09-06,Equilibrio,4,Alimentos_Premium
+2026-09-13,Equilibrio,4,Alimentos_Premium
+2026-09-20,Equilibrio,4,Alimentos_Premium
+2026-09-27,Equilibrio,3,Alimentos_Premium
+2026-10-04,Equilibrio,3,Alimentos_Premium
+2025-10-05,Pro Plan,1,Alimentos_Premium
+2025-10-12,Pro Plan,1,Alimentos_Premium
+2025-10-19,Pro Plan,1,Alimentos_Premium
+2025-10-26,Pro Plan,1,Alimentos_Premium
+2025-11-02,Pro Plan,1,Alimentos_Premium
+2025-11-09,Pro Plan,1,Alimentos_Premium
+2025-11-16,Pro Plan,1,Alimentos_Premium
+2025-11-23,Pro Plan,2,Alimentos_Premium
+2025-11-30,Pro Plan,2,Alimentos_Premium
+2025-12-07,Pro Plan,1,Alimentos_Premium
+2025-12-14,Pro Plan,1,Alimentos_Premium
+2025-12-21,Pro Plan,1,Alimentos_Premium
+2025-12-28,Pro Plan,1,Alimentos_Premium
+2026-01-04,Pro Plan,1,Alimentos_Premium
+2026-01-11,Pro Plan,1,Alimentos_Premium
+2026-01-18,Pro Plan,1,Alimentos_Premium
+2026-01-25,Pro Plan,1,Alimentos_Premium
+2026-02-01,Pro Plan,1,Alimentos_Premium
+2026-02-08,Pro Plan,1,Alimentos_Premium
+2026-02-15,Pro Plan,2,Alimentos_Premium
+2026-02-22,Pro Plan,1,Alimentos_Premium
+2026-03-01,Pro Plan,1,Alimentos_Premium
+2026-03-08,Pro Plan,1,Alimentos_Premium
+2026-03-15,Pro Plan,1,Alimentos_Premium
+2026-03-22,Pro Plan,1,Alimentos_Premium
+2026-03-29,Pro Plan,2,Alimentos_Premium
+2026-04-05,Pro Plan,2,Alimentos_Premium
+2026-04-12,Pro Plan,1,Alimentos_Premium
+2026-04-19,Pro Plan,1,Alimentos_Premium
+2026-04-26,Pro Plan,1,Alimentos_Premium
+2026-05-03,Pro Plan,1,Alimentos_Premium
+2026-05-10,Pro Plan,1,Alimentos_Premium
+2026-05-17,Pro Plan,1,Alimentos_Premium
+2026-05-24,Pro Plan,1,Alimentos_Premium
+2026-05-31,Pro Plan,1,Alimentos_Premium
+2026-06-07,Pro Plan,1,Alimentos_Premium
+2026-06-14,Pro Plan,1,Alimentos_Premium
+2026-06-21,Pro Plan,2,Alimentos_Premium
+2026-06-28,Pro Plan,1,Alimentos_Premium
+2026-07-05,Pro Plan,1,Alimentos_Premium
+2026-07-12,Pro Plan,1,Alimentos_Premium
+2026-07-19,Pro Plan,1,Alimentos_Premium
+2026-07-26,Pro Plan,1,Alimentos_Premium
+2026-08-02,Pro Plan,1,Alimentos_Premium
+2026-08-09,Pro Plan,1,Alimentos_Premium
+2026-08-16,Pro Plan,1,Alimentos_Premium
+2026-08-23,Pro Plan,1,Alimentos_Premium
+2026-08-30,Pro Plan,1,Alimentos_Premium
+2026-09-06,Pro Plan,1,Alimentos_Premium
+2026-09-13,Pro Plan,1,Alimentos_Premium
+2026-09-20,Pro Plan,1,Alimentos_Premium
+2026-09-27,Pro Plan,1,Alimentos_Premium
+2026-10-04,Pro Plan,1,Alimentos_Premium
+2025-10-05,Max,71,Alimentos_Premium
+2025-10-12,Max,62,Alimentos_Premium
+2025-10-19,Max,60,Alimentos_Premium
+2025-10-26,Max,68,Alimentos_Premium
+2025-11-02,Max,66,Alimentos_Premium
+2025-11-09,Max,69,Alimentos_Premium
+2025-11-16,Max,75,Alimentos_Premium
+2025-11-23,Max,78,Alimentos_Premium
+2025-11-30,Max,78,Alimentos_Premium
+2025-12-07,Max,82,Alimentos_Premium
+2025-12-14,Max,88,Alimentos_Premium
+2025-12-21,Max,92,Alimentos_Premium
+2025-12-28,Max,84,Alimentos_Premium
+2026-01-04,Max,83,Alimentos_Premium
+2026-01-11,Max,89,Alimentos_Premium
+2026-01-18,Max,76,Alimentos_Premium
+2026-01-25,Max,71,Alimentos_Premium
+2026-02-01,Max,65,Alimentos_Premium
+2026-02-08,Max,63,Alimentos_Premium
+2026-02-15,Max,64,Alimentos_Premium
+2026-02-22,Max,62,Alimentos_Premium
+2026-03-01,Max,62,Alimentos_Premium
+2026-03-08,Max,59,Alimentos_Premium
+2026-03-15,Max,63,Alimentos_Premium
+2026-03-22,Max,70,Alimentos_Premium
+2026-03-29,Max,76,Alimentos_Premium
+2026-04-05,Max,69,Alimentos_Premium
+2026-04-12,Max,67,Alimentos_Premium
+2026-04-19,Max,60,Alimentos_Premium
+2026-04-26,Max,59,Alimentos_Premium
+2026-05-03,Max,62,Alimentos_Premium
+2026-05-10,Max,59,Alimentos_Premium
+2026-05-17,Max,66,Alimentos_Premium
+2026-05-24,Max,58,Alimentos_Premium
+2026-05-31,Max,58,Alimentos_Premium
+2026-06-07,Max,65,Alimentos_Premium
+2026-06-14,Max,63,Alimentos_Premium
+2026-06-21,Max,65,Alimentos_Premium
+2026-06-28,Max,61,Alimentos_Premium
+2026-07-05,Max,61,Alimentos_Premium
+2026-07-12,Max,68,Alimentos_Premium
+2026-07-19,Max,66,Alimentos_Premium
+2026-07-26,Max,69,Alimentos_Premium
+2026-08-02,Max,68,Alimentos_Premium
+2026-08-09,Max,62,Alimentos_Premium
+2026-08-16,Max,69,Alimentos_Premium
+2026-08-23,Max,67,Alimentos_Premium
+2026-08-30,Max,72,Alimentos_Premium
+2026-09-06,Max,100,Alimentos_Premium
+2026-09-13,Max,90,Alimentos_Premium
+2026-09-20,Max,82,Alimentos_Premium
+2026-09-27,Max,83,Alimentos_Premium
+2026-10-04,Max,81,Alimentos_Premium
+2025-10-05,Chunky,74,Alimentos_Masivos
+2025-10-12,Chunky,66,Alimentos_Masivos
+2025-10-19,Chunky,67,Alimentos_Masivos
+2025-10-26,Chunky,67,Alimentos_Masivos
+2025-11-02,Chunky,81,Alimentos_Masivos
+2025-11-09,Chunky,80,Alimentos_Masivos
+2025-11-16,Chunky,87,Alimentos_Masivos
+2025-11-23,Chunky,70,Alimentos_Masivos
+2025-11-30,Chunky,85,Alimentos_Masivos
+2025-12-07,Chunky,82,Alimentos_Masivos
+2025-12-14,Chunky,96,Alimentos_Masivos
+2025-12-21,Chunky,79,Alimentos_Masivos
+2025-12-28,Chunky,91,Alimentos_Masivos
+2026-01-04,Chunky,100,Alimentos_Masivos
+2026-01-11,Chunky,93,Alimentos_Masivos
+2026-01-18,Chunky,92,Alimentos_Masivos
+2026-01-25,Chunky,76,Alimentos_Masivos
+2026-02-01,Chunky,70,Alimentos_Masivos
+2026-02-08,Chunky,79,Alimentos_Masivos
+2026-02-15,Chunky,74,Alimentos_Masivos
+2026-02-22,Chunky,83,Alimentos_Masivos
+2026-03-01,Chunky,79,Alimentos_Masivos
+2026-03-08,Chunky,67,Alimentos_Masivos
+2026-03-15,Chunky,72,Alimentos_Masivos
+2026-03-22,Chunky,68,Alimentos_Masivos
+2026-03-29,Chunky,100,Alimentos_Masivos
+2026-04-05,Chunky,80,Alimentos_Masivos
+2026-04-12,Chunky,79,Alimentos_Masivos
+2026-04-19,Chunky,74,Alimentos_Masivos
+2026-04-26,Chunky,76,Alimentos_Masivos
+2026-05-03,Chunky,87,Alimentos_Masivos
+2026-05-10,Chunky,79,Alimentos_Masivos
+2026-05-17,Chunky,80,Alimentos_Masivos
+2026-05-24,Chunky,83,Alimentos_Masivos
+2026-05-31,Chunky,85,Alimentos_Masivos
+2026-06-07,Chunky,81,Alimentos_Masivos
+2026-06-14,Chunky,73,Alimentos_Masivos
+2026-06-21,Chunky,81,Alimentos_Masivos
+2026-06-28,Chunky,86,Alimentos_Masivos
+2026-07-05,Chunky,76,Alimentos_Masivos
+2026-07-12,Chunky,89,Alimentos_Masivos
+2026-07-19,Chunky,82,Alimentos_Masivos
+2026-07-26,Chunky,86,Alimentos_Masivos
+2026-08-02,Chunky,75,Alimentos_Masivos
+2026-08-09,Chunky,80,Alimentos_Masivos
+2026-08-16,Chunky,88,Alimentos_Masivos
+2026-08-23,Chunky,79,Alimentos_Masivos
+2026-08-30,Chunky,91,Alimentos_Masivos
+2026-09-06,Chunky,69,Alimentos_Masivos
+2026-09-13,Chunky,97,Alimentos_Masivos
+2026-09-20,Chunky,65,Alimentos_Masivos
+2026-09-27,Chunky,82,Alimentos_Masivos
+2026-10-04,Chunky,80,Alimentos_Masivos
+2025-10-05,Ringo,33,Alimentos_Masivos
+2025-10-12,Ringo,30,Alimentos_Masivos
+2025-10-19,Ringo,33,Alimentos_Masivos
+2025-10-26,Ringo,34,Alimentos_Masivos
+2025-11-02,Ringo,30,Alimentos_Masivos
+2025-11-09,Ringo,32,Alimentos_Masivos
+2025-11-16,Ringo,45,Alimentos_Masivos
+2025-11-23,Ringo,34,Alimentos_Masivos
+2025-11-30,Ringo,38,Alimentos_Masivos
+2025-12-07,Ringo,34,Alimentos_Masivos
+2025-12-14,Ringo,36,Alimentos_Masivos
+2025-12-21,Ringo,42,Alimentos_Masivos
+2025-12-28,Ringo,45,Alimentos_Masivos
+2026-01-04,Ringo,46,Alimentos_Masivos
+2026-01-11,Ringo,37,Alimentos_Masivos
+2026-01-18,Ringo,39,Alimentos_Masivos
+2026-01-25,Ringo,38,Alimentos_Masivos
+2026-02-01,Ringo,38,Alimentos_Masivos
+2026-02-08,Ringo,28,Alimentos_Masivos
+2026-02-15,Ringo,37,Alimentos_Masivos
+2026-02-22,Ringo,30,Alimentos_Masivos
+2026-03-01,Ringo,36,Alimentos_Masivos
+2026-03-08,Ringo,30,Alimentos_Masivos
+2026-03-15,Ringo,37,Alimentos_Masivos
+2026-03-22,Ringo,42,Alimentos_Masivos
+2026-03-29,Ringo,43,Alimentos_Masivos
+2026-04-05,Ringo,32,Alimentos_Masivos
+2026-04-12,Ringo,37,Alimentos_Masivos
+2026-04-19,Ringo,40,Alimentos_Masivos
+2026-04-26,Ringo,36,Alimentos_Masivos
+2026-05-03,Ringo,37,Alimentos_Masivos
+2026-05-10,Ringo,36,Alimentos_Masivos
+2026-05-17,Ringo,35,Alimentos_Masivos
+2026-05-24,Ringo,30,Alimentos_Masivos
+2026-05-31,Ringo,28,Alimentos_Masivos
+2026-06-07,Ringo,34,Alimentos_Masivos
+2026-06-14,Ringo,33,Alimentos_Masivos
+2026-06-21,Ringo,34,Alimentos_Masivos
+2026-06-28,Ringo,34,Alimentos_Masivos
+2026-07-05,Ringo,37,Alimentos_Masivos
+2026-07-12,Ringo,30,Alimentos_Masivos
+2026-07-19,Ringo,43,Alimentos_Masivos
+2026-07-26,Ringo,32,Alimentos_Masivos
+2026-08-02,Ringo,30,Alimentos_Masivos
+2026-08-09,Ringo,41,Alimentos_Masivos
+2026-08-16,Ringo,42,Alimentos_Masivos
+2026-08-23,Ringo,37,Alimentos_Masivos
+2026-08-30,Ringo,44,Alimentos_Masivos
+2026-09-06,Ringo,31,Alimentos_Masivos
+2026-09-13,Ringo,41,Alimentos_Masivos
+2026-09-20,Ringo,32,Alimentos_Masivos
+2026-09-27,Ringo,39,Alimentos_Masivos
+2026-10-04,Ringo,37,Alimentos_Masivos
+2025-10-05,Dog Chow,29,Alimentos_Masivos
+2025-10-12,Dog Chow,24,Alimentos_Masivos
+2025-10-19,Dog Chow,21,Alimentos_Masivos
+2025-10-26,Dog Chow,23,Alimentos_Masivos
+2025-11-02,Dog Chow,24,Alimentos_Masivos
+2025-11-09,Dog Chow,31,Alimentos_Masivos
+2025-11-16,Dog Chow,27,Alimentos_Masivos
+2025-11-23,Dog Chow,34,Alimentos_Masivos
+2025-11-30,Dog Chow,29,Alimentos_Masivos
+2025-12-07,Dog Chow,36,Alimentos_Masivos
+2025-12-14,Dog Chow,30,Alimentos_Masivos
+2025-12-21,Dog Chow,24,Alimentos_Masivos
+2025-12-28,Dog Chow,37,Alimentos_Masivos
+2026-01-04,Dog Chow,33,Alimentos_Masivos
+2026-01-11,Dog Chow,29,Alimentos_Masivos
+2026-01-18,Dog Chow,32,Alimentos_Masivos
+2026-01-25,Dog Chow,26,Alimentos_Masivos
+2026-02-01,Dog Chow,29,Alimentos_Masivos
+2026-02-08,Dog Chow,26,Alimentos_Masivos
+2026-02-15,Dog Chow,31,Alimentos_Masivos
+2026-02-22,Dog Chow,28,Alimentos_Masivos
+2026-03-01,Dog Chow,21,Alimentos_Masivos
+2026-03-08,Dog Chow,23,Alimentos_Masivos
+2026-03-15,Dog Chow,34,Alimentos_Masivos
+2026-03-22,Dog Chow,33,Alimentos_Masivos
+2026-03-29,Dog Chow,27,Alimentos_Masivos
+2026-04-05,Dog Chow,36,Alimentos_Masivos
+2026-04-12,Dog Chow,22,Alimentos_Masivos
+2026-04-19,Dog Chow,24,Alimentos_Masivos
+2026-04-26,Dog Chow,30,Alimentos_Masivos
+2026-05-03,Dog Chow,29,Alimentos_Masivos
+2026-05-10,Dog Chow,23,Alimentos_Masivos
+2026-05-17,Dog Chow,24,Alimentos_Masivos
+2026-05-24,Dog Chow,24,Alimentos_Masivos
+2026-05-31,Dog Chow,34,Alimentos_Masivos
+2026-06-07,Dog Chow,28,Alimentos_Masivos
+2026-06-14,Dog Chow,25,Alimentos_Masivos
+2026-06-21,Dog Chow,22,Alimentos_Masivos
+2026-06-28,Dog Chow,25,Alimentos_Masivos
+2026-07-05,Dog Chow,32,Alimentos_Masivos
+2026-07-12,Dog Chow,30,Alimentos_Masivos
+2026-07-19,Dog Chow,28,Alimentos_Masivos
+2026-07-26,Dog Chow,25,Alimentos_Masivos
+2026-08-02,Dog Chow,28,Alimentos_Masivos
+2026-08-09,Dog Chow,31,Alimentos_Masivos
+2026-08-16,Dog Chow,31,Alimentos_Masivos
+2026-08-23,Dog Chow,22,Alimentos_Masivos
+2026-08-30,Dog Chow,19,Alimentos_Masivos
+2026-09-06,Dog Chow,27,Alimentos_Masivos
+2026-09-13,Dog Chow,25,Alimentos_Masivos
+2026-09-20,Dog Chow,22,Alimentos_Masivos
+2026-09-27,Dog Chow,28,Alimentos_Masivos
+2026-10-04,Dog Chow,25,Alimentos_Masivos
+2025-10-05,Guaumor,0,Alimentos_Masivos
+2025-10-12,Guaumor,0,Alimentos_Masivos
+2025-10-19,Guaumor,0,Alimentos_Masivos
+2025-10-26,Guaumor,0,Alimentos_Masivos
+2025-11-02,Guaumor,0,Alimentos_Masivos
+2025-11-09,Guaumor,0,Alimentos_Masivos
+2025-11-16,Guaumor,0,Alimentos_Masivos
+2025-11-23,Guaumor,0,Alimentos_Masivos
+2025-11-30,Guaumor,0,Alimentos_Masivos
+2025-12-07,Guaumor,0,Alimentos_Masivos
+2025-12-14,Guaumor,0,Alimentos_Masivos
+2025-12-21,Guaumor,0,Alimentos_Masivos
+2025-12-28,Guaumor,0,Alimentos_Masivos
+2026-01-04,Guaumor,0,Alimentos_Masivos
+2026-01-11,Guaumor,0,Alimentos_Masivos
+2026-01-18,Guaumor,0,Alimentos_Masivos
+2026-01-25,Guaumor,6,Alimentos_Masivos
+2026-02-01,Guaumor,0,Alimentos_Masivos
+2026-02-08,Guaumor,0,Alimentos_Masivos
+2026-02-15,Guaumor,0,Alimentos_Masivos
+2026-02-22,Guaumor,0,Alimentos_Masivos
+2026-03-01,Guaumor,0,Alimentos_Masivos
+2026-03-08,Guaumor,0,Alimentos_Masivos
+2026-03-15,Guaumor,0,Alimentos_Masivos
+2026-03-22,Guaumor,0,Alimentos_Masivos
+2026-03-29,Guaumor,0,Alimentos_Masivos
+2026-04-05,Guaumor,0,Alimentos_Masivos
+2026-04-12,Guaumor,0,Alimentos_Masivos
+2026-04-19,Guaumor,0,Alimentos_Masivos
+2026-04-26,Guaumor,0,Alimentos_Masivos
+2026-05-03,Guaumor,0,Alimentos_Masivos
+2026-05-10,Guaumor,0,Alimentos_Masivos
+2026-05-17,Guaumor,0,Alimentos_Masivos
+2026-05-24,Guaumor,0,Alimentos_Masivos
+2026-05-31,Guaumor,0,Alimentos_Masivos
+2026-06-07,Guaumor,0,Alimentos_Masivos
+2026-06-14,Guaumor,0,Alimentos_Masivos
+2026-06-21,Guaumor,0,Alimentos_Masivos
+2026-06-28,Guaumor,7,Alimentos_Masivos
+2026-07-05,Guaumor,0,Alimentos_Masivos
+2026-07-12,Guaumor,0,Alimentos_Masivos
+2026-07-19,Guaumor,0,Alimentos_Masivos
+2026-07-26,Guaumor,0,Alimentos_Masivos
+2026-08-02,Guaumor,0,Alimentos_Masivos
+2026-08-09,Guaumor,0,Alimentos_Masivos
+2026-08-16,Guaumor,0,Alimentos_Masivos
+2026-08-23,Guaumor,0,Alimentos_Masivos
+2026-08-30,Guaumor,0,Alimentos_Masivos
+2026-09-06,Guaumor,0,Alimentos_Masivos
+2026-09-13,Guaumor,0,Alimentos_Masivos
+2026-09-20,Guaumor,0,Alimentos_Masivos
+2026-09-27,Guaumor,1,Alimentos_Masivos
+2026-10-04,Guaumor,0,Alimentos_Masivos
+2025-10-05,Holliday,89,Farmacia_Suplementos
+2025-10-12,Holliday,55,Farmacia_Suplementos
+2025-10-19,Holliday,79,Farmacia_Suplementos
+2025-10-26,Holliday,46,Farmacia_Suplementos
+2025-11-02,Holliday,68,Farmacia_Suplementos
+2025-11-09,Holliday,65,Farmacia_Suplementos
+2025-11-16,Holliday,77,Farmacia_Suplementos
+2025-11-23,Holliday,73,Farmacia_Suplementos
+2025-11-30,Holliday,84,Farmacia_Suplementos
+2025-12-07,Holliday,51,Farmacia_Suplementos
+2025-12-14,Holliday,60,Farmacia_Suplementos
+2025-12-21,Holliday,46,Farmacia_Suplementos
+2025-12-28,Holliday,64,Farmacia_Suplementos
+2026-01-04,Holliday,65,Farmacia_Suplementos
+2026-01-11,Holliday,50,Farmacia_Suplementos
+2026-01-18,Holliday,43,Farmacia_Suplementos
+2026-01-25,Holliday,52,Farmacia_Suplementos
+2026-02-01,Holliday,42,Farmacia_Suplementos
+2026-02-08,Holliday,46,Farmacia_Suplementos
+2026-02-15,Holliday,61,Farmacia_Suplementos
+2026-02-22,Holliday,61,Farmacia_Suplementos
+2026-03-01,Holliday,70,Farmacia_Suplementos
+2026-03-08,Holliday,43,Farmacia_Suplementos
+2026-03-15,Holliday,73,Farmacia_Suplementos
+2026-03-22,Holliday,67,Farmacia_Suplementos
+2026-03-29,Holliday,74,Farmacia_Suplementos
+2026-04-05,Holliday,78,Farmacia_Suplementos
+2026-04-12,Holliday,93,Farmacia_Suplementos
+2026-04-19,Holliday,69,Farmacia_Suplementos
+2026-04-26,Holliday,58,Farmacia_Suplementos
+2026-05-03,Holliday,77,Farmacia_Suplementos
+2026-05-10,Holliday,59,Farmacia_Suplementos
+2026-05-17,Holliday,70,Farmacia_Suplementos
+2026-05-24,Holliday,54,Farmacia_Suplementos
+2026-05-31,Holliday,49,Farmacia_Suplementos
+2026-06-07,Holliday,71,Farmacia_Suplementos
+2026-06-14,Holliday,85,Farmacia_Suplementos
+2026-06-21,Holliday,59,Farmacia_Suplementos
+2026-06-28,Holliday,60,Farmacia_Suplementos
+2026-07-05,Holliday,44,Farmacia_Suplementos
+2026-07-12,Holliday,85,Farmacia_Suplementos
+2026-07-19,Holliday,99,Farmacia_Suplementos
+2026-07-26,Holliday,66,Farmacia_Suplementos
+2026-08-02,Holliday,75,Farmacia_Suplementos
+2026-08-09,Holliday,78,Farmacia_Suplementos
+2026-08-16,Holliday,68,Farmacia_Suplementos
+2026-08-23,Holliday,80,Farmacia_Suplementos
+2026-08-30,Holliday,100,Farmacia_Suplementos
+2026-09-06,Holliday,73,Farmacia_Suplementos
+2026-09-13,Holliday,50,Farmacia_Suplementos
+2026-09-20,Holliday,39,Farmacia_Suplementos
+2026-09-27,Holliday,51,Farmacia_Suplementos
+2026-10-04,Holliday,61,Farmacia_Suplementos
+2025-10-05,Vetnil,0,Farmacia_Suplementos
+2025-10-12,Vetnil,0,Farmacia_Suplementos
+2025-10-19,Vetnil,0,Farmacia_Suplementos
+2025-10-26,Vetnil,0,Farmacia_Suplementos
+2025-11-02,Vetnil,0,Farmacia_Suplementos
+2025-11-09,Vetnil,0,Farmacia_Suplementos
+2025-11-16,Vetnil,0,Farmacia_Suplementos
+2025-11-23,Vetnil,0,Farmacia_Suplementos
+2025-11-30,Vetnil,0,Farmacia_Suplementos
+2025-12-07,Vetnil,0,Farmacia_Suplementos
+2025-12-14,Vetnil,0,Farmacia_Suplementos
+2025-12-21,Vetnil,0,Farmacia_Suplementos
+2025-12-28,Vetnil,0,Farmacia_Suplementos
+2026-01-04,Vetnil,0,Farmacia_Suplementos
+2026-01-11,Vetnil,0,Farmacia_Suplementos
+2026-01-18,Vetnil,0,Farmacia_Suplementos
+2026-01-25,Vetnil,0,Farmacia_Suplementos
+2026-02-01,Vetnil,0,Farmacia_Suplementos
+2026-02-08,Vetnil,0,Farmacia_Suplementos
+2026-02-15,Vetnil,0,Farmacia_Suplementos
+2026-02-22,Vetnil,0,Farmacia_Suplementos
+2026-03-01,Vetnil,0,Farmacia_Suplementos
+2026-03-08,Vetnil,0,Farmacia_Suplementos
+2026-03-15,Vetnil,0,Farmacia_Suplementos
+2026-03-22,Vetnil,0,Farmacia_Suplementos
+2026-03-29,Vetnil,0,Farmacia_Suplementos
+2026-04-05,Vetnil,0,Farmacia_Suplementos
+2026-04-12,Vetnil,0,Farmacia_Suplementos
+2026-04-19,Vetnil,0,Farmacia_Suplementos
+2026-04-26,Vetnil,0,Farmacia_Suplementos
+2026-05-03,Vetnil,0,Farmacia_Suplementos
+2026-05-10,Vetnil,0,Farmacia_Suplementos
+2026-05-17,Vetnil,0,Farmacia_Suplementos
+2026-05-24,Vetnil,0,Farmacia_Suplementos
+2026-05-31,Vetnil,0,Farmacia_Suplementos
+2026-06-07,Vetnil,0,Farmacia_Suplementos
+2026-06-14,Vetnil,0,Farmacia_Suplementos
+2026-06-21,Vetnil,0,Farmacia_Suplementos
+2026-06-28,Vetnil,0,Farmacia_Suplementos
+2026-07-05,Vetnil,0,Farmacia_Suplementos
+2026-07-12,Vetnil,0,Farmacia_Suplementos
+2026-07-19,Vetnil,0,Farmacia_Suplementos
+2026-07-26,Vetnil,0,Farmacia_Suplementos
+2026-08-02,Vetnil,0,Farmacia_Suplementos
+2026-08-09,Vetnil,0,Farmacia_Suplementos
+2026-08-16,Vetnil,0,Farmacia_Suplementos
+2026-08-23,Vetnil,0,Farmacia_Suplementos
+2026-08-30,Vetnil,0,Farmacia_Suplementos
+2026-09-06,Vetnil,0,Farmacia_Suplementos
+2026-09-13,Vetnil,0,Farmacia_Suplementos
+2026-09-20,Vetnil,5,Farmacia_Suplementos
+2026-09-27,Vetnil,7,Farmacia_Suplementos
+2026-10-04,Vetnil,5,Farmacia_Suplementos
+2025-10-05,Adaptil,0,Farmacia_Suplementos
+2025-10-12,Adaptil,0,Farmacia_Suplementos
+2025-10-19,Adaptil,0,Farmacia_Suplementos
+2025-10-26,Adaptil,0,Farmacia_Suplementos
+2025-11-02,Adaptil,0,Farmacia_Suplementos
+2025-11-09,Adaptil,0,Farmacia_Suplementos
+2025-11-16,Adaptil,39,Farmacia_Suplementos
+2025-11-23,Adaptil,0,Farmacia_Suplementos
+2025-11-30,Adaptil,52,Farmacia_Suplementos
+2025-12-07,Adaptil,58,Farmacia_Suplementos
+2025-12-14,Adaptil,0,Farmacia_Suplementos
+2025-12-21,Adaptil,0,Farmacia_Suplementos
+2025-12-28,Adaptil,0,Farmacia_Suplementos
+2026-01-04,Adaptil,0,Farmacia_Suplementos
+2026-01-11,Adaptil,0,Farmacia_Suplementos
+2026-01-18,Adaptil,0,Farmacia_Suplementos
+2026-01-25,Adaptil,0,Farmacia_Suplementos
+2026-02-01,Adaptil,0,Farmacia_Suplementos
+2026-02-08,Adaptil,0,Farmacia_Suplementos
+2026-02-15,Adaptil,0,Farmacia_Suplementos
+2026-02-22,Adaptil,0,Farmacia_Suplementos
+2026-03-01,Adaptil,0,Farmacia_Suplementos
+2026-03-08,Adaptil,0,Farmacia_Suplementos
+2026-03-15,Adaptil,0,Farmacia_Suplementos
+2026-03-22,Adaptil,0,Farmacia_Suplementos
+2026-03-29,Adaptil,0,Farmacia_Suplementos
+2026-04-05,Adaptil,0,Farmacia_Suplementos
+2026-04-12,Adaptil,0,Farmacia_Suplementos
+2026-04-19,Adaptil,0,Farmacia_Suplementos
+2026-04-26,Adaptil,0,Farmacia_Suplementos
+2026-05-03,Adaptil,0,Farmacia_Suplementos
+2026-05-10,Adaptil,0,Farmacia_Suplementos
+2026-05-17,Adaptil,0,Farmacia_Suplementos
+2026-05-24,Adaptil,0,Farmacia_Suplementos
+2026-05-31,Adaptil,0,Farmacia_Suplementos
+2026-06-07,Adaptil,0,Farmacia_Suplementos
+2026-06-14,Adaptil,0,Farmacia_Suplementos
+2026-06-21,Adaptil,0,Farmacia_Suplementos
+2026-06-28,Adaptil,0,Farmacia_Suplementos
+2026-07-05,Adaptil,0,Farmacia_Suplementos
+2026-07-12,Adaptil,0,Farmacia_Suplementos
+2026-07-19,Adaptil,0,Farmacia_Suplementos
+2026-07-26,Adaptil,0,Farmacia_Suplementos
+2026-08-02,Adaptil,0,Farmacia_Suplementos
+2026-08-09,Adaptil,0,Farmacia_Suplementos
+2026-08-16,Adaptil,0,Farmacia_Suplementos
+2026-08-23,Adaptil,0,Farmacia_Suplementos
+2026-08-30,Adaptil,0,Farmacia_Suplementos
+2026-09-06,Adaptil,0,Farmacia_Suplementos
+2026-09-13,Adaptil,0,Farmacia_Suplementos
+2026-09-20,Adaptil,5,Farmacia_Suplementos
+2026-09-27,Adaptil,9,Farmacia_Suplementos
+2026-10-04,Adaptil,5,Farmacia_Suplementos
