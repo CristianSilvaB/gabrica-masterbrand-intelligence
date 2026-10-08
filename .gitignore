@@ -3,3 +3,7 @@ __pycache__/
 *.py[cod]
 data/raw/*
 !data/raw/.gitkeep
+.env
+ml_state.json
+ml_states.json
+.env
