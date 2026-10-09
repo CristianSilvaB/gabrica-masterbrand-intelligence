@@ -12,9 +12,9 @@ Esta carpeta contiene todos los motores de recolección y procesamiento.
 2. **`02_real_gondola.py`**: Un web scraper configurado con `cloudscraper` y `BeautifulSoup` que audita el portafolio en e-commerce de las marcas objetivo, extrayendo productos y precios publicados.
 3. **`03_clean_flourish.py`**: Un script de limpieza con `Polars` que toma los datos crudos del scraper de góndola (02) y formatea los precios convirtiéndolos de cadenas de texto (ej. `"$45.228"`) a números enteros puros, dejándolos listos para importar a herramientas de visualización como Flourish.
 4. **`04_tendencias_categoria.py`**: Similar al script 01, pero enfocado en las *macro-tendencias* del mercado en los últimos 5 años (analiza términos clave como "comida para perros", "dieta barf", "pet shop").
-5. **`05_reviews_oficiales.py`**: Conecta con la **YouTube Data API v3** oficial para buscar videos sobre las marcas principales y extraer de manera limpia y legal los comentarios y opiniones públicas de los usuarios.
+5. **`05_reviews_oficiales.py`**: Conecta con la **YouTube Data API v3** oficial para ejecutar una **extracción profunda y masiva**. Utiliza múltiples consultas y paginación para descargar decenas de miles de opiniones reales sobre 7 marcas objetivo (incluyendo Laika, Gabrica y Agrocampo).
 6. **`06_reviews_ecommerce.py`**: Un pipeline asíncrono construido con **Playwright**. Navega por Mercado Libre, Laika y Amazon buscando extraer comentarios de compradores. Incluye tácticas avanzadas como inyección de cookies (`ml_state.json`) para evadir muros de login, pausas aleatorias y modo de depuración forense mediante pantallazos.
-7. **`08_analisis_cuantitativo.py`**: El motor de Inteligencia Artificial (NLP). Toma las reseñas en texto, descarga un modelo pre-entrenado (RoBERTa vía `pysentimiento`), e infiere en bloque (batch) la probabilidad matemática de que cada comentario sea Positivo, Negativo o Neutral.
+7. **`08_analisis_cuantitativo.py`**: El motor de Inteligencia Artificial (NLP). Descarga un modelo pre-entrenado (RoBERTa vía `pysentimiento`) e infiere en bloque usando **aceleración por tarjeta gráfica (GPU)** para procesar y clasificar masivamente casi 100,000 comentarios como positivo, negativo o neutral en cuestión de minutos.
 
 ---
 
@@ -26,8 +26,8 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 - 🛒 **`02_real_portafolio_masivo.csv`**: La base de datos cruda de productos encontrados en el e-commerce (nombres de producto, marca, precio en texto).
 - ✨ **`03_flourish_ready_precios.csv`**: La versión ultra-limpia del archivo 02. Ideal para hacer gráficas de dispersión de precios o promedios en Flourish, PowerBI o Tableau.
 - 📉 **`04_tendencias_categoria_5años.csv`**: Base de datos histórica con el comportamiento de términos genéricos de la industria de mascotas en Colombia.
-- 🗣️ **`05_reviews_oficiales.csv`**: Un dataset puramente textual. Contiene las columnas `fuente`, `objetivo` (marca) y `texto_opinion` obtenidas de redes oficiales (YouTube).
-- 🧠 **`08_reviews_cuantitativo.csv`**: El dataset definitivo de percepción. Es el mismo archivo 05, pero enriquecido con 4 nuevas columnas de Inteligencia Artificial: `sentimiento` (etiqueta final), `prob_positivo`, `prob_negativo` y `prob_neutral` (puntajes del 0 al 1).
+- 🗣️ **`05_reviews_oficiales.csv`**: Un dataset puramente textual masivo (más de 93,000 filas). Contiene las columnas `fuente`, `objetivo` (marca) y `texto_opinion` extraídas tras la búsqueda profunda en YouTube.
+- 🧠 **`08_reviews_cuantitativo.csv`**: El dataset definitivo de percepción. Es el mismo archivo masivo 05, pero enriquecido con 4 nuevas columnas calculadas por la IA: `sentimiento` (etiquetas claras: positivo, negativo, neutral), `prob_positivo`, `prob_negativo` y `prob_neutral`.
 
 ---
 
