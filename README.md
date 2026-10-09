@@ -34,3 +34,4 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 ## 🔒 Seguridad (Git Ignore)
 
 Todos los entornos virtuales (`.venv`), cachés (`__pycache__`), llaves de API (`.env`), pantallazos de depuración (`*.png`) y archivos de cookies (`ml_state.json`) están ignorados intencionalmente en este repositorio para evitar fugas de credenciales de seguridad.
+- 📊 **`10_flourish_financiero.csv`**: Transformación del dataset 09 optimizada para Flourish. Incluye ventas pivoteadas por año (2022-2025) y métricas precalculadas de participación de mercado y crecimiento interanual.
