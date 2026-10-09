@@ -11,7 +11,6 @@ Este documento establece la procedencia exacta y los métodos tecnológicos util
 | **03** | **Procesamiento Interno**| Limpieza Vectorizada (`polars`) | **Estandarización Financiera:** Sanitización de precios (conversión de string a integrales) lista para visualización. | `03_flourish_ready_precios.csv` |
 | **04** | **Google Trends (CO)** | API Oficial (`pytrends`) | **Macro-Tendencias (5 años):** Evolución histórica del interés en categorías clave ("dieta barf", "pet shop", "veterinaria"). | `04_tendencias_categoria_5años.csv` |
 | **05** | **YouTube Data API v3**| API Oficial (Búsqueda Profunda) | **Social Listening (Cualitativo):** Recolección masiva y paginada de miles de opiniones reales de usuarios sobre 7 marcas. | `05_reviews_oficiales.csv` |
-| **06** | **Amazon, Mercado Libre, Laika**| Scraping Headless Asíncrono (`Playwright`) | **Reviews Directas de E-commerce:** Sistema de recolección de reseñas de compradores con inyección de sesión y manejo de bloqueos. | `07_reviews_ecommerce.csv` |
 | **08** | **Modelo NLP (RoBERTa)**| Inferencia IA Acelerada (GPU/CUDA) | **Análisis de Sentimiento (Cuantitativo):** Asignación estadística ultra-rápida (en lotes) de polaridad a más de 93k reseñas. | `08_reviews_cuantitativo.csv` |
 
 ## 🛠️ Notas Metodológicas y de Seguridad Técnica
@@ -19,5 +18,4 @@ Este documento establece la procedencia exacta y los métodos tecnológicos util
 1. **Veracidad Geográfica:** Todos los scripts de Google Trends están anclados al territorio colombiano (`hl='es-CO'`, `tz=300`), lo que significa que el ruido de búsquedas de otros países de habla hispana está estrictamente filtrado.
 2. **Defensas Anti-Bot y Scraping Ético:** 
    - El script **02** suplanta huellas de cliente con `cloudscraper` para evadir escudos básicos en las tiendas.
-   - El script **06** utiliza un entorno de emulación visual completo (*Playwright*) e **inyecta localmente las cookies de sesión del usuario** (`ml_state.json`) para navegar detrás de los "Muros de Login" implementados por sistemas de seguridad como PerimeterX (comunes en Mercado Libre), respetando límites físicos con pausas biomiméticas (tiempos aleatorios de carga).
 3. **Privacidad de Datos y Soporte GPU (NLP Local):** El análisis de sentimientos que califica las opiniones de los usuarios (script **08**) se ejecuta **100% de manera local**, utilizando aceleración por hardware de tu tarjeta gráfica (**GPU/CUDA**) para procesar masivamente grandes volúmenes de datos. No envía datos a servicios LLM externos de pago, garantizando absoluta privacidad y un entendimiento altísimo de la jerga y modismos latinos sin comprometer la propiedad del dataset.

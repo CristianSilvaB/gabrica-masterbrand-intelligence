@@ -13,7 +13,6 @@ Esta carpeta contiene todos los motores de recolección y procesamiento.
 3. **`03_clean_flourish.py`**: Un script de limpieza con `Polars` que toma los datos crudos del scraper de góndola (02) y formatea los precios convirtiéndolos de cadenas de texto (ej. `"$45.228"`) a números enteros puros, dejándolos listos para importar a herramientas de visualización como Flourish.
 4. **`04_tendencias_categoria.py`**: Similar al script 01, pero enfocado en las *macro-tendencias* del mercado en los últimos 5 años (analiza términos clave como "comida para perros", "dieta barf", "pet shop").
 5. **`05_reviews_oficiales.py`**: Conecta con la **YouTube Data API v3** oficial para ejecutar una **extracción profunda y masiva**. Utiliza múltiples consultas y paginación para descargar decenas de miles de opiniones reales sobre 7 marcas objetivo (incluyendo Laika, Gabrica y Agrocampo).
-6. **`06_reviews_ecommerce.py`**: Un pipeline asíncrono construido con **Playwright**. Navega por Mercado Libre, Laika y Amazon buscando extraer comentarios de compradores. Incluye tácticas avanzadas como inyección de cookies (`ml_state.json`) para evadir muros de login, pausas aleatorias y modo de depuración forense mediante pantallazos.
 7. **`08_analisis_cuantitativo.py`**: El motor de Inteligencia Artificial (NLP). Descarga un modelo pre-entrenado (RoBERTa vía `pysentimiento`) e infiere en bloque usando **aceleración por tarjeta gráfica (GPU)** para procesar y clasificar masivamente casi 100,000 comentarios como positivo, negativo o neutral en cuestión de minutos.
 
 ---
