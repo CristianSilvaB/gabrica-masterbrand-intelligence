@@ -30,13 +30,20 @@ def main():
     # Este proceso descarga los pesos del modelo si es la primera vez que se ejecuta
     analyzer = create_analyzer(task="sentiment", lang="es")
 
-    logger.info(f"Evaluando el sentimiento de {len(textos)} reseñas en lote. Esto será rápido...")
+    logger.info(f"Evaluando el sentimiento de {len(textos)} reseñas en lote.")
+    logger.info("⚠️ ADVERTENCIA: Al ser una cantidad masiva de datos (93k+), este modelo de IA puede tomar más de 1 hora en completarse si usas CPU. ¡Ten paciencia, la barra de progreso te guiará!")
     
-    # Predecir en bloque
-    resultados = analyzer.predict(textos)
+    # Asegurar que no haya nulos y proteger la memoria
+    textos_limpios = [str(t) if t is not None else "" for t in textos]
+
+    # Predecir en bloque (pysentimiento gestiona la memoria en lotes internamente de forma automática)
+    resultados = analyzer.predict(textos_limpios)
     
-    # Extraer etiquetas y probabilidades detalladas
-    etiquetas = [res.output for res in resultados]
+    # Extraer etiquetas y mapearlas a palabras completas
+    mapa_sentimientos = {"POS": "positivo", "NEG": "negativo", "NEU": "neutral"}
+    etiquetas = [mapa_sentimientos.get(res.output, res.output) for res in resultados]
+    
+    # Extraer probabilidades detalladas
     prob_pos = [res.probas.get("POS", 0.0) for res in resultados]
     prob_neg = [res.probas.get("NEG", 0.0) for res in resultados]
     prob_neu = [res.probas.get("NEU", 0.0) for res in resultados]
