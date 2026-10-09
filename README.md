@@ -27,6 +27,7 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 - 📉 **`04_tendencias_categoria_5años.csv`**: Base de datos histórica con el comportamiento de términos genéricos de la industria de mascotas en Colombia.
 - 🗣️ **`05_reviews_oficiales.csv`**: Un dataset puramente textual masivo (más de 93,000 filas). Contiene las columnas `fuente`, `objetivo` (marca) y `texto_opinion` extraídas tras la búsqueda profunda en YouTube.
 - 🧠 **`08_reviews_cuantitativo.csv`**: El dataset definitivo de percepción. Es el mismo archivo masivo 05, pero enriquecido con 4 nuevas columnas calculadas por la IA: `sentimiento` (etiquetas claras: positivo, negativo, neutral), `prob_positivo`, `prob_negativo` y `prob_neutral`.
+- 🏢 **`09_siis_financiero_veterinarias.csv`**: Estado de resultados y métricas financieras clave de los laboratorios y marcas. Datos oficiales consolidados a partir del portal SIIS de la Superintendencia de Sociedades.
 
 ---
 
