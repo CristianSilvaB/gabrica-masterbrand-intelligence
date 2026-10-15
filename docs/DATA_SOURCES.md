@@ -19,7 +19,9 @@ Este documento establece la procedencia exacta y los métodos tecnológicos util
 | **13** | **Portal Oficial Gabrica**| Web Scraping (`httpx` + `bs4`) | **Taxonomía de Catálogo y Competidores:** Mapeo de 57 variantes de marcas oficiales de Gabrica, categorías, especies y contrapartes rivales. | `13_catalogo_marcas_gabrica.csv` |
 | **14** | **Minería de Texto Local**| Análisis Sintáctico (`polars` + regex)| **Motivaciones, Tensiones y Barreras:** Detección de patrones adversativos (*"Quiero X pero Y"*), disonancia veterinaria y barreras de precio. | `14_motivaciones_tensiones_barreras.csv` |
 | **15** | **Minería Semiocultural** | Clasificación de Ritos (`polars` + regex)| **Ritos, Hábitos y Mitos:** Mapeo de los 4 ritos de cuidado animal (Paseo, Baño, Comida, Salud), mitos de dietas BARF y oportunidades de conquista. | `15_mitos_ritos_oportunidades.csv` |
-| **16** | **Minería de Competencia**| Filtrado de Reseñas Críticas (`polars`) | **Verbatims de Dolor de la Competencia:** Base de más de 15,000 quejas en marcas rivales (Bravecto, Nexgard, Purina) con contra-argumentos de marketing. | `16_verbatims_dolores_competencia.csv` |
+| **16** | **Minería de Competencia**| Filtrado de Reseñas Críticas (`polars`) | **Verbatims de Dolor de la Competencia:** Base de más de 14,000 quejas en marcas rivales (Bravecto, Nexgard, Purina) con contra-argumentos de marketing. | `16_verbatims_dolores_competencia.csv` |
+| **18** | **DANE & Fenalco Colombia**| Modelado Demográfico (`polars`) | **Segmentación de Consumidores:** Matriz de 7 arquetipos de tutores divididos en Hogar Doméstico vs Finca/Equinos con gasto mensual y marcas afines. | `18_segmentacion_consumidores_colombia.csv` |
+| **19** | **YouTube Data API v3**| Extracción y Modelado ROI | **Ranking de Influencers & Embajadores:** Auditoría de vistas, engagement rate, costo estimado de patrocinio (COP) y Score de ROI publicitario. | `19_embajadores_influencers_metricas.csv` |
 
 ## 🛠️ Notas Metodológicas y de Seguridad Técnica
 

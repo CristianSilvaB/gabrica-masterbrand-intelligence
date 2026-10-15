@@ -20,7 +20,9 @@ Esta carpeta contiene todos los motores de recolección y procesamiento.
 10. **`13_catalogo_marcas_gabrica.py`**: Extractor web directo (costo $0) de la web oficial de Gabrica (`gabrica.co/.../catalogo-productos`). Mapea todas las submarcas oficiales (Hill's, Simparica, Hydra, etc.), categorías de producto, especies y construye la matriz de competidores directos en Colombia.
 11. **`14_mineria_tensiones_barreras.py`**: Motor de minería sintáctica y de negocio con `Polars` (costo $0). Extrae de las 93k opiniones los patrones de tensión (*"Quiero X pero Y"*, disonancia con veterinarios, lealtad en riesgo) y clasifica barreras de compra (precio, disponibilidad, rechazo, alergias) con oportunidades para Gabrica.
 12. **`15_mineria_ritos_mitos.py`**: Clasificador semiocultural (costo $0). Mapea los 4 ritos de cuidado animal (*Paseo, Baño/Aseo, Comida/Premios, Salud Mensual*), analiza mitos (*BARF vs. Concentrado Seco*) e identifica alertas de conquista cruzada (usuarios de marcas rivales que expresan necesidades insatisfechas).
-13. **`16_verbatims_dolores_competencia.py`**: Banco de argumentos comerciales de conquista (costo $0). Filtra las más de 15,000 opiniones negativas de marcas rivales (Bravecto, Nexgard, Purina, Laika, Agrocampo) y mapea las fallas del producto rival (*vómitos, no sirvió, vencido, olor feo*) con la solución exacta del portafolio de Gabrica.
+13. **`16_verbatims_dolores_competencia.py`**: Banco de argumentos comerciales de conquista (costo $0). Filtra las más de 14,000 opiniones negativas de marcas rivales (Bravecto, Nexgard, Purina, Laika, Agrocampo) y mapea las fallas del producto rival (*vómitos, no sirvió, vencido, olor feo*) con la solución exacta del portafolio de Gabrica.
+14. **`18_segmentacion_consumidores_colombia.py`**: Matriz de segmentación y arquetipos de consumidores en Colombia (DANE/Fenalco). Separa nítidamente el entorno **Doméstico / Hogar Urbano** del entorno **Finca / Rural / Equinos**, modelando estratos (1 al 6), gasto mensual promedio en COP y marcas afines de Gabrica.
+15. **`19_analisis_influencers_metricas.py`**: Motor de prospección y cálculo de ROI de influencers y embajadores mediante la **YouTube Data API v3**. Audita métricas de vistas recientes, Engagement Rate (ER %), costo estimado de patrocinio (COP) y Score de Éxito de Comunicación, clasificando en Macro, Mid, Micro y Nano-influencers en entornos Doméstico y Finca.
 
 ---
 
@@ -42,6 +44,8 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 - ⚡ **`14_motivaciones_tensiones_barreras.csv`**: Base de 1,716 tensiones sintácticas (*"Quiero X pero Y"*), barreras de precio/disponibilidad y motivaciones de bienestar con su correspondiente oportunidad estratégica para Gabrica.
 - 🏺 **`15_mitos_ritos_oportunidades.csv`**: Clasificación semiocultural de 5,194 observaciones sobre los 4 ritos de cuidado animal, debates de dietas BARF y 3,954 oportunidades de conquista de usuarios en marcas rivales.
 - ⚔️ **`16_verbatims_dolores_competencia.csv`**: Banco de 14,520 verbatims literales de fallas y quejas en marcas rivales (Bravecto, Nexgard, Purina, etc.) mapeados con la solución y contra-argumento de campaña de Gabrica.
+- 👥 **`18_segmentacion_consumidores_colombia.csv`**: Matriz de 7 segmentos de consumidores en Colombia (DANE) divididos en Doméstico/Hogar y Finca/Equinos con capacidad de gasto mensual y marcas afines de Gabrica.
+- 🌟 **`19_embajadores_influencers_metricas.csv`**: Ranking de creadores colombianos evaluados con YouTube API, métricas de engagement rate (ER %), costo estimado de patrocinio (COP) y Score de ROI.
 
 ---
 
