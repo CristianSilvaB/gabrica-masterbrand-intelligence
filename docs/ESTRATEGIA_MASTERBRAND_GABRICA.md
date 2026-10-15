@@ -114,7 +114,7 @@ Si tuviera que sintetizar toda esta visión en una sola frase de posicionamiento
 ## 8. Hoja de Ruta de Ejecución Inmediata
 
 1. **Mes 1 a 3 (Sello y Confianza):** Implementar el sello de garantía Gabrica con QR de verificación en los empaques de Simparica, Apoquel y Hill's. Lanzar campaña contra medicamentos falsificados.
-2. **Mes 4 a 6 (Captura de Prospectos):** Desplegar pauta táctica sobre los **40,925 prospectos desencantados de la competencia** (usuarios de Bravecto, Nexgard y Laika documentados en el dataset 16), ofreciendo la alternativa segura de Gabrica.
-3. **Mes 7 a 12 (Alianza B2B2C):** Lanzar el programa piloto del Club Gabrica con las 200 principales clínicas veterinarias de Bogotá, Medellín y Cali, y convocar a los **3,366 tutores embajadores orgánicos** detectados en el dataset 17 como embajadores de longevidad animal.
+2. **Mes 4 a 6 (Captura de Prospectos):** Desplegar pauta táctica sobre los **prospectos desencantados de la competencia** (usuarios insatisfechos de Bravecto, Nexgard y Laika documentados en el dataset 16 de dolores), ofreciendo la alternativa segura de Gabrica.
+3. **Mes 7 a 12 (Alianza B2B2C):** Lanzar el programa piloto del Club Gabrica con las 200 principales clínicas veterinarias de Bogotá, Medellín y Cali, y articular a los médicos veterinarios aliados como los principales embajadores de longevidad animal.
 
 Esta es la ruta probada por los datos para dejar de ser un mayorista invisible y convertir a Gabrica en la marca más respetada, querida y rentable del ecosistema de mascotas de Colombia.

@@ -21,7 +21,6 @@ Esta carpeta contiene todos los motores de recolección y procesamiento.
 11. **`14_mineria_tensiones_barreras.py`**: Motor de minería sintáctica y de negocio con `Polars` (costo $0). Extrae de las 93k opiniones los patrones de tensión (*"Quiero X pero Y"*, disonancia con veterinarios, lealtad en riesgo) y clasifica barreras de compra (precio, disponibilidad, rechazo, alergias) con oportunidades para Gabrica.
 12. **`15_mineria_ritos_mitos.py`**: Clasificador semiocultural (costo $0). Mapea los 4 ritos de cuidado animal (*Paseo, Baño/Aseo, Comida/Premios, Salud Mensual*), analiza mitos (*BARF vs. Concentrado Seco*) e identifica alertas de conquista cruzada (usuarios de marcas rivales que expresan necesidades insatisfechas).
 13. **`16_verbatims_dolores_competencia.py`**: Banco de argumentos comerciales de conquista (costo $0). Filtra las más de 15,000 opiniones negativas de marcas rivales (Bravecto, Nexgard, Purina, Laika, Agrocampo) y mapea las fallas del producto rival (*vómitos, no sirvió, vencido, olor feo*) con la solución exacta del portafolio de Gabrica.
-14. **`17_perfil_demografico_audiencias.py`**: Motor de perfilamiento demográfico y segmentación de audiencias (costo $0). Clasifica 72,000 perfiles en 5 segmentos estratégicos (*Prospectos de la competencia, Fugas de categoría, Embajadores potenciales, Rescatistas/Fundaciones*), detecta especies y geolocaliza menciones de ciudades en Colombia.
 
 ---
 
@@ -43,7 +42,6 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 - ⚡ **`14_motivaciones_tensiones_barreras.csv`**: Base de 1,727 tensiones sintácticas (*"Quiero X pero Y"*), barreras de precio/disponibilidad y motivaciones de bienestar con su correspondiente oportunidad estratégica para Gabrica.
 - 🏺 **`15_mitos_ritos_oportunidades.csv`**: Clasificación semiocultural de 5,222 observaciones sobre los 4 ritos de cuidado animal, debates de dietas BARF y 3,970 oportunidades de conquista de usuarios en marcas rivales.
 - ⚔️ **`16_verbatims_dolores_competencia.csv`**: Banco de 15,023 verbatims literales de fallas y quejas en marcas rivales (Bravecto, Nexgard, Purina, etc.) mapeados con la solución y contra-argumento de campaña de Gabrica.
-- 👥 **`17_perfil_demografico_audiencias.csv`**: Segmentación de 72,000 audiencias en prospectos de conversión, líderes de fundaciones de rescate, embajadores orgánicos y geolocalización en ciudades colombianas.
 
 ---
 

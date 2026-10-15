@@ -20,7 +20,6 @@ Este documento establece la procedencia exacta y los métodos tecnológicos util
 | **14** | **Minería de Texto Local**| Análisis Sintáctico (`polars` + regex)| **Motivaciones, Tensiones y Barreras:** Detección de patrones adversativos (*"Quiero X pero Y"*), disonancia veterinaria y barreras de precio. | `14_motivaciones_tensiones_barreras.csv` |
 | **15** | **Minería Semiocultural** | Clasificación de Ritos (`polars` + regex)| **Ritos, Hábitos y Mitos:** Mapeo de los 4 ritos de cuidado animal (Paseo, Baño, Comida, Salud), mitos de dietas BARF y oportunidades de conquista. | `15_mitos_ritos_oportunidades.csv` |
 | **16** | **Minería de Competencia**| Filtrado de Reseñas Críticas (`polars`) | **Verbatims de Dolor de la Competencia:** Base de más de 15,000 quejas en marcas rivales (Bravecto, Nexgard, Purina) con contra-argumentos de marketing. | `16_verbatims_dolores_competencia.csv` |
-| **17** | **Segmentación de Audiencia**| NER y Clasificación Heurística (`polars`)| **Perfil Demográfico y Leads:** Segmentación de 72,000 perfiles en prospectos de conversión, líderes de fundaciones, embajadores y ciudades de Colombia. | `17_perfil_demografico_audiencias.csv` |
 
 ## 🛠️ Notas Metodológicas y de Seguridad Técnica
 
