@@ -1,177 +1,1473 @@
 Cuentas,Fecha,Valor,Año,NIT,Marca
-Ingresos de actividades ordinarias,2023-12-31,117127989,2023,900490865,Simparica
-Costo de ventas,2023-12-31,87816339,2023,900490865,Simparica
-Ganancia bruta,2023-12-31,29311650,2023,900490865,Simparica
-Otros ingresos,2023-12-31,488970,2023,900490865,Simparica
-Gastos de ventas,2023-12-31,18876684,2023,900490865,Simparica
-Gastos de administración,2023-12-31,4103013,2023,900490865,Simparica
-Otros gastos,2023-12-31,334347,2023,900490865,Simparica
-Otras ganancias (pérdidas),2023-12-31,0,2023,900490865,Simparica
-Ganancia (pérdida) por actividades de operación,2023-12-31,6486576,2023,900490865,Simparica
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2023-12-31,0,2023,900490865,Simparica
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2023-12-31,0,2023,900490865,Simparica
-Ingresos financieros,2023-12-31,1681798,2023,900490865,Simparica
-Costos financieros,2023-12-31,3013722,2023,900490865,Simparica
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2023-12-31,0,2023,900490865,Simparica
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2023-12-31,0,2023,900490865,Simparica
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2023-12-31,0,2023,900490865,Simparica
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2023-12-31,0,2023,900490865,Simparica
-"Ganancia (pérdida), antes de impuestos",2023-12-31,5154652,2023,900490865,Simparica
-Ingreso (gasto) por impuestos,2023-12-31,2965300,2023,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones continuadas,2023-12-31,2189352,2023,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones discontinuadas,2023-12-31,0,2023,900490865,Simparica
-Ganancia (pérdida),2023-12-31,2189352,2023,900490865,Simparica
-Ingresos de actividades ordinarias,2022-12-31,98273699,2022,900490865,Simparica
-Costo de ventas,2022-12-31,70130703,2022,900490865,Simparica
-Ganancia bruta,2022-12-31,28142996,2022,900490865,Simparica
-Otros ingresos,2022-12-31,111366,2022,900490865,Simparica
-Gastos de ventas,2022-12-31,19905814,2022,900490865,Simparica
-Gastos de administración,2022-12-31,3073036,2022,900490865,Simparica
-Otros gastos,2022-12-31,272833,2022,900490865,Simparica
-Otras ganancias (pérdidas),2022-12-31,0,2022,900490865,Simparica
-Ganancia (pérdida) por actividades de operación,2022-12-31,5002679,2022,900490865,Simparica
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2022-12-31,0,2022,900490865,Simparica
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2022-12-31,0,2022,900490865,Simparica
-Ingresos financieros,2022-12-31,17485,2022,900490865,Simparica
-Costos financieros,2022-12-31,2071950,2022,900490865,Simparica
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2022-12-31,0,2022,900490865,Simparica
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2022-12-31,0,2022,900490865,Simparica
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2022-12-31,0,2022,900490865,Simparica
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2022-12-31,0,2022,900490865,Simparica
-"Ganancia (pérdida), antes de impuestos",2022-12-31,2948214,2022,900490865,Simparica
-Ingreso (gasto) por impuestos,2022-12-31,1694875,2022,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones continuadas,2022-12-31,1253339,2022,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones discontinuadas,2022-12-31,0,2022,900490865,Simparica
-Ganancia (pérdida),2022-12-31,1253339,2022,900490865,Simparica
-Ingresos de actividades ordinarias,2024-12-31,133492621,2024,900490865,Simparica
-Costo de ventas,2024-12-31,105054892,2024,900490865,Simparica
-Ganancia bruta,2024-12-31,28437729,2024,900490865,Simparica
-Otros ingresos,2024-12-31,334378,2024,900490865,Simparica
-Gastos de ventas,2024-12-31,20247267,2024,900490865,Simparica
-Gastos de administración,2024-12-31,5313133,2024,900490865,Simparica
-Otros gastos,2024-12-31,303199,2024,900490865,Simparica
-Otras ganancias (pérdidas),2024-12-31,0,2024,900490865,Simparica
-Ganancia (pérdida) por actividades de operación,2024-12-31,2908508,2024,900490865,Simparica
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2024-12-31,0,2024,900490865,Simparica
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2024-12-31,0,2024,900490865,Simparica
-Ingresos financieros,2024-12-31,0,2024,900490865,Simparica
-Costos financieros,2024-12-31,1809985,2024,900490865,Simparica
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2024-12-31,0,2024,900490865,Simparica
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2024-12-31,0,2024,900490865,Simparica
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2024-12-31,0,2024,900490865,Simparica
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2024-12-31,0,2024,900490865,Simparica
-"Ganancia (pérdida), antes de impuestos",2024-12-31,1098523,2024,900490865,Simparica
-Ingreso (gasto) por impuestos,2024-12-31,376533,2024,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones continuadas,2024-12-31,721990,2024,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones discontinuadas,2024-12-31,0,2024,900490865,Simparica
-Ganancia (pérdida),2024-12-31,721990,2024,900490865,Simparica
-Ingresos de actividades ordinarias,2025-12-31,153316732,2025,900490865,Simparica
-Costo de ventas,2025-12-31,118807545,2025,900490865,Simparica
-Ganancia bruta,2025-12-31,34509187,2025,900490865,Simparica
-Otros ingresos,2025-12-31,35319,2025,900490865,Simparica
-Gastos de ventas,2025-12-31,21720710,2025,900490865,Simparica
-Gastos de administración,2025-12-31,5609178,2025,900490865,Simparica
-Otros gastos,2025-12-31,183819,2025,900490865,Simparica
-Otras ganancias (pérdidas),2025-12-31,0,2025,900490865,Simparica
-Ganancia (pérdida) por actividades de operación,2025-12-31,7030799,2025,900490865,Simparica
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2025-12-31,0,2025,900490865,Simparica
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2025-12-31,0,2025,900490865,Simparica
-Ingresos financieros,2025-12-31,0,2025,900490865,Simparica
-Costos financieros,2025-12-31,2468893,2025,900490865,Simparica
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2025-12-31,0,2025,900490865,Simparica
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2025-12-31,0,2025,900490865,Simparica
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2025-12-31,0,2025,900490865,Simparica
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2025-12-31,0,2025,900490865,Simparica
-"Ganancia (pérdida), antes de impuestos",2025-12-31,4561906,2025,900490865,Simparica
-Ingreso (gasto) por impuestos,2025-12-31,1865971,2025,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones continuadas,2025-12-31,2695935,2025,900490865,Simparica
-Ganancia (pérdida) procedente de operaciones discontinuadas,2025-12-31,0,2025,900490865,Simparica
-Ganancia (pérdida),2025-12-31,2695935,2025,900490865,Simparica
-Ingresos de actividades ordinarias,2023-12-31,1025240366,2023,860000753,NexGard y Frontline
-Costo de ventas,2023-12-31,763113945,2023,860000753,NexGard y Frontline
-Ganancia bruta,2023-12-31,262126421,2023,860000753,NexGard y Frontline
-Otros ingresos,2023-12-31,4313470,2023,860000753,NexGard y Frontline
-Gastos de ventas,2023-12-31,108295720,2023,860000753,NexGard y Frontline
-Gastos de administración,2023-12-31,88268300,2023,860000753,NexGard y Frontline
-Otros gastos,2023-12-31,266064,2023,860000753,NexGard y Frontline
-Otras ganancias (pérdidas),2023-12-31,23945,2023,860000753,NexGard y Frontline
-Ganancia (pérdida) por actividades de operación,2023-12-31,69633752,2023,860000753,NexGard y Frontline
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ingresos financieros,2023-12-31,805066,2023,860000753,NexGard y Frontline
-Costos financieros,2023-12-31,0,2023,860000753,NexGard y Frontline
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2023-12-31,0,2023,860000753,NexGard y Frontline
-"Ganancia (pérdida), antes de impuestos",2023-12-31,70438818,2023,860000753,NexGard y Frontline
-Ingreso (gasto) por impuestos,2023-12-31,28145403,2023,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones continuadas,2023-12-31,42293415,2023,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones discontinuadas,2023-12-31,0,2023,860000753,NexGard y Frontline
-Ganancia (pérdida),2023-12-31,42293415,2023,860000753,NexGard y Frontline
-Ingresos de actividades ordinarias,2022-12-31,768087633,2022,860000753,NexGard y Frontline
+Activos biológicos corrientes,2022-12-31,0,2022,830015923,Bravecto
+Activos biológicos corrientes,2023-12-31,0,2023,830015923,Bravecto
+Activos biológicos corrientes,2024-12-31,0,2024,830015923,Bravecto
+Activos biológicos corrientes,2025-12-31,,2025,830015923,Bravecto
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,,2022,830015923,Bravecto
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,0,2023,830015923,Bravecto
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,,2024,830015923,Bravecto
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,,2025,830015923,Bravecto
+Activos corrientes totales,2022-12-31,106541042,2022,830015923,Bravecto
+Activos corrientes totales,2023-12-31,134090417,2023,830015923,Bravecto
+Activos corrientes totales,2024-12-31,128341616,2024,830015923,Bravecto
+Activos corrientes totales,2025-12-31,119112619,2025,830015923,Bravecto
+"Activos por impuestos corrientes, corriente",2022-12-31,11791583,2022,830015923,Bravecto
+"Activos por impuestos corrientes, corriente",2023-12-31,13325381,2023,830015923,Bravecto
+"Activos por impuestos corrientes, corriente",2024-12-31,13656631,2024,830015923,Bravecto
+"Activos por impuestos corrientes, corriente",2025-12-31,16287466,2025,830015923,Bravecto
+Activos por impuestos diferidos,2022-12-31,,2022,830015923,Bravecto
+Activos por impuestos diferidos,2023-12-31,1158375,2023,830015923,Bravecto
+Activos por impuestos diferidos,2024-12-31,3214604,2024,830015923,Bravecto
+Activos por impuestos diferidos,2025-12-31,3910911,2025,830015923,Bravecto
+Capital emitido,2022-12-31,1504897,2022,830015923,Bravecto
+Capital emitido,2023-12-31,1504897,2023,830015923,Bravecto
+Capital emitido,2024-12-31,1504897,2024,830015923,Bravecto
+Capital emitido,2025-12-31,2285766,2025,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,33995425,2022,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,40978712,2023,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,41411732,2024,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,43677488,2025,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,904194,2022,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,855912,2023,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,1476660,2024,830015923,Bravecto
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,1515753,2025,830015923,Bravecto
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,86939403,2022,830015923,Bravecto
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,115256109,2023,830015923,Bravecto
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,110972898,2024,830015923,Bravecto
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,18088731,2025,830015923,Bravecto
+Efectivo y equivalentes al efectivo,2022-12-31,11547227,2022,830015923,Bravecto
+Efectivo y equivalentes al efectivo,2023-12-31,20584410,2023,830015923,Bravecto
+Efectivo y equivalentes al efectivo,2024-12-31,11650086,2024,830015923,Bravecto
+Efectivo y equivalentes al efectivo,2025-12-31,10832312,2025,830015923,Bravecto
+Ganancias acumuladas,2022-12-31,-4061970,2022,830015923,Bravecto
+Ganancias acumuladas,2023-12-31,-2851821,2023,830015923,Bravecto
+Ganancias acumuladas,2024-12-31,-2005380,2024,830015923,Bravecto
+Ganancias acumuladas,2025-12-31,4184066,2025,830015923,Bravecto
+Inventarios corrientes,2022-12-31,49093665,2022,830015923,Bravecto
+Inventarios corrientes,2023-12-31,59045085,2023,830015923,Bravecto
+Inventarios corrientes,2024-12-31,61477727,2024,830015923,Bravecto
+Inventarios corrientes,2025-12-31,48193125,2025,830015923,Bravecto
+Otras provisiones corrientes,2022-12-31,27859,2022,830015923,Bravecto
+Otras provisiones corrientes,2023-12-31,0,2023,830015923,Bravecto
+Otras provisiones corrientes,2024-12-31,,2024,830015923,Bravecto
+Otras provisiones corrientes,2025-12-31,,2025,830015923,Bravecto
+Otras reservas,2022-12-31,30196,2022,830015923,Bravecto
+Otras reservas,2023-12-31,30196,2023,830015923,Bravecto
+Otras reservas,2024-12-31,30196,2024,830015923,Bravecto
+Otras reservas,2025-12-31,30196,2025,830015923,Bravecto
+Otros activos financieros corrientes,2022-12-31,113142,2022,830015923,Bravecto
+Otros activos financieros corrientes,2023-12-31,156829,2023,830015923,Bravecto
+Otros activos financieros corrientes,2024-12-31,145440,2024,830015923,Bravecto
+Otros activos financieros corrientes,2025-12-31,122228,2025,830015923,Bravecto
+Pasivo por impuestos diferidos,2022-12-31,550621,2022,830015923,Bravecto
+Pasivo por impuestos diferidos,2023-12-31,0,2023,830015923,Bravecto
+Pasivo por impuestos diferidos,2024-12-31,,2024,830015923,Bravecto
+Pasivo por impuestos diferidos,2025-12-31,,2025,830015923,Bravecto
+Pasivos corrientes totales,2022-12-31,88016677,2022,830015923,Bravecto
+Pasivos corrientes totales,2023-12-31,116330475,2023,830015923,Bravecto
+Pasivos corrientes totales,2024-12-31,112375851,2024,830015923,Bravecto
+Pasivos corrientes totales,2025-12-31,19500429,2025,830015923,Bravecto
+Patrimonio Total,2022-12-31,18934139,2022,830015923,Bravecto
+Patrimonio Total,2023-12-31,20144288,2023,830015923,Bravecto
+Patrimonio Total,2024-12-31,20990729,2024,830015923,Bravecto
+Patrimonio Total,2025-12-31,105267175,2025,830015923,Bravecto
+Prima de emisión,2022-12-31,21461016,2022,830015923,Bravecto
+Prima de emisión,2023-12-31,21461016,2023,830015923,Bravecto
+Prima de emisión,2024-12-31,21461016,2024,830015923,Bravecto
+Prima de emisión,2025-12-31,98767147,2025,830015923,Bravecto
+"Propiedades, planta y equipo",2022-12-31,56201,2022,830015923,Bravecto
+"Propiedades, planta y equipo",2023-12-31,370059,2023,830015923,Bravecto
+"Propiedades, planta y equipo",2024-12-31,333700,2024,830015923,Bravecto
+"Propiedades, planta y equipo",2025-12-31,228321,2025,830015923,Bravecto
+Provisiones corrientes por beneficios a los empleados,2022-12-31,1049415,2022,830015923,Bravecto
+Provisiones corrientes por beneficios a los empleados,2023-12-31,1074366,2023,830015923,Bravecto
+Provisiones corrientes por beneficios a los empleados,2024-12-31,1402953,2024,830015923,Bravecto
+Provisiones corrientes por beneficios a los empleados,2025-12-31,1411698,2025,830015923,Bravecto
+Total Activos,2022-12-31,107501437,2022,830015923,Bravecto
+Total Activos,2023-12-31,136474763,2023,830015923,Bravecto
+Total Activos,2024-12-31,133366580,2024,830015923,Bravecto
+Total Activos,2025-12-31,124767604,2025,830015923,Bravecto
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,106541042,2022,830015923,Bravecto
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,134090417,2023,830015923,Bravecto
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,128341616,2024,830015923,Bravecto
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,119112619,2025,830015923,Bravecto
+Total de activos no corrientes,2022-12-31,960395,2022,830015923,Bravecto
+Total de activos no corrientes,2023-12-31,2384346,2023,830015923,Bravecto
+Total de activos no corrientes,2024-12-31,5024964,2024,830015923,Bravecto
+Total de activos no corrientes,2025-12-31,5654985,2025,830015923,Bravecto
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,88016677,2022,830015923,Bravecto
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,116330475,2023,830015923,Bravecto
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,112375851,2024,830015923,Bravecto
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,19500429,2025,830015923,Bravecto
+Total de pasivos no corrientes,2022-12-31,550621,2022,830015923,Bravecto
+Total de pasivos no corrientes,2023-12-31,0,2023,830015923,Bravecto
+Total de pasivos no corrientes,2024-12-31,,2024,830015923,Bravecto
+Total de pasivos no corrientes,2025-12-31,,2025,830015923,Bravecto
+Total de patrimonio y pasivos,2022-12-31,107501437,2022,830015923,Bravecto
+Total de patrimonio y pasivos,2023-12-31,136474763,2023,830015923,Bravecto
+Total de patrimonio y pasivos,2024-12-31,133366580,2024,830015923,Bravecto
+Total de patrimonio y pasivos,2025-12-31,124767604,2025,830015923,Bravecto
+Total pasivos,2022-12-31,88567298,2022,830015923,Bravecto
+Total pasivos,2023-12-31,116330475,2023,830015923,Bravecto
+Total pasivos,2024-12-31,112375851,2024,830015923,Bravecto
+Total pasivos,2025-12-31,19500429,2025,830015923,Bravecto
+Total provisiones corrientes,2022-12-31,1077274,2022,830015923,Bravecto
+Total provisiones corrientes,2023-12-31,1074366,2023,830015923,Bravecto
+Total provisiones corrientes,2024-12-31,1402953,2024,830015923,Bravecto
+Total provisiones corrientes,2025-12-31,1411698,2025,830015923,Bravecto
+Activos corrientes totales,2022-12-31,867693857,2022,890901271,Chunky
+Activos corrientes totales,2023-12-31,659421567,2023,890901271,Chunky
+Activos corrientes totales,2024-12-31,740788961,2024,890901271,Chunky
+Activos corrientes totales,2025-12-31,1023684783,2025,890901271,Chunky
+Activos intangibles distintos de la plusvalía,2022-12-31,45027635,2022,890901271,Chunky
+Activos intangibles distintos de la plusvalía,2023-12-31,43648288,2023,890901271,Chunky
+Activos intangibles distintos de la plusvalía,2024-12-31,40260264,2024,890901271,Chunky
+Activos intangibles distintos de la plusvalía,2025-12-31,37778118,2025,890901271,Chunky
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,2020000,2022,890901271,Chunky
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,,2023,890901271,Chunky
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,10278342,2024,890901271,Chunky
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,10278342,2025,890901271,Chunky
+"Activos por impuestos corrientes, corriente",2022-12-31,33694440,2022,890901271,Chunky
+"Activos por impuestos corrientes, corriente",2023-12-31,7185919,2023,890901271,Chunky
+"Activos por impuestos corrientes, corriente",2024-12-31,14015847,2024,890901271,Chunky
+"Activos por impuestos corrientes, corriente",2025-12-31,11295327,2025,890901271,Chunky
+Capital emitido,2022-12-31,40001000,2022,890901271,Chunky
+Capital emitido,2023-12-31,40001000,2023,890901271,Chunky
+Capital emitido,2024-12-31,40001000,2024,890901271,Chunky
+Capital emitido,2025-12-31,40001000,2025,890901271,Chunky
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,254412130,2022,890901271,Chunky
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,201025091,2023,890901271,Chunky
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,162298035,2024,890901271,Chunky
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,179111332,2025,890901271,Chunky
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,416491832,2022,890901271,Chunky
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,369592369,2023,890901271,Chunky
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,299321868,2024,890901271,Chunky
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,350349517,2025,890901271,Chunky
+Efectivo y equivalentes al efectivo,2022-12-31,95239503,2022,890901271,Chunky
+Efectivo y equivalentes al efectivo,2023-12-31,81997860,2023,890901271,Chunky
+Efectivo y equivalentes al efectivo,2024-12-31,109110767,2024,890901271,Chunky
+Efectivo y equivalentes al efectivo,2025-12-31,398861606,2025,890901271,Chunky
+Ganancias acumuladas,2022-12-31,241336288,2022,890901271,Chunky
+Ganancias acumuladas,2023-12-31,283804084,2023,890901271,Chunky
+Ganancias acumuladas,2024-12-31,270190102,2024,890901271,Chunky
+Ganancias acumuladas,2025-12-31,281422368,2025,890901271,Chunky
+Inventarios corrientes,2022-12-31,449655400,2022,890901271,Chunky
+Inventarios corrientes,2023-12-31,337062155,2023,890901271,Chunky
+Inventarios corrientes,2024-12-31,305918171,2024,890901271,Chunky
+Inventarios corrientes,2025-12-31,309979558,2025,890901271,Chunky
+Otras provisiones corrientes,2022-12-31,267168,2022,890901271,Chunky
+Otras provisiones corrientes,2023-12-31,695619,2023,890901271,Chunky
+Otras provisiones corrientes,2024-12-31,670588,2024,890901271,Chunky
+Otras provisiones corrientes,2025-12-31,1107206,2025,890901271,Chunky
+Otras provisiones no corrientes,2022-12-31,4941791,2022,890901271,Chunky
+Otras provisiones no corrientes,2023-12-31,4666790,2023,890901271,Chunky
+Otras provisiones no corrientes,2024-12-31,4977791,2024,890901271,Chunky
+Otras provisiones no corrientes,2025-12-31,4851742,2025,890901271,Chunky
+Otras reservas,2022-12-31,142975339,2022,890901271,Chunky
+Otras reservas,2023-12-31,176760480,2023,890901271,Chunky
+Otras reservas,2024-12-31,175107727,2024,890901271,Chunky
+Otras reservas,2025-12-31,263423164,2025,890901271,Chunky
+Otros activos financieros corrientes,2022-12-31,30004970,2022,890901271,Chunky
+Otros activos financieros corrientes,2023-12-31,29313405,2023,890901271,Chunky
+Otros activos financieros corrientes,2024-12-31,136132951,2024,890901271,Chunky
+Otros activos financieros corrientes,2025-12-31,110763702,2025,890901271,Chunky
+Otros activos financieros no corrientes,2022-12-31,17790197,2022,890901271,Chunky
+Otros activos financieros no corrientes,2023-12-31,36223595,2023,890901271,Chunky
+Otros activos financieros no corrientes,2024-12-31,56802736,2024,890901271,Chunky
+Otros activos financieros no corrientes,2025-12-31,,2025,890901271,Chunky
+Otros activos no financieros corrientes,2022-12-31,2667414,2022,890901271,Chunky
+Otros activos no financieros corrientes,2023-12-31,2837137,2023,890901271,Chunky
+Otros activos no financieros corrientes,2024-12-31,3034848,2024,890901271,Chunky
+Otros activos no financieros corrientes,2025-12-31,3394916,2025,890901271,Chunky
+Otros activos no financieros no corrientes,2022-12-31,,2022,890901271,Chunky
+Otros activos no financieros no corrientes,2023-12-31,106797808,2023,890901271,Chunky
+Otros activos no financieros no corrientes,2024-12-31,,2024,890901271,Chunky
+Otros activos no financieros no corrientes,2025-12-31,49209857,2025,890901271,Chunky
+Otros pasivos financieros corrientes,2022-12-31,216711092,2022,890901271,Chunky
+Otros pasivos financieros corrientes,2023-12-31,97814563,2023,890901271,Chunky
+Otros pasivos financieros corrientes,2024-12-31,187405591,2024,890901271,Chunky
+Otros pasivos financieros corrientes,2025-12-31,357744207,2025,890901271,Chunky
+Otros pasivos financieros no corrientes,2022-12-31,40847723,2022,890901271,Chunky
+Otros pasivos financieros no corrientes,2023-12-31,13243080,2023,890901271,Chunky
+Otros pasivos financieros no corrientes,2024-12-31,7900685,2024,890901271,Chunky
+Otros pasivos financieros no corrientes,2025-12-31,7734080,2025,890901271,Chunky
+Otros pasivos no financieros corrientes,2022-12-31,8773715,2022,890901271,Chunky
+Otros pasivos no financieros corrientes,2023-12-31,9262669,2023,890901271,Chunky
+Otros pasivos no financieros corrientes,2024-12-31,11720891,2024,890901271,Chunky
+Otros pasivos no financieros corrientes,2025-12-31,10056858,2025,890901271,Chunky
+Pasivo por impuestos diferidos,2022-12-31,49343228,2022,890901271,Chunky
+Pasivo por impuestos diferidos,2023-12-31,34142808,2023,890901271,Chunky
+Pasivo por impuestos diferidos,2024-12-31,36988034,2024,890901271,Chunky
+Pasivo por impuestos diferidos,2025-12-31,30854665,2025,890901271,Chunky
+Pasivos corrientes totales,2022-12-31,684830273,2022,890901271,Chunky
+Pasivos corrientes totales,2023-12-31,527031761,2023,890901271,Chunky
+Pasivos corrientes totales,2024-12-31,546482816,2024,890901271,Chunky
+Pasivos corrientes totales,2025-12-31,762425858,2025,890901271,Chunky
+"Pasivos por impuestos corrientes, corriente",2022-12-31,34496885,2022,890901271,Chunky
+"Pasivos por impuestos corrientes, corriente",2023-12-31,40538578,2023,890901271,Chunky
+"Pasivos por impuestos corrientes, corriente",2024-12-31,35261378,2024,890901271,Chunky
+"Pasivos por impuestos corrientes, corriente",2025-12-31,29560724,2025,890901271,Chunky
+Patrimonio Total,2022-12-31,515426994,2022,890901271,Chunky
+Patrimonio Total,2023-12-31,591679931,2023,890901271,Chunky
+Patrimonio Total,2024-12-31,576413196,2024,890901271,Chunky
+Patrimonio Total,2025-12-31,675960899,2025,890901271,Chunky
+Prima de emisión,2022-12-31,91114367,2022,890901271,Chunky
+Prima de emisión,2023-12-31,91114367,2023,890901271,Chunky
+Prima de emisión,2024-12-31,91114367,2024,890901271,Chunky
+Prima de emisión,2025-12-31,91114367,2025,890901271,Chunky
+Propiedad de inversión,2022-12-31,3025177,2022,890901271,Chunky
+Propiedad de inversión,2023-12-31,3551982,2023,890901271,Chunky
+Propiedad de inversión,2024-12-31,4336223,2024,890901271,Chunky
+Propiedad de inversión,2025-12-31,4364794,2025,890901271,Chunky
+"Propiedades, planta y equipo",2022-12-31,363041930,2022,890901271,Chunky
+"Propiedades, planta y equipo",2023-12-31,322602520,2023,890901271,Chunky
+"Propiedades, planta y equipo",2024-12-31,332122763,2024,890901271,Chunky
+"Propiedades, planta y equipo",2025-12-31,368430251,2025,890901271,Chunky
+Provisiones corrientes por beneficios a los empleados,2022-12-31,8089581,2022,890901271,Chunky
+Provisiones corrientes por beneficios a los empleados,2023-12-31,9127963,2023,890901271,Chunky
+Provisiones corrientes por beneficios a los empleados,2024-12-31,12102500,2024,890901271,Chunky
+Provisiones corrientes por beneficios a los empleados,2025-12-31,13607346,2025,890901271,Chunky
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,1188787,2022,890901271,Chunky
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,1481390,2023,890901271,Chunky
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,1548425,2024,890901271,Chunky
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,1640559,2025,890901271,Chunky
+Total Activos,2022-12-31,1296578796,2022,890901271,Chunky
+Total Activos,2023-12-31,1172245760,2023,890901271,Chunky
+Total Activos,2024-12-31,1174310947,2024,890901271,Chunky
+Total Activos,2025-12-31,1483467803,2025,890901271,Chunky
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,865673857,2022,890901271,Chunky
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,659421567,2023,890901271,Chunky
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,730510619,2024,890901271,Chunky
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,1013406441,2025,890901271,Chunky
+Total de activos no corrientes,2022-12-31,428884939,2022,890901271,Chunky
+Total de activos no corrientes,2023-12-31,512824193,2023,890901271,Chunky
+Total de activos no corrientes,2024-12-31,433521986,2024,890901271,Chunky
+Total de activos no corrientes,2025-12-31,459783020,2025,890901271,Chunky
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,684830273,2022,890901271,Chunky
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,527031761,2023,890901271,Chunky
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,546482816,2024,890901271,Chunky
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,762425858,2025,890901271,Chunky
+Total de pasivos no corrientes,2022-12-31,96321529,2022,890901271,Chunky
+Total de pasivos no corrientes,2023-12-31,53534068,2023,890901271,Chunky
+Total de pasivos no corrientes,2024-12-31,51414935,2024,890901271,Chunky
+Total de pasivos no corrientes,2025-12-31,45081046,2025,890901271,Chunky
+Total de patrimonio y pasivos,2022-12-31,1296578796,2022,890901271,Chunky
+Total de patrimonio y pasivos,2023-12-31,1172245760,2023,890901271,Chunky
+Total de patrimonio y pasivos,2024-12-31,1174310947,2024,890901271,Chunky
+Total de patrimonio y pasivos,2025-12-31,1483467803,2025,890901271,Chunky
+Total pasivos,2022-12-31,781151802,2022,890901271,Chunky
+Total pasivos,2023-12-31,580565829,2023,890901271,Chunky
+Total pasivos,2024-12-31,597897751,2024,890901271,Chunky
+Total pasivos,2025-12-31,807506904,2025,890901271,Chunky
+Total provisiones corrientes,2022-12-31,8356749,2022,890901271,Chunky
+Total provisiones corrientes,2023-12-31,9823582,2023,890901271,Chunky
+Total provisiones corrientes,2024-12-31,12773088,2024,890901271,Chunky
+Total provisiones corrientes,2025-12-31,14714552,2025,890901271,Chunky
+Total provisiones no corrientes,2022-12-31,6130578,2022,890901271,Chunky
+Total provisiones no corrientes,2023-12-31,6148180,2023,890901271,Chunky
+Total provisiones no corrientes,2024-12-31,6526216,2024,890901271,Chunky
+Total provisiones no corrientes,2025-12-31,6492301,2025,890901271,Chunky
+Acciones propias en cartera,2022-12-31,0,2022,800164767,Gabrica
+Acciones propias en cartera,2023-12-31,0,2023,800164767,Gabrica
+Acciones propias en cartera,2024-12-31,0,2024,800164767,Gabrica
+Acciones propias en cartera,2025-12-31,,2025,800164767,Gabrica
+Activos biológicos corrientes,2022-12-31,,2022,800164767,Gabrica
+Activos biológicos corrientes,2023-12-31,0,2023,800164767,Gabrica
+Activos biológicos corrientes,2024-12-31,0,2024,800164767,Gabrica
+Activos biológicos corrientes,2025-12-31,,2025,800164767,Gabrica
+Activos biológicos no corrientes,2022-12-31,,2022,800164767,Gabrica
+Activos biológicos no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Activos biológicos no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Activos biológicos no corrientes,2025-12-31,,2025,800164767,Gabrica
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,,2022,800164767,Gabrica
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,0,2023,800164767,Gabrica
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,0,2024,800164767,Gabrica
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,,2025,800164767,Gabrica
+Activos corrientes totales,2022-12-31,176000539,2022,800164767,Gabrica
+Activos corrientes totales,2023-12-31,159512026,2023,800164767,Gabrica
+Activos corrientes totales,2024-12-31,174677954,2024,800164767,Gabrica
+Activos corrientes totales,2025-12-31,156432639,2025,800164767,Gabrica
+Activos intangibles distintos de la plusvalía,2022-12-31,6368195,2022,800164767,Gabrica
+Activos intangibles distintos de la plusvalía,2023-12-31,5785644,2023,800164767,Gabrica
+Activos intangibles distintos de la plusvalía,2024-12-31,3872494,2024,800164767,Gabrica
+Activos intangibles distintos de la plusvalía,2025-12-31,7538673,2025,800164767,Gabrica
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo la garantía colateral,2022-12-31,,2022,800164767,Gabrica
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo la garantía colateral,2023-12-31,0,2023,800164767,Gabrica
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo la garantía colateral,2024-12-31,0,2024,800164767,Gabrica
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo la garantía colateral,2025-12-31,,2025,800164767,Gabrica
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,,2022,800164767,Gabrica
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,0,2023,800164767,Gabrica
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,0,2024,800164767,Gabrica
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,,2025,800164767,Gabrica
+"Activos por impuestos corrientes, corriente",2022-12-31,,2022,800164767,Gabrica
+"Activos por impuestos corrientes, corriente",2023-12-31,0,2023,800164767,Gabrica
+"Activos por impuestos corrientes, corriente",2024-12-31,0,2024,800164767,Gabrica
+"Activos por impuestos corrientes, corriente",2025-12-31,,2025,800164767,Gabrica
+"Activos por impuestos corrientes, no corriente",2022-12-31,,2022,800164767,Gabrica
+"Activos por impuestos corrientes, no corriente",2023-12-31,0,2023,800164767,Gabrica
+"Activos por impuestos corrientes, no corriente",2024-12-31,0,2024,800164767,Gabrica
+"Activos por impuestos corrientes, no corriente",2025-12-31,,2025,800164767,Gabrica
+Activos por impuestos diferidos,2022-12-31,,2022,800164767,Gabrica
+Activos por impuestos diferidos,2023-12-31,0,2023,800164767,Gabrica
+Activos por impuestos diferidos,2024-12-31,0,2024,800164767,Gabrica
+Activos por impuestos diferidos,2025-12-31,1272959,2025,800164767,Gabrica
+Capital emitido,2022-12-31,60000,2022,800164767,Gabrica
+Capital emitido,2023-12-31,60000,2023,800164767,Gabrica
+Capital emitido,2024-12-31,60000,2024,800164767,Gabrica
+Capital emitido,2025-12-31,60000,2025,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,45550438,2022,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,58384541,2023,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,60887983,2024,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,63359683,2025,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,,2022,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,,2025,800164767,Gabrica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2022-12-31,670000,2022,800164767,Gabrica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2023-12-31,575676,2023,800164767,Gabrica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2025-12-31,,2025,800164767,Gabrica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,56894564,2022,800164767,Gabrica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,31705878,2023,800164767,Gabrica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,42233330,2024,800164767,Gabrica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,38692463,2025,800164767,Gabrica
+Efectivo y equivalentes al efectivo,2022-12-31,15467796,2022,800164767,Gabrica
+Efectivo y equivalentes al efectivo,2023-12-31,32504867,2023,800164767,Gabrica
+Efectivo y equivalentes al efectivo,2024-12-31,32987147,2024,800164767,Gabrica
+Efectivo y equivalentes al efectivo,2025-12-31,24018080,2025,800164767,Gabrica
+Ganancias acumuladas,2022-12-31,115304105,2022,800164767,Gabrica
+Ganancias acumuladas,2023-12-31,127543500,2023,800164767,Gabrica
+Ganancias acumuladas,2024-12-31,131899771,2024,800164767,Gabrica
+Ganancias acumuladas,2025-12-31,126914377,2025,800164767,Gabrica
+Inventarios corrientes,2022-12-31,114982305,2022,800164767,Gabrica
+Inventarios corrientes,2023-12-31,68622618,2023,800164767,Gabrica
+Inventarios corrientes,2024-12-31,80802824,2024,800164767,Gabrica
+Inventarios corrientes,2025-12-31,69054876,2025,800164767,Gabrica
+Inventarios no corrientes,2022-12-31,,2022,800164767,Gabrica
+Inventarios no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Inventarios no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Inventarios no corrientes,2025-12-31,,2025,800164767,Gabrica
+Inversiones contabilizadas utilizando el método de la participación,2022-12-31,28489439,2022,800164767,Gabrica
+Inversiones contabilizadas utilizando el método de la participación,2023-12-31,22338819,2023,800164767,Gabrica
+Inversiones contabilizadas utilizando el método de la participación,2024-12-31,0,2024,800164767,Gabrica
+Inversiones contabilizadas utilizando el método de la participación,2025-12-31,22076682,2025,800164767,Gabrica
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2022-12-31,,2022,800164767,Gabrica
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2023-12-31,0,2023,800164767,Gabrica
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2024-12-31,22992879,2024,800164767,Gabrica
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2025-12-31,,2025,800164767,Gabrica
+Inversión suplementaria al capital asignado,2022-12-31,0,2022,800164767,Gabrica
+Inversión suplementaria al capital asignado,2023-12-31,0,2023,800164767,Gabrica
+Inversión suplementaria al capital asignado,2024-12-31,0,2024,800164767,Gabrica
+Inversión suplementaria al capital asignado,2025-12-31,,2025,800164767,Gabrica
+Otras participaciones en el patrimonio,2022-12-31,0,2022,800164767,Gabrica
+Otras participaciones en el patrimonio,2023-12-31,0,2023,800164767,Gabrica
+Otras participaciones en el patrimonio,2024-12-31,0,2024,800164767,Gabrica
+Otras participaciones en el patrimonio,2025-12-31,,2025,800164767,Gabrica
+Otras provisiones corrientes,2022-12-31,,2022,800164767,Gabrica
+Otras provisiones corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otras provisiones corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otras provisiones corrientes,2025-12-31,,2025,800164767,Gabrica
+Otras provisiones no corrientes,2022-12-31,,2022,800164767,Gabrica
+Otras provisiones no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otras provisiones no corrientes,2024-12-31,562770,2024,800164767,Gabrica
+Otras provisiones no corrientes,2025-12-31,837036,2025,800164767,Gabrica
+Otras reservas,2022-12-31,17302575,2022,800164767,Gabrica
+Otras reservas,2023-12-31,11301770,2023,800164767,Gabrica
+Otras reservas,2024-12-31,12220359,2024,800164767,Gabrica
+Otras reservas,2025-12-31,11979224,2025,800164767,Gabrica
+Otros activos financieros corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros activos financieros corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros activos financieros corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros activos financieros corrientes,2025-12-31,,2025,800164767,Gabrica
+Otros activos financieros no corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros activos financieros no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros activos financieros no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros activos financieros no corrientes,2025-12-31,29300,2025,800164767,Gabrica
+Otros activos no financieros corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros activos no financieros corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros activos no financieros corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros activos no financieros corrientes,2025-12-31,,2025,800164767,Gabrica
+Otros activos no financieros no corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros activos no financieros no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros activos no financieros no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros activos no financieros no corrientes,2025-12-31,,2025,800164767,Gabrica
+Otros pasivos financieros corrientes,2022-12-31,40608,2022,800164767,Gabrica
+Otros pasivos financieros corrientes,2023-12-31,23212,2023,800164767,Gabrica
+Otros pasivos financieros corrientes,2024-12-31,2027708,2024,800164767,Gabrica
+Otros pasivos financieros corrientes,2025-12-31,2820271,2025,800164767,Gabrica
+Otros pasivos financieros no corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros pasivos financieros no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros pasivos financieros no corrientes,2024-12-31,1583711,2024,800164767,Gabrica
+Otros pasivos financieros no corrientes,2025-12-31,3660860,2025,800164767,Gabrica
+Otros pasivos no financieros corrientes,2022-12-31,,2022,800164767,Gabrica
+Otros pasivos no financieros corrientes,2023-12-31,0,2023,800164767,Gabrica
+Otros pasivos no financieros corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros pasivos no financieros corrientes,2025-12-31,,2025,800164767,Gabrica
+Otros pasivos no financieros no corrientes,2022-12-31,6506455,2022,800164767,Gabrica
+Otros pasivos no financieros no corrientes,2023-12-31,5821663,2023,800164767,Gabrica
+Otros pasivos no financieros no corrientes,2024-12-31,0,2024,800164767,Gabrica
+Otros pasivos no financieros no corrientes,2025-12-31,,2025,800164767,Gabrica
+Pasivo por impuestos diferidos,2022-12-31,6291606,2022,800164767,Gabrica
+Pasivo por impuestos diferidos,2023-12-31,3587702,2023,800164767,Gabrica
+Pasivo por impuestos diferidos,2024-12-31,1062575,2024,800164767,Gabrica
+Pasivo por impuestos diferidos,2025-12-31,,2025,800164767,Gabrica
+Pasivos corrientes totales,2022-12-31,66384774,2022,800164767,Gabrica
+Pasivos corrientes totales,2023-12-31,40005683,2023,800164767,Gabrica
+Pasivos corrientes totales,2024-12-31,55336338,2024,800164767,Gabrica
+Pasivos corrientes totales,2025-12-31,44910099,2025,800164767,Gabrica
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,,2022,800164767,Gabrica
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,0,2023,800164767,Gabrica
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,0,2024,800164767,Gabrica
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,,2025,800164767,Gabrica
+"Pasivos por impuestos corrientes, corriente",2022-12-31,9449602,2022,800164767,Gabrica
+"Pasivos por impuestos corrientes, corriente",2023-12-31,8276593,2023,800164767,Gabrica
+"Pasivos por impuestos corrientes, corriente",2024-12-31,11075300,2024,800164767,Gabrica
+"Pasivos por impuestos corrientes, corriente",2025-12-31,3397365,2025,800164767,Gabrica
+"Pasivos por impuestos corrientes, no corriente",2022-12-31,,2022,800164767,Gabrica
+"Pasivos por impuestos corrientes, no corriente",2023-12-31,0,2023,800164767,Gabrica
+"Pasivos por impuestos corrientes, no corriente",2024-12-31,0,2024,800164767,Gabrica
+"Pasivos por impuestos corrientes, no corriente",2025-12-31,,2025,800164767,Gabrica
+Patrimonio Total,2022-12-31,132666680,2022,800164767,Gabrica
+Patrimonio Total,2023-12-31,138905270,2023,800164767,Gabrica
+Patrimonio Total,2024-12-31,144180130,2024,800164767,Gabrica
+Patrimonio Total,2025-12-31,138953601,2025,800164767,Gabrica
+Plusvalía,2022-12-31,,2022,800164767,Gabrica
+Plusvalía,2023-12-31,0,2023,800164767,Gabrica
+Plusvalía,2024-12-31,0,2024,800164767,Gabrica
+Plusvalía,2025-12-31,,2025,800164767,Gabrica
+Prima de emisión,2022-12-31,0,2022,800164767,Gabrica
+Prima de emisión,2023-12-31,0,2023,800164767,Gabrica
+Prima de emisión,2024-12-31,0,2024,800164767,Gabrica
+Prima de emisión,2025-12-31,,2025,800164767,Gabrica
+Propiedad de inversión,2022-12-31,,2022,800164767,Gabrica
+Propiedad de inversión,2023-12-31,0,2023,800164767,Gabrica
+Propiedad de inversión,2024-12-31,0,2024,800164767,Gabrica
+Propiedad de inversión,2025-12-31,,2025,800164767,Gabrica
+"Propiedades, planta y equipo",2022-12-31,1661342,2022,800164767,Gabrica
+"Propiedades, planta y equipo",2023-12-31,1259505,2023,800164767,Gabrica
+"Propiedades, planta y equipo",2024-12-31,1182197,2024,800164767,Gabrica
+"Propiedades, planta y equipo",2025-12-31,1011343,2025,800164767,Gabrica
+Provisiones corrientes por beneficios a los empleados,2022-12-31,,2022,800164767,Gabrica
+Provisiones corrientes por beneficios a los empleados,2023-12-31,0,2023,800164767,Gabrica
+Provisiones corrientes por beneficios a los empleados,2024-12-31,0,2024,800164767,Gabrica
+Provisiones corrientes por beneficios a los empleados,2025-12-31,,2025,800164767,Gabrica
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,,2022,800164767,Gabrica
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,0,2023,800164767,Gabrica
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,0,2024,800164767,Gabrica
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,,2025,800164767,Gabrica
+Superavit por revaluación,2022-12-31,0,2022,800164767,Gabrica
+Superavit por revaluación,2023-12-31,0,2023,800164767,Gabrica
+Superavit por revaluación,2024-12-31,0,2024,800164767,Gabrica
+Superavit por revaluación,2025-12-31,,2025,800164767,Gabrica
+Total Activos,2022-12-31,212519515,2022,800164767,Gabrica
+Total Activos,2023-12-31,188895994,2023,800164767,Gabrica
+Total Activos,2024-12-31,202725524,2024,800164767,Gabrica
+Total Activos,2025-12-31,188361596,2025,800164767,Gabrica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,176000539,2022,800164767,Gabrica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,159512026,2023,800164767,Gabrica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,174677954,2024,800164767,Gabrica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,156432639,2025,800164767,Gabrica
+Total de activos no corrientes,2022-12-31,36518976,2022,800164767,Gabrica
+Total de activos no corrientes,2023-12-31,29383968,2023,800164767,Gabrica
+Total de activos no corrientes,2024-12-31,28047570,2024,800164767,Gabrica
+Total de activos no corrientes,2025-12-31,31928957,2025,800164767,Gabrica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,66384774,2022,800164767,Gabrica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,40005683,2023,800164767,Gabrica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,55336338,2024,800164767,Gabrica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,44910099,2025,800164767,Gabrica
+Total de pasivos no corrientes,2022-12-31,13468061,2022,800164767,Gabrica
+Total de pasivos no corrientes,2023-12-31,9985041,2023,800164767,Gabrica
+Total de pasivos no corrientes,2024-12-31,3209056,2024,800164767,Gabrica
+Total de pasivos no corrientes,2025-12-31,4497896,2025,800164767,Gabrica
+Total de patrimonio y pasivos,2022-12-31,212519515,2022,800164767,Gabrica
+Total de patrimonio y pasivos,2023-12-31,188895994,2023,800164767,Gabrica
+Total de patrimonio y pasivos,2024-12-31,202725524,2024,800164767,Gabrica
+Total de patrimonio y pasivos,2025-12-31,188361596,2025,800164767,Gabrica
+Total pasivos,2022-12-31,79852835,2022,800164767,Gabrica
+Total pasivos,2023-12-31,49990724,2023,800164767,Gabrica
+Total pasivos,2024-12-31,58545394,2024,800164767,Gabrica
+Total pasivos,2025-12-31,49407995,2025,800164767,Gabrica
+Total provisiones corrientes,2022-12-31,,2022,800164767,Gabrica
+Total provisiones corrientes,2023-12-31,0,2023,800164767,Gabrica
+Total provisiones corrientes,2024-12-31,0,2024,800164767,Gabrica
+Total provisiones corrientes,2025-12-31,,2025,800164767,Gabrica
+Total provisiones no corrientes,2022-12-31,,2022,800164767,Gabrica
+Total provisiones no corrientes,2023-12-31,0,2023,800164767,Gabrica
+Total provisiones no corrientes,2024-12-31,562770,2024,800164767,Gabrica
+Total provisiones no corrientes,2025-12-31,837036,2025,800164767,Gabrica
+Activos corrientes totales,2022-12-31,545910307,2022,860000753,NexGard y Frontline
+Activos corrientes totales,2023-12-31,860020457,2023,860000753,NexGard y Frontline
+Activos corrientes totales,2024-12-31,748307380,2024,860000753,NexGard y Frontline
+Activos corrientes totales,2025-12-31,694155432,2025,860000753,NexGard y Frontline
+Activos intangibles distintos de la plusvalía,2022-12-31,34187896,2022,860000753,NexGard y Frontline
+Activos intangibles distintos de la plusvalía,2023-12-31,33448101,2023,860000753,NexGard y Frontline
+Activos intangibles distintos de la plusvalía,2024-12-31,32708306,2024,860000753,NexGard y Frontline
+Activos intangibles distintos de la plusvalía,2025-12-31,31968510,2025,860000753,NexGard y Frontline
+"Activos por impuestos corrientes, corriente",2022-12-31,14733206,2022,860000753,NexGard y Frontline
+"Activos por impuestos corrientes, corriente",2023-12-31,10959250,2023,860000753,NexGard y Frontline
+"Activos por impuestos corrientes, corriente",2024-12-31,,2024,860000753,NexGard y Frontline
+"Activos por impuestos corrientes, corriente",2025-12-31,21850353,2025,860000753,NexGard y Frontline
+Activos por impuestos diferidos,2022-12-31,9435268,2022,860000753,NexGard y Frontline
+Activos por impuestos diferidos,2023-12-31,15194933,2023,860000753,NexGard y Frontline
+Activos por impuestos diferidos,2024-12-31,78032902,2024,860000753,NexGard y Frontline
+Activos por impuestos diferidos,2025-12-31,80802488,2025,860000753,NexGard y Frontline
+Capital emitido,2022-12-31,6202851,2022,860000753,NexGard y Frontline
+Capital emitido,2023-12-31,6202851,2023,860000753,NexGard y Frontline
+Capital emitido,2024-12-31,6202851,2024,860000753,NexGard y Frontline
+Capital emitido,2025-12-31,6202851,2025,860000753,NexGard y Frontline
 Costo de ventas,2022-12-31,557585864,2022,860000753,NexGard y Frontline
-Ganancia bruta,2022-12-31,210501769,2022,860000753,NexGard y Frontline
-Otros ingresos,2022-12-31,2766255,2022,860000753,NexGard y Frontline
-Gastos de ventas,2022-12-31,91511804,2022,860000753,NexGard y Frontline
-Gastos de administración,2022-12-31,80436685,2022,860000753,NexGard y Frontline
-Otros gastos,2022-12-31,497073,2022,860000753,NexGard y Frontline
-Otras ganancias (pérdidas),2022-12-31,362691,2022,860000753,NexGard y Frontline
-Ganancia (pérdida) por actividades de operación,2022-12-31,41185153,2022,860000753,NexGard y Frontline
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ingresos financieros,2022-12-31,786304,2022,860000753,NexGard y Frontline
-Costos financieros,2022-12-31,0,2022,860000753,NexGard y Frontline
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2022-12-31,0,2022,860000753,NexGard y Frontline
-"Ganancia (pérdida), antes de impuestos",2022-12-31,41971457,2022,860000753,NexGard y Frontline
-Ingreso (gasto) por impuestos,2022-12-31,13988083,2022,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones continuadas,2022-12-31,27983374,2022,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones discontinuadas,2022-12-31,0,2022,860000753,NexGard y Frontline
-Ganancia (pérdida),2022-12-31,27983374,2022,860000753,NexGard y Frontline
-Ingresos de actividades ordinarias,2024-12-31,1152270634,2024,860000753,NexGard y Frontline
+Costo de ventas,2023-12-31,763113945,2023,860000753,NexGard y Frontline
 Costo de ventas,2024-12-31,769992680,2024,860000753,NexGard y Frontline
-Ganancia bruta,2024-12-31,382277954,2024,860000753,NexGard y Frontline
-Otros ingresos,2024-12-31,5964540,2024,860000753,NexGard y Frontline
-Gastos de ventas,2024-12-31,291163016,2024,860000753,NexGard y Frontline
-Gastos de administración,2024-12-31,94093474,2024,860000753,NexGard y Frontline
-Otros gastos,2024-12-31,476103,2024,860000753,NexGard y Frontline
-Otras ganancias (pérdidas),2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancia (pérdida) por actividades de operación,2024-12-31,2509901,2024,860000753,NexGard y Frontline
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ingresos financieros,2024-12-31,0,2024,860000753,NexGard y Frontline
-Costos financieros,2024-12-31,11948434,2024,860000753,NexGard y Frontline
-Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2024-12-31,0,2024,860000753,NexGard y Frontline
-"Ganancia (pérdida), antes de impuestos",2024-12-31,-9438533,2024,860000753,NexGard y Frontline
-Ingreso (gasto) por impuestos,2024-12-31,-4536683,2024,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones continuadas,2024-12-31,-4901850,2024,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones discontinuadas,2024-12-31,0,2024,860000753,NexGard y Frontline
-Ganancia (pérdida),2024-12-31,-4901850,2024,860000753,NexGard y Frontline
-Ingresos de actividades ordinarias,2025-12-31,1228886775,2025,860000753,NexGard y Frontline
 Costo de ventas,2025-12-31,939041657,2025,860000753,NexGard y Frontline
-Ganancia bruta,2025-12-31,289845118,2025,860000753,NexGard y Frontline
-Otros ingresos,2025-12-31,6974986,2025,860000753,NexGard y Frontline
-Gastos de ventas,2025-12-31,115709690,2025,860000753,NexGard y Frontline
-Gastos de administración,2025-12-31,103841401,2025,860000753,NexGard y Frontline
-Otros gastos,2025-12-31,1182803,2025,860000753,NexGard y Frontline
-Otras ganancias (pérdidas),2025-12-31,0,2025,860000753,NexGard y Frontline
-Ganancia (pérdida) por actividades de operación,2025-12-31,76086210,2025,860000753,NexGard y Frontline
-Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2025-12-31,0,2025,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2025-12-31,0,2025,860000753,NexGard y Frontline
-Ingresos financieros,2025-12-31,0,2025,860000753,NexGard y Frontline
+Costos financieros,2022-12-31,0,2022,860000753,NexGard y Frontline
+Costos financieros,2023-12-31,0,2023,860000753,NexGard y Frontline
+Costos financieros,2024-12-31,11948434,2024,860000753,NexGard y Frontline
 Costos financieros,2025-12-31,15149462,2025,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,287806808,2022,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,478983904,2023,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,400402849,2024,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,174459381,2025,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,6284752,2022,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,3582852,2023,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,6972718,2024,860000753,NexGard y Frontline
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,130816556,2025,860000753,NexGard y Frontline
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,480709557,2022,860000753,NexGard y Frontline
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,714299000,2023,860000753,NexGard y Frontline
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,553292092,2024,860000753,NexGard y Frontline
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,595440870,2025,860000753,NexGard y Frontline
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2022-12-31,0,2022,860000753,NexGard y Frontline
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2023-12-31,0,2023,860000753,NexGard y Frontline
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2024-12-31,0,2024,860000753,NexGard y Frontline
 Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2025-12-31,0,2025,860000753,NexGard y Frontline
-Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2025-12-31,0,2025,860000753,NexGard y Frontline
-Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2025-12-31,0,2025,860000753,NexGard y Frontline
-Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2025-12-31,0,2025,860000753,NexGard y Frontline
-"Ganancia (pérdida), antes de impuestos",2025-12-31,60936748,2025,860000753,NexGard y Frontline
-Ingreso (gasto) por impuestos,2025-12-31,25112250,2025,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones continuadas,2025-12-31,35824498,2025,860000753,NexGard y Frontline
-Ganancia (pérdida) procedente de operaciones discontinuadas,2025-12-31,0,2025,860000753,NexGard y Frontline
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2022-12-31,0,2022,860000753,NexGard y Frontline
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2023-12-31,0,2023,860000753,NexGard y Frontline
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2024-12-31,0,2024,860000753,NexGard y Frontline
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2025-12-31,0,2025,860000753,NexGard y Frontline
+Efectivo y equivalentes al efectivo,2022-12-31,59291113,2022,860000753,NexGard y Frontline
+Efectivo y equivalentes al efectivo,2023-12-31,2849544,2023,860000753,NexGard y Frontline
+Efectivo y equivalentes al efectivo,2024-12-31,20918984,2024,860000753,NexGard y Frontline
+Efectivo y equivalentes al efectivo,2025-12-31,103639485,2025,860000753,NexGard y Frontline
+Ganancia (pérdida),2022-12-31,27983374,2022,860000753,NexGard y Frontline
+Ganancia (pérdida),2023-12-31,42293415,2023,860000753,NexGard y Frontline
+Ganancia (pérdida),2024-12-31,-4901850,2024,860000753,NexGard y Frontline
 Ganancia (pérdida),2025-12-31,35824498,2025,860000753,NexGard y Frontline
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2022-12-31,0,2022,860000753,NexGard y Frontline
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2023-12-31,0,2023,860000753,NexGard y Frontline
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2025-12-31,0,2025,860000753,NexGard y Frontline
+Ganancia (pérdida) por actividades de operación,2022-12-31,41185153,2022,860000753,NexGard y Frontline
+Ganancia (pérdida) por actividades de operación,2023-12-31,69633752,2023,860000753,NexGard y Frontline
+Ganancia (pérdida) por actividades de operación,2024-12-31,2509901,2024,860000753,NexGard y Frontline
+Ganancia (pérdida) por actividades de operación,2025-12-31,76086210,2025,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones continuadas,2022-12-31,27983374,2022,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones continuadas,2023-12-31,42293415,2023,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones continuadas,2024-12-31,-4901850,2024,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones continuadas,2025-12-31,35824498,2025,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones discontinuadas,2022-12-31,0,2022,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones discontinuadas,2023-12-31,0,2023,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones discontinuadas,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ganancia (pérdida) procedente de operaciones discontinuadas,2025-12-31,0,2025,860000753,NexGard y Frontline
+"Ganancia (pérdida), antes de impuestos",2022-12-31,41971457,2022,860000753,NexGard y Frontline
+"Ganancia (pérdida), antes de impuestos",2023-12-31,70438818,2023,860000753,NexGard y Frontline
+"Ganancia (pérdida), antes de impuestos",2024-12-31,-9438533,2024,860000753,NexGard y Frontline
+"Ganancia (pérdida), antes de impuestos",2025-12-31,60936748,2025,860000753,NexGard y Frontline
+Ganancia bruta,2022-12-31,210501769,2022,860000753,NexGard y Frontline
+Ganancia bruta,2023-12-31,262126421,2023,860000753,NexGard y Frontline
+Ganancia bruta,2024-12-31,382277954,2024,860000753,NexGard y Frontline
+Ganancia bruta,2025-12-31,289845118,2025,860000753,NexGard y Frontline
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2022-12-31,0,2022,860000753,NexGard y Frontline
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2023-12-31,0,2023,860000753,NexGard y Frontline
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2025-12-31,0,2025,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2022-12-31,0,2022,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2023-12-31,0,2023,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2025-12-31,0,2025,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2022-12-31,0,2022,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2023-12-31,0,2023,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2025-12-31,0,2025,860000753,NexGard y Frontline
+Ganancias acumuladas,2022-12-31,39443796,2022,860000753,NexGard y Frontline
+Ganancias acumuladas,2023-12-31,81737211,2023,860000753,NexGard y Frontline
+Ganancias acumuladas,2024-12-31,76835363,2024,860000753,NexGard y Frontline
+Ganancias acumuladas,2025-12-31,112659861,2025,860000753,NexGard y Frontline
+Gastos de administración,2022-12-31,80436685,2022,860000753,NexGard y Frontline
+Gastos de administración,2023-12-31,88268300,2023,860000753,NexGard y Frontline
+Gastos de administración,2024-12-31,94093474,2024,860000753,NexGard y Frontline
+Gastos de administración,2025-12-31,103841401,2025,860000753,NexGard y Frontline
+Gastos de ventas,2022-12-31,91511804,2022,860000753,NexGard y Frontline
+Gastos de ventas,2023-12-31,108295720,2023,860000753,NexGard y Frontline
+Gastos de ventas,2024-12-31,291163016,2024,860000753,NexGard y Frontline
+Gastos de ventas,2025-12-31,115709690,2025,860000753,NexGard y Frontline
+Ingreso (gasto) por impuestos,2022-12-31,13988083,2022,860000753,NexGard y Frontline
+Ingreso (gasto) por impuestos,2023-12-31,28145403,2023,860000753,NexGard y Frontline
+Ingreso (gasto) por impuestos,2024-12-31,-4536683,2024,860000753,NexGard y Frontline
+Ingreso (gasto) por impuestos,2025-12-31,25112250,2025,860000753,NexGard y Frontline
+Ingresos de actividades ordinarias,2022-12-31,768087633,2022,860000753,NexGard y Frontline
+Ingresos de actividades ordinarias,2023-12-31,1025240366,2023,860000753,NexGard y Frontline
+Ingresos de actividades ordinarias,2024-12-31,1152270634,2024,860000753,NexGard y Frontline
+Ingresos de actividades ordinarias,2025-12-31,1228886775,2025,860000753,NexGard y Frontline
+Ingresos financieros,2022-12-31,786304,2022,860000753,NexGard y Frontline
+Ingresos financieros,2023-12-31,805066,2023,860000753,NexGard y Frontline
+Ingresos financieros,2024-12-31,0,2024,860000753,NexGard y Frontline
+Ingresos financieros,2025-12-31,0,2025,860000753,NexGard y Frontline
+Inventarios corrientes,2022-12-31,184079180,2022,860000753,NexGard y Frontline
+Inventarios corrientes,2023-12-31,367227759,2023,860000753,NexGard y Frontline
+Inventarios corrientes,2024-12-31,326985547,2024,860000753,NexGard y Frontline
+Inventarios corrientes,2025-12-31,394206213,2025,860000753,NexGard y Frontline
+Otras ganancias (pérdidas),2022-12-31,362691,2022,860000753,NexGard y Frontline
+Otras ganancias (pérdidas),2023-12-31,23945,2023,860000753,NexGard y Frontline
+Otras ganancias (pérdidas),2024-12-31,0,2024,860000753,NexGard y Frontline
+Otras ganancias (pérdidas),2025-12-31,0,2025,860000753,NexGard y Frontline
+Otras provisiones corrientes,2022-12-31,195737,2022,860000753,NexGard y Frontline
+Otras provisiones corrientes,2023-12-31,0,2023,860000753,NexGard y Frontline
+Otras provisiones corrientes,2024-12-31,,2024,860000753,NexGard y Frontline
+Otras provisiones corrientes,2025-12-31,,2025,860000753,NexGard y Frontline
+Otras provisiones no corrientes,2022-12-31,7440271,2022,860000753,NexGard y Frontline
+Otras provisiones no corrientes,2023-12-31,7440271,2023,860000753,NexGard y Frontline
+Otras provisiones no corrientes,2024-12-31,7309822,2024,860000753,NexGard y Frontline
+Otras provisiones no corrientes,2025-12-31,7309822,2025,860000753,NexGard y Frontline
+Otras reservas,2022-12-31,2899997,2022,860000753,NexGard y Frontline
+Otras reservas,2023-12-31,2899997,2023,860000753,NexGard y Frontline
+Otras reservas,2024-12-31,2899997,2024,860000753,NexGard y Frontline
+Otras reservas,2025-12-31,2899997,2025,860000753,NexGard y Frontline
+Otros gastos,2022-12-31,497073,2022,860000753,NexGard y Frontline
+Otros gastos,2023-12-31,266064,2023,860000753,NexGard y Frontline
+Otros gastos,2024-12-31,476103,2024,860000753,NexGard y Frontline
+Otros gastos,2025-12-31,1182803,2025,860000753,NexGard y Frontline
+Otros ingresos,2022-12-31,2766255,2022,860000753,NexGard y Frontline
+Otros ingresos,2023-12-31,4313470,2023,860000753,NexGard y Frontline
+Otros ingresos,2024-12-31,5964540,2024,860000753,NexGard y Frontline
+Otros ingresos,2025-12-31,6974986,2025,860000753,NexGard y Frontline
+Otros pasivos financieros corrientes,2022-12-31,632229,2022,860000753,NexGard y Frontline
+Otros pasivos financieros corrientes,2023-12-31,10192690,2023,860000753,NexGard y Frontline
+Otros pasivos financieros corrientes,2024-12-31,130464720,2024,860000753,NexGard y Frontline
+Otros pasivos financieros corrientes,2025-12-31,129890254,2025,860000753,NexGard y Frontline
+Otros pasivos financieros no corrientes,2022-12-31,915939,2022,860000753,NexGard y Frontline
+Otros pasivos financieros no corrientes,2023-12-31,634510,2023,860000753,NexGard y Frontline
+Otros pasivos financieros no corrientes,2024-12-31,2997971,2024,860000753,NexGard y Frontline
+Otros pasivos financieros no corrientes,2025-12-31,1974884,2025,860000753,NexGard y Frontline
+Otros pasivos no financieros corrientes,2022-12-31,7406968,2022,860000753,NexGard y Frontline
+Otros pasivos no financieros corrientes,2023-12-31,33383421,2023,860000753,NexGard y Frontline
+Otros pasivos no financieros corrientes,2024-12-31,36582308,2024,860000753,NexGard y Frontline
+Otros pasivos no financieros corrientes,2025-12-31,42771217,2025,860000753,NexGard y Frontline
+Pasivos corrientes totales,2022-12-31,501595799,2022,860000753,NexGard y Frontline
+Pasivos corrientes totales,2023-12-31,775225792,2023,860000753,NexGard y Frontline
+Pasivos corrientes totales,2024-12-31,739299809,2024,860000753,NexGard y Frontline
+Pasivos corrientes totales,2025-12-31,773597613,2025,860000753,NexGard y Frontline
+"Pasivos por impuestos corrientes, corriente",2022-12-31,8010854,2022,860000753,NexGard y Frontline
+"Pasivos por impuestos corrientes, corriente",2023-12-31,11679442,2023,860000753,NexGard y Frontline
+"Pasivos por impuestos corrientes, corriente",2024-12-31,14214999,2024,860000753,NexGard y Frontline
+"Pasivos por impuestos corrientes, corriente",2025-12-31,,2025,860000753,NexGard y Frontline
+Patrimonio Total,2022-12-31,88428847,2022,860000753,NexGard y Frontline
+Patrimonio Total,2023-12-31,130722262,2023,860000753,NexGard y Frontline
+Patrimonio Total,2024-12-31,125820414,2024,860000753,NexGard y Frontline
+Patrimonio Total,2025-12-31,161644912,2025,860000753,NexGard y Frontline
+Prima de emisión,2022-12-31,39882203,2022,860000753,NexGard y Frontline
+Prima de emisión,2023-12-31,39882203,2023,860000753,NexGard y Frontline
+Prima de emisión,2024-12-31,39882203,2024,860000753,NexGard y Frontline
+Prima de emisión,2025-12-31,39882203,2025,860000753,NexGard y Frontline
+"Propiedades, planta y equipo",2022-12-31,5149481,2022,860000753,NexGard y Frontline
+"Propiedades, planta y equipo",2023-12-31,4967345,2023,860000753,NexGard y Frontline
+"Propiedades, planta y equipo",2024-12-31,12766682,2024,860000753,NexGard y Frontline
+"Propiedades, planta y equipo",2025-12-31,10893875,2025,860000753,NexGard y Frontline
+Provisiones corrientes por beneficios a los empleados,2022-12-31,4640454,2022,860000753,NexGard y Frontline
+Provisiones corrientes por beneficios a los empleados,2023-12-31,5671239,2023,860000753,NexGard y Frontline
+Provisiones corrientes por beneficios a los empleados,2024-12-31,4745690,2024,860000753,NexGard y Frontline
+Provisiones corrientes por beneficios a los empleados,2025-12-31,5495272,2025,860000753,NexGard y Frontline
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,2586848,2022,860000753,NexGard y Frontline
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,3190853,2023,860000753,NexGard y Frontline
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,3359972,2024,860000753,NexGard y Frontline
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,4109630,2025,860000753,NexGard y Frontline
+Total Activos,2022-12-31,600967704,2022,860000753,NexGard y Frontline
+Total Activos,2023-12-31,917213688,2023,860000753,NexGard y Frontline
+Total Activos,2024-12-31,878787988,2024,860000753,NexGard y Frontline
+Total Activos,2025-12-31,948636861,2025,860000753,NexGard y Frontline
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,545910307,2022,860000753,NexGard y Frontline
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,860020457,2023,860000753,NexGard y Frontline
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,748307380,2024,860000753,NexGard y Frontline
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,694155432,2025,860000753,NexGard y Frontline
+Total de activos no corrientes,2022-12-31,55057397,2022,860000753,NexGard y Frontline
+Total de activos no corrientes,2023-12-31,57193231,2023,860000753,NexGard y Frontline
+Total de activos no corrientes,2024-12-31,130480608,2024,860000753,NexGard y Frontline
+Total de activos no corrientes,2025-12-31,254481429,2025,860000753,NexGard y Frontline
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,501595799,2022,860000753,NexGard y Frontline
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,775225792,2023,860000753,NexGard y Frontline
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,739299809,2024,860000753,NexGard y Frontline
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,773597613,2025,860000753,NexGard y Frontline
+Total de pasivos no corrientes,2022-12-31,10943058,2022,860000753,NexGard y Frontline
+Total de pasivos no corrientes,2023-12-31,11265634,2023,860000753,NexGard y Frontline
+Total de pasivos no corrientes,2024-12-31,13667765,2024,860000753,NexGard y Frontline
+Total de pasivos no corrientes,2025-12-31,13394336,2025,860000753,NexGard y Frontline
+Total de patrimonio y pasivos,2022-12-31,600967704,2022,860000753,NexGard y Frontline
+Total de patrimonio y pasivos,2023-12-31,917213688,2023,860000753,NexGard y Frontline
+Total de patrimonio y pasivos,2024-12-31,878787988,2024,860000753,NexGard y Frontline
+Total de patrimonio y pasivos,2025-12-31,948636861,2025,860000753,NexGard y Frontline
+Total pasivos,2022-12-31,512538857,2022,860000753,NexGard y Frontline
+Total pasivos,2023-12-31,786491426,2023,860000753,NexGard y Frontline
+Total pasivos,2024-12-31,752967574,2024,860000753,NexGard y Frontline
+Total pasivos,2025-12-31,786991949,2025,860000753,NexGard y Frontline
+Total provisiones corrientes,2022-12-31,4836191,2022,860000753,NexGard y Frontline
+Total provisiones corrientes,2023-12-31,5671239,2023,860000753,NexGard y Frontline
+Total provisiones corrientes,2024-12-31,4745690,2024,860000753,NexGard y Frontline
+Total provisiones corrientes,2025-12-31,5495272,2025,860000753,NexGard y Frontline
+Total provisiones no corrientes,2022-12-31,10027119,2022,860000753,NexGard y Frontline
+Total provisiones no corrientes,2023-12-31,10631124,2023,860000753,NexGard y Frontline
+Total provisiones no corrientes,2024-12-31,10669794,2024,860000753,NexGard y Frontline
+Total provisiones no corrientes,2025-12-31,11419452,2025,860000753,NexGard y Frontline
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,484976,2022,830050346,Purina
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,522817,2023,830050346,Purina
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,174267,2024,830050346,Purina
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,753001,2025,830050346,Purina
+Activos corrientes totales,2022-12-31,191064518,2022,830050346,Purina
+Activos corrientes totales,2023-12-31,162096106,2023,830050346,Purina
+Activos corrientes totales,2024-12-31,187279325,2024,830050346,Purina
+Activos corrientes totales,2025-12-31,215667349,2025,830050346,Purina
+"Activos por impuestos corrientes, corriente",2022-12-31,,2022,830050346,Purina
+"Activos por impuestos corrientes, corriente",2023-12-31,56982077,2023,830050346,Purina
+"Activos por impuestos corrientes, corriente",2024-12-31,65927544,2024,830050346,Purina
+"Activos por impuestos corrientes, corriente",2025-12-31,78148684,2025,830050346,Purina
+"Activos por impuestos corrientes, no corriente",2022-12-31,,2022,830050346,Purina
+"Activos por impuestos corrientes, no corriente",2023-12-31,107209,2023,830050346,Purina
+"Activos por impuestos corrientes, no corriente",2024-12-31,648784,2024,830050346,Purina
+"Activos por impuestos corrientes, no corriente",2025-12-31,2971049,2025,830050346,Purina
+Capital emitido,2022-12-31,17030000,2022,830050346,Purina
+Capital emitido,2023-12-31,17030000,2023,830050346,Purina
+Capital emitido,2024-12-31,17030000,2024,830050346,Purina
+Capital emitido,2025-12-31,17030000,2025,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,90301026,2022,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,105270367,2023,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,42396479,2024,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,47752217,2025,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,2340256,2022,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,1942945,2023,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,2784659,2024,830050346,Purina
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,1865046,2025,830050346,Purina
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,196290419,2022,830050346,Purina
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,120762068,2023,830050346,Purina
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,96261221,2024,830050346,Purina
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,105180597,2025,830050346,Purina
+Efectivo y equivalentes al efectivo,2022-12-31,30587608,2022,830050346,Purina
+Efectivo y equivalentes al efectivo,2023-12-31,6365970,2023,830050346,Purina
+Efectivo y equivalentes al efectivo,2024-12-31,26228733,2024,830050346,Purina
+Efectivo y equivalentes al efectivo,2025-12-31,39111900,2025,830050346,Purina
+Ganancias acumuladas,2022-12-31,58381785,2022,830050346,Purina
+Ganancias acumuladas,2023-12-31,48351794,2023,830050346,Purina
+Ganancias acumuladas,2024-12-31,51348088,2024,830050346,Purina
+Ganancias acumuladas,2025-12-31,41036618,2025,830050346,Purina
+Inventarios corrientes,2022-12-31,69045773,2022,830050346,Purina
+Inventarios corrientes,2023-12-31,49908604,2023,830050346,Purina
+Inventarios corrientes,2024-12-31,52330602,2024,830050346,Purina
+Inventarios corrientes,2025-12-31,49723697,2025,830050346,Purina
+Otras provisiones corrientes,2022-12-31,9936611,2022,830050346,Purina
+Otras provisiones corrientes,2023-12-31,14141474,2023,830050346,Purina
+Otras provisiones corrientes,2024-12-31,15005953,2024,830050346,Purina
+Otras provisiones corrientes,2025-12-31,18110415,2025,830050346,Purina
+Otras reservas,2022-12-31,9221128,2022,830050346,Purina
+Otras reservas,2023-12-31,8949696,2023,830050346,Purina
+Otras reservas,2024-12-31,8773252,2024,830050346,Purina
+Otras reservas,2025-12-31,9210389,2025,830050346,Purina
+Otros activos financieros corrientes,2022-12-31,645135,2022,830050346,Purina
+Otros activos financieros corrientes,2023-12-31,28348,2023,830050346,Purina
+Otros activos financieros corrientes,2024-12-31,221700,2024,830050346,Purina
+Otros activos financieros corrientes,2025-12-31,177850,2025,830050346,Purina
+Otros pasivos financieros corrientes,2022-12-31,626121,2022,830050346,Purina
+Otros pasivos financieros corrientes,2023-12-31,61776251,2023,830050346,Purina
+Otros pasivos financieros corrientes,2024-12-31,1831225,2024,830050346,Purina
+Otros pasivos financieros corrientes,2025-12-31,42693347,2025,830050346,Purina
+Otros pasivos financieros no corrientes,2022-12-31,,2022,830050346,Purina
+Otros pasivos financieros no corrientes,2023-12-31,250563,2023,830050346,Purina
+Otros pasivos financieros no corrientes,2024-12-31,117000000,2024,830050346,Purina
+Otros pasivos financieros no corrientes,2025-12-31,120674684,2025,830050346,Purina
+Otros pasivos no financieros no corrientes,2022-12-31,,2022,830050346,Purina
+Otros pasivos no financieros no corrientes,2023-12-31,,2023,830050346,Purina
+Otros pasivos no financieros no corrientes,2024-12-31,,2024,830050346,Purina
+Otros pasivos no financieros no corrientes,2025-12-31,5500000,2025,830050346,Purina
+Pasivo por impuestos diferidos,2022-12-31,4500203,2022,830050346,Purina
+Pasivo por impuestos diferidos,2023-12-31,5254073,2023,830050346,Purina
+Pasivo por impuestos diferidos,2024-12-31,2909019,2024,830050346,Purina
+Pasivo por impuestos diferidos,2025-12-31,1797153,2025,830050346,Purina
+Pasivos corrientes totales,2022-12-31,225808140,2022,830050346,Purina
+Pasivos corrientes totales,2023-12-31,206941534,2023,830050346,Purina
+Pasivos corrientes totales,2024-12-31,125118784,2024,830050346,Purina
+Pasivos corrientes totales,2025-12-31,171302506,2025,830050346,Purina
+"Pasivos por impuestos corrientes, corriente",2022-12-31,14794419,2022,830050346,Purina
+"Pasivos por impuestos corrientes, corriente",2023-12-31,6213821,2023,830050346,Purina
+"Pasivos por impuestos corrientes, corriente",2024-12-31,6997306,2024,830050346,Purina
+"Pasivos por impuestos corrientes, corriente",2025-12-31,,2025,830050346,Purina
+Patrimonio Total,2022-12-31,84632913,2022,830050346,Purina
+Patrimonio Total,2023-12-31,74331490,2023,830050346,Purina
+Patrimonio Total,2024-12-31,77151340,2024,830050346,Purina
+Patrimonio Total,2025-12-31,67277007,2025,830050346,Purina
+"Propiedades, planta y equipo",2022-12-31,121926529,2022,830050346,Purina
+"Propiedades, planta y equipo",2023-12-31,122774032,2023,830050346,Purina
+"Propiedades, planta y equipo",2024-12-31,131829958,2024,830050346,Purina
+"Propiedades, planta y equipo",2025-12-31,146480413,2025,830050346,Purina
+Provisiones corrientes por beneficios a los empleados,2022-12-31,4160570,2022,830050346,Purina
+Provisiones corrientes por beneficios a los empleados,2023-12-31,4047920,2023,830050346,Purina
+Provisiones corrientes por beneficios a los empleados,2024-12-31,5023079,2024,830050346,Purina
+Provisiones corrientes por beneficios a los empleados,2025-12-31,5318147,2025,830050346,Purina
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,390047,2022,830050346,Purina
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,285986,2023,830050346,Purina
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,363583,2024,830050346,Purina
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,432507,2025,830050346,Purina
+Total Activos,2022-12-31,315331303,2022,830050346,Purina
+Total Activos,2023-12-31,286813083,2023,830050346,Purina
+Total Activos,2024-12-31,322542726,2024,830050346,Purina
+Total Activos,2025-12-31,366983857,2025,830050346,Purina
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,191064518,2022,830050346,Purina
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,162096106,2023,830050346,Purina
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,187279325,2024,830050346,Purina
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,215667349,2025,830050346,Purina
+Total de activos no corrientes,2022-12-31,124266785,2022,830050346,Purina
+Total de activos no corrientes,2023-12-31,124716977,2023,830050346,Purina
+Total de activos no corrientes,2024-12-31,135263401,2024,830050346,Purina
+Total de activos no corrientes,2025-12-31,151316508,2025,830050346,Purina
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,225808140,2022,830050346,Purina
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,206941534,2023,830050346,Purina
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,125118784,2024,830050346,Purina
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,171302506,2025,830050346,Purina
+Total de pasivos no corrientes,2022-12-31,4890250,2022,830050346,Purina
+Total de pasivos no corrientes,2023-12-31,5540059,2023,830050346,Purina
+Total de pasivos no corrientes,2024-12-31,120272602,2024,830050346,Purina
+Total de pasivos no corrientes,2025-12-31,128404344,2025,830050346,Purina
+Total de patrimonio y pasivos,2022-12-31,315331303,2022,830050346,Purina
+Total de patrimonio y pasivos,2023-12-31,286813083,2023,830050346,Purina
+Total de patrimonio y pasivos,2024-12-31,322542726,2024,830050346,Purina
+Total de patrimonio y pasivos,2025-12-31,366983857,2025,830050346,Purina
+Total pasivos,2022-12-31,230698390,2022,830050346,Purina
+Total pasivos,2023-12-31,212481593,2023,830050346,Purina
+Total pasivos,2024-12-31,245391386,2024,830050346,Purina
+Total pasivos,2025-12-31,299706850,2025,830050346,Purina
+Total provisiones corrientes,2022-12-31,14097181,2022,830050346,Purina
+Total provisiones corrientes,2023-12-31,18189394,2023,830050346,Purina
+Total provisiones corrientes,2024-12-31,20029032,2024,830050346,Purina
+Total provisiones corrientes,2025-12-31,23428562,2025,830050346,Purina
+Total provisiones no corrientes,2022-12-31,390047,2022,830050346,Purina
+Total provisiones no corrientes,2023-12-31,285986,2023,830050346,Purina
+Total provisiones no corrientes,2024-12-31,363583,2024,830050346,Purina
+Total provisiones no corrientes,2025-12-31,432507,2025,830050346,Purina
+Activos biológicos corrientes,2022-12-31,20593207,2022,890900291,Ringo
+Activos biológicos corrientes,2023-12-31,20026156,2023,890900291,Ringo
+Activos biológicos corrientes,2024-12-31,25944699,2024,890900291,Ringo
+Activos biológicos corrientes,2025-12-31,27251355,2025,890900291,Ringo
+Activos biológicos no corrientes,2022-12-31,3642385,2022,890900291,Ringo
+Activos biológicos no corrientes,2023-12-31,4575751,2023,890900291,Ringo
+Activos biológicos no corrientes,2024-12-31,4854295,2024,890900291,Ringo
+Activos biológicos no corrientes,2025-12-31,3448930,2025,890900291,Ringo
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,,2022,890900291,Ringo
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,0,2023,890900291,Ringo
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,0,2024,890900291,Ringo
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,1557122,2025,890900291,Ringo
+Activos corrientes totales,2022-12-31,646554738,2022,890900291,Ringo
+Activos corrientes totales,2023-12-31,478602529,2023,890900291,Ringo
+Activos corrientes totales,2024-12-31,450840195,2024,890900291,Ringo
+Activos corrientes totales,2025-12-31,466627140,2025,890900291,Ringo
+Activos intangibles distintos de la plusvalía,2022-12-31,2362207,2022,890900291,Ringo
+Activos intangibles distintos de la plusvalía,2023-12-31,2124124,2023,890900291,Ringo
+Activos intangibles distintos de la plusvalía,2024-12-31,2203195,2024,890900291,Ringo
+Activos intangibles distintos de la plusvalía,2025-12-31,1485897,2025,890900291,Ringo
+"Activos por impuestos corrientes, corriente",2022-12-31,24713000,2022,890900291,Ringo
+"Activos por impuestos corrientes, corriente",2023-12-31,11503654,2023,890900291,Ringo
+"Activos por impuestos corrientes, corriente",2024-12-31,5456928,2024,890900291,Ringo
+"Activos por impuestos corrientes, corriente",2025-12-31,1736930,2025,890900291,Ringo
+"Activos por impuestos corrientes, no corriente",2022-12-31,,2022,890900291,Ringo
+"Activos por impuestos corrientes, no corriente",2023-12-31,0,2023,890900291,Ringo
+"Activos por impuestos corrientes, no corriente",2024-12-31,,2024,890900291,Ringo
+"Activos por impuestos corrientes, no corriente",2025-12-31,,2025,890900291,Ringo
+Capital emitido,2022-12-31,6071005,2022,890900291,Ringo
+Capital emitido,2023-12-31,6071005,2023,890900291,Ringo
+Capital emitido,2024-12-31,6071005,2024,890900291,Ringo
+Capital emitido,2025-12-31,6071005,2025,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,140053045,2022,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,138606814,2023,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,110280495,2024,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,105561448,2025,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,3750677,2022,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,4660629,2023,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,4245784,2024,890900291,Ringo
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,3389919,2025,890900291,Ringo
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,134143434,2022,890900291,Ringo
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,158189557,2023,890900291,Ringo
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,204470515,2024,890900291,Ringo
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,217897156,2025,890900291,Ringo
+Efectivo y equivalentes al efectivo,2022-12-31,47372430,2022,890900291,Ringo
+Efectivo y equivalentes al efectivo,2023-12-31,68391224,2023,890900291,Ringo
+Efectivo y equivalentes al efectivo,2024-12-31,45180063,2024,890900291,Ringo
+Efectivo y equivalentes al efectivo,2025-12-31,20726045,2025,890900291,Ringo
+Ganancias acumuladas,2022-12-31,103093451,2022,890900291,Ringo
+Ganancias acumuladas,2023-12-31,84044466,2023,890900291,Ringo
+Ganancias acumuladas,2024-12-31,127208948,2024,890900291,Ringo
+Ganancias acumuladas,2025-12-31,77198883,2025,890900291,Ringo
+Inventarios corrientes,2022-12-31,357617000,2022,890900291,Ringo
+Inventarios corrientes,2023-12-31,230413280,2023,890900291,Ringo
+Inventarios corrientes,2024-12-31,243537646,2024,890900291,Ringo
+Inventarios corrientes,2025-12-31,274843122,2025,890900291,Ringo
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2022-12-31,159229837,2022,890900291,Ringo
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2023-12-31,148884496,2023,890900291,Ringo
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2024-12-31,155703598,2024,890900291,Ringo
+"Inversiones en subsidiarias, negocios conjuntos y asociadas",2025-12-31,125176885,2025,890900291,Ringo
+Otras provisiones corrientes,2022-12-31,5330111,2022,890900291,Ringo
+Otras provisiones corrientes,2023-12-31,5581316,2023,890900291,Ringo
+Otras provisiones corrientes,2024-12-31,5213235,2024,890900291,Ringo
+Otras provisiones corrientes,2025-12-31,7788447,2025,890900291,Ringo
+Otras reservas,2022-12-31,236239280,2022,890900291,Ringo
+Otras reservas,2023-12-31,285836534,2023,890900291,Ringo
+Otras reservas,2024-12-31,319758871,2024,890900291,Ringo
+Otras reservas,2025-12-31,390850930,2025,890900291,Ringo
+Otros activos financieros corrientes,2022-12-31,28683337,2022,890900291,Ringo
+Otros activos financieros corrientes,2023-12-31,4749779,2023,890900291,Ringo
+Otros activos financieros corrientes,2024-12-31,8680944,2024,890900291,Ringo
+Otros activos financieros corrientes,2025-12-31,7268638,2025,890900291,Ringo
+Otros activos no financieros corrientes,2022-12-31,27522719,2022,890900291,Ringo
+Otros activos no financieros corrientes,2023-12-31,4911622,2023,890900291,Ringo
+Otros activos no financieros corrientes,2024-12-31,11759420,2024,890900291,Ringo
+Otros activos no financieros corrientes,2025-12-31,27682480,2025,890900291,Ringo
+Otros pasivos financieros corrientes,2022-12-31,319171710,2022,890900291,Ringo
+Otros pasivos financieros corrientes,2023-12-31,150593250,2023,890900291,Ringo
+Otros pasivos financieros corrientes,2024-12-31,38289387,2024,890900291,Ringo
+Otros pasivos financieros corrientes,2025-12-31,15804827,2025,890900291,Ringo
+Otros pasivos financieros no corrientes,2022-12-31,169926295,2022,890900291,Ringo
+Otros pasivos financieros no corrientes,2023-12-31,116854283,2023,890900291,Ringo
+Otros pasivos financieros no corrientes,2024-12-31,78368820,2024,890900291,Ringo
+Otros pasivos financieros no corrientes,2025-12-31,48093117,2025,890900291,Ringo
+Otros pasivos no financieros corrientes,2022-12-31,17352021,2022,890900291,Ringo
+Otros pasivos no financieros corrientes,2023-12-31,14591985,2023,890900291,Ringo
+Otros pasivos no financieros corrientes,2024-12-31,14762520,2024,890900291,Ringo
+Otros pasivos no financieros corrientes,2025-12-31,17326677,2025,890900291,Ringo
+Pasivo por impuestos diferidos,2022-12-31,24355663,2022,890900291,Ringo
+Pasivo por impuestos diferidos,2023-12-31,20789465,2023,890900291,Ringo
+Pasivo por impuestos diferidos,2024-12-31,22004938,2024,890900291,Ringo
+Pasivo por impuestos diferidos,2025-12-31,17286052,2025,890900291,Ringo
+Pasivos corrientes totales,2022-12-31,484397889,2022,890900291,Ringo
+Pasivos corrientes totales,2023-12-31,338251991,2023,890900291,Ringo
+Pasivos corrientes totales,2024-12-31,284510532,2024,890900291,Ringo
+Pasivos corrientes totales,2025-12-31,284415382,2025,890900291,Ringo
+"Pasivos por impuestos corrientes, corriente",2022-12-31,,2022,890900291,Ringo
+"Pasivos por impuestos corrientes, corriente",2023-12-31,,2023,890900291,Ringo
+"Pasivos por impuestos corrientes, corriente",2024-12-31,10714303,2024,890900291,Ringo
+"Pasivos por impuestos corrientes, corriente",2025-12-31,13829702,2025,890900291,Ringo
+Patrimonio Total,2022-12-31,348690717,2022,890900291,Ringo
+Patrimonio Total,2023-12-31,379015986,2023,890900291,Ringo
+Patrimonio Total,2024-12-31,455852805,2024,890900291,Ringo
+Patrimonio Total,2025-12-31,476654799,2025,890900291,Ringo
+Prima de emisión,2022-12-31,3286981,2022,890900291,Ringo
+Prima de emisión,2023-12-31,3063981,2023,890900291,Ringo
+Prima de emisión,2024-12-31,2813981,2024,890900291,Ringo
+Prima de emisión,2025-12-31,2533981,2025,890900291,Ringo
+Propiedad de inversión,2022-12-31,6118700,2022,890900291,Ringo
+Propiedad de inversión,2023-12-31,6777086,2023,890900291,Ringo
+Propiedad de inversión,2024-12-31,3777870,2024,890900291,Ringo
+Propiedad de inversión,2025-12-31,2217066,2025,890900291,Ringo
+"Propiedades, planta y equipo",2022-12-31,207193108,2022,890900291,Ringo
+"Propiedades, planta y equipo",2023-12-31,210991935,2023,890900291,Ringo
+"Propiedades, planta y equipo",2024-12-31,220843324,2024,890900291,Ringo
+"Propiedades, planta y equipo",2025-12-31,225850876,2025,890900291,Ringo
+Provisiones corrientes por beneficios a los empleados,2022-12-31,8400613,2022,890900291,Ringo
+Provisiones corrientes por beneficios a los empleados,2023-12-31,9295883,2023,890900291,Ringo
+Provisiones corrientes por beneficios a los empleados,2024-12-31,11060572,2024,890900291,Ringo
+Provisiones corrientes por beneficios a los empleados,2025-12-31,11768573,2025,890900291,Ringo
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,1481088,2022,890900291,Ringo
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,1704825,2023,890900291,Ringo
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,1731166,2024,890900291,Ringo
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,1747363,2025,890900291,Ringo
+Total Activos,2022-12-31,1028851652,2022,890900291,Ringo
+Total Activos,2023-12-31,856616550,2023,890900291,Ringo
+Total Activos,2024-12-31,842468261,2024,890900291,Ringo
+Total Activos,2025-12-31,828196713,2025,890900291,Ringo
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,646554738,2022,890900291,Ringo
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,478602529,2023,890900291,Ringo
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,450840195,2024,890900291,Ringo
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,466627140,2025,890900291,Ringo
+Total de activos no corrientes,2022-12-31,382296914,2022,890900291,Ringo
+Total de activos no corrientes,2023-12-31,378014021,2023,890900291,Ringo
+Total de activos no corrientes,2024-12-31,391628066,2024,890900291,Ringo
+Total de activos no corrientes,2025-12-31,361569573,2025,890900291,Ringo
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,484397889,2022,890900291,Ringo
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,338251991,2023,890900291,Ringo
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,284510532,2024,890900291,Ringo
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,284415382,2025,890900291,Ringo
+Total de pasivos no corrientes,2022-12-31,195763046,2022,890900291,Ringo
+Total de pasivos no corrientes,2023-12-31,139348573,2023,890900291,Ringo
+Total de pasivos no corrientes,2024-12-31,102104924,2024,890900291,Ringo
+Total de pasivos no corrientes,2025-12-31,67126532,2025,890900291,Ringo
+Total de patrimonio y pasivos,2022-12-31,1028851652,2022,890900291,Ringo
+Total de patrimonio y pasivos,2023-12-31,856616550,2023,890900291,Ringo
+Total de patrimonio y pasivos,2024-12-31,842468261,2024,890900291,Ringo
+Total de patrimonio y pasivos,2025-12-31,828196713,2025,890900291,Ringo
+Total pasivos,2022-12-31,680160935,2022,890900291,Ringo
+Total pasivos,2023-12-31,477600564,2023,890900291,Ringo
+Total pasivos,2024-12-31,386615456,2024,890900291,Ringo
+Total pasivos,2025-12-31,351541914,2025,890900291,Ringo
+Total provisiones corrientes,2022-12-31,13730724,2022,890900291,Ringo
+Total provisiones corrientes,2023-12-31,14877199,2023,890900291,Ringo
+Total provisiones corrientes,2024-12-31,16273807,2024,890900291,Ringo
+Total provisiones corrientes,2025-12-31,19557020,2025,890900291,Ringo
+Total provisiones no corrientes,2022-12-31,1481088,2022,890900291,Ringo
+Total provisiones no corrientes,2023-12-31,1704825,2023,890900291,Ringo
+Total provisiones no corrientes,2024-12-31,1731166,2024,890900291,Ringo
+Total provisiones no corrientes,2025-12-31,1747363,2025,890900291,Ringo
+Acciones propias en cartera,2022-12-31,0,2022,901079136,Royal Canin
+Acciones propias en cartera,2023-12-31,0,2023,901079136,Royal Canin
+Acciones propias en cartera,2024-12-31,0,2024,901079136,Royal Canin
+Acciones propias en cartera,2025-12-31,,2025,901079136,Royal Canin
+"Activos biológicos corrientes, al costo menos depreciación acumulada y deterioro de valor",2022-12-31,0,2022,901079136,Royal Canin
+"Activos biológicos corrientes, al costo menos depreciación acumulada y deterioro de valor",2023-12-31,0,2023,901079136,Royal Canin
+"Activos biológicos corrientes, al costo menos depreciación acumulada y deterioro de valor",2024-12-31,0,2024,901079136,Royal Canin
+"Activos biológicos corrientes, al costo menos depreciación acumulada y deterioro de valor",2025-12-31,,2025,901079136,Royal Canin
+"Activos biológicos corrientes, al valor razonable",2022-12-31,0,2022,901079136,Royal Canin
+"Activos biológicos corrientes, al valor razonable",2023-12-31,0,2023,901079136,Royal Canin
+"Activos biológicos corrientes, al valor razonable",2024-12-31,0,2024,901079136,Royal Canin
+"Activos biológicos corrientes, al valor razonable",2025-12-31,,2025,901079136,Royal Canin
+"Activos biológicos no corrientes, al costo menos depreciación acumulada y deterioro del valor",2022-12-31,0,2022,901079136,Royal Canin
+"Activos biológicos no corrientes, al costo menos depreciación acumulada y deterioro del valor",2023-12-31,0,2023,901079136,Royal Canin
+"Activos biológicos no corrientes, al costo menos depreciación acumulada y deterioro del valor",2024-12-31,0,2024,901079136,Royal Canin
+"Activos biológicos no corrientes, al costo menos depreciación acumulada y deterioro del valor",2025-12-31,,2025,901079136,Royal Canin
+"Activos biológicos no corrientes, al valor razonable",2022-12-31,0,2022,901079136,Royal Canin
+"Activos biológicos no corrientes, al valor razonable",2023-12-31,0,2023,901079136,Royal Canin
+"Activos biológicos no corrientes, al valor razonable",2024-12-31,0,2024,901079136,Royal Canin
+"Activos biológicos no corrientes, al valor razonable",2025-12-31,,2025,901079136,Royal Canin
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,0,2022,901079136,Royal Canin
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,0,2023,901079136,Royal Canin
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,0,2024,901079136,Royal Canin
+Activos corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,,2025,901079136,Royal Canin
+Activos corrientes totales,2022-12-31,20352488,2022,901079136,Royal Canin
+Activos corrientes totales,2023-12-31,24170274,2023,901079136,Royal Canin
+Activos corrientes totales,2024-12-31,25699655,2024,901079136,Royal Canin
+Activos corrientes totales,2025-12-31,39407751,2025,901079136,Royal Canin
+Activos intangibles distintos de la plusvalía,2022-12-31,0,2022,901079136,Royal Canin
+Activos intangibles distintos de la plusvalía,2023-12-31,0,2023,901079136,Royal Canin
+Activos intangibles distintos de la plusvalía,2024-12-31,0,2024,901079136,Royal Canin
+Activos intangibles distintos de la plusvalía,2025-12-31,,2025,901079136,Royal Canin
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2022-12-31,0,2022,901079136,Royal Canin
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2023-12-31,0,2023,901079136,Royal Canin
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2024-12-31,0,2024,901079136,Royal Canin
+Activos no corrientes distintos al efectivo pignorados como garantía colateral para las que el receptor de transferencias tiene derecho por contrato o costumbre a vender o pignorar de nuevo dicha garantía colateral,2025-12-31,,2025,901079136,Royal Canin
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,0,2022,901079136,Royal Canin
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,0,2023,901079136,Royal Canin
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,0,2024,901079136,Royal Canin
+Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,,2025,901079136,Royal Canin
+"Activos por impuestos corrientes, corriente",2022-12-31,5613095,2022,901079136,Royal Canin
+"Activos por impuestos corrientes, corriente",2023-12-31,5293896,2023,901079136,Royal Canin
+"Activos por impuestos corrientes, corriente",2024-12-31,5672780,2024,901079136,Royal Canin
+"Activos por impuestos corrientes, corriente",2025-12-31,7121773,2025,901079136,Royal Canin
+"Activos por impuestos corrientes, no corriente",2022-12-31,0,2022,901079136,Royal Canin
+"Activos por impuestos corrientes, no corriente",2023-12-31,0,2023,901079136,Royal Canin
+"Activos por impuestos corrientes, no corriente",2024-12-31,0,2024,901079136,Royal Canin
+"Activos por impuestos corrientes, no corriente",2025-12-31,,2025,901079136,Royal Canin
+Activos por impuestos diferidos,2022-12-31,0,2022,901079136,Royal Canin
+Activos por impuestos diferidos,2023-12-31,0,2023,901079136,Royal Canin
+Activos por impuestos diferidos,2024-12-31,0,2024,901079136,Royal Canin
+Activos por impuestos diferidos,2025-12-31,,2025,901079136,Royal Canin
+Capital emitido,2022-12-31,147800,2022,901079136,Royal Canin
+Capital emitido,2023-12-31,147800,2023,901079136,Royal Canin
+Capital emitido,2024-12-31,23610244,2024,901079136,Royal Canin
+Capital emitido,2025-12-31,23610244,2025,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,2604292,2022,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,3238905,2023,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,1754365,2024,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,1800518,2025,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,10072914,2022,901079136,Royal Canin
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,11287771,2023,901079136,Royal Canin
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,10555242,2024,901079136,Royal Canin
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,15523809,2025,901079136,Royal Canin
+Efectivo y equivalentes al efectivo,2022-12-31,3193654,2022,901079136,Royal Canin
+Efectivo y equivalentes al efectivo,2023-12-31,1922859,2023,901079136,Royal Canin
+Efectivo y equivalentes al efectivo,2024-12-31,6562434,2024,901079136,Royal Canin
+Efectivo y equivalentes al efectivo,2025-12-31,16443646,2025,901079136,Royal Canin
+Ganancias acumuladas,2022-12-31,-9884576,2022,901079136,Royal Canin
+Ganancias acumuladas,2023-12-31,-9848378,2023,901079136,Royal Canin
+Ganancias acumuladas,2024-12-31,-10338460,2024,901079136,Royal Canin
+Ganancias acumuladas,2025-12-31,-6511421,2025,901079136,Royal Canin
+Inventarios corrientes,2022-12-31,8941447,2022,901079136,Royal Canin
+Inventarios corrientes,2023-12-31,13713669,2023,901079136,Royal Canin
+Inventarios corrientes,2024-12-31,11709131,2024,901079136,Royal Canin
+Inventarios corrientes,2025-12-31,14041814,2025,901079136,Royal Canin
+Inventarios no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Inventarios no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Inventarios no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Inventarios no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Inversión suplementaria al capital asignado,2022-12-31,0,2022,901079136,Royal Canin
+Inversión suplementaria al capital asignado,2023-12-31,0,2023,901079136,Royal Canin
+Inversión suplementaria al capital asignado,2024-12-31,0,2024,901079136,Royal Canin
+Inversión suplementaria al capital asignado,2025-12-31,,2025,901079136,Royal Canin
+Otras participaciones en el patrimonio,2022-12-31,0,2022,901079136,Royal Canin
+Otras participaciones en el patrimonio,2023-12-31,0,2023,901079136,Royal Canin
+Otras participaciones en el patrimonio,2024-12-31,0,2024,901079136,Royal Canin
+Otras participaciones en el patrimonio,2025-12-31,,2025,901079136,Royal Canin
+Otras provisiones corrientes,2022-12-31,19096395,2022,901079136,Royal Canin
+Otras provisiones corrientes,2023-12-31,20846381,2023,901079136,Royal Canin
+Otras provisiones corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otras provisiones corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otras provisiones no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otras provisiones no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otras provisiones no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otras provisiones no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otras reservas,2022-12-31,0,2022,901079136,Royal Canin
+Otras reservas,2023-12-31,0,2023,901079136,Royal Canin
+Otras reservas,2024-12-31,0,2024,901079136,Royal Canin
+Otras reservas,2025-12-31,,2025,901079136,Royal Canin
+Otros activos financieros corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros activos financieros corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros activos financieros corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros activos financieros corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros activos financieros no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros activos financieros no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros activos financieros no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros activos financieros no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros activos no financieros corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros activos no financieros corrientes,2023-12-31,945,2023,901079136,Royal Canin
+Otros activos no financieros corrientes,2024-12-31,945,2024,901079136,Royal Canin
+Otros activos no financieros corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros activos no financieros no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros activos no financieros no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros activos no financieros no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros activos no financieros no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros pasivos financieros corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros pasivos financieros corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros pasivos financieros corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros pasivos financieros corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros pasivos financieros no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros pasivos financieros no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros pasivos financieros no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros pasivos financieros no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros pasivos no financieros corrientes,2022-12-31,14505,2022,901079136,Royal Canin
+Otros pasivos no financieros corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros pasivos no financieros corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros pasivos no financieros corrientes,2025-12-31,,2025,901079136,Royal Canin
+Otros pasivos no financieros no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Otros pasivos no financieros no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Otros pasivos no financieros no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Otros pasivos no financieros no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Parte corriente de préstamos no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Parte corriente de préstamos no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Parte corriente de préstamos no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Parte corriente de préstamos no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Parte no corriente de préstamos no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Parte no corriente de préstamos no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Parte no corriente de préstamos no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Parte no corriente de préstamos no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Pasivo por impuestos diferidos,2022-12-31,0,2022,901079136,Royal Canin
+Pasivo por impuestos diferidos,2023-12-31,0,2023,901079136,Royal Canin
+Pasivo por impuestos diferidos,2024-12-31,0,2024,901079136,Royal Canin
+Pasivo por impuestos diferidos,2025-12-31,,2025,901079136,Royal Canin
+Pasivos corrientes totales,2022-12-31,30188501,2022,901079136,Royal Canin
+Pasivos corrientes totales,2023-12-31,34006464,2023,901079136,Royal Canin
+Pasivos corrientes totales,2024-12-31,12693631,2024,901079136,Royal Canin
+Pasivos corrientes totales,2025-12-31,22456296,2025,901079136,Royal Canin
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,0,2022,901079136,Royal Canin
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,0,2023,901079136,Royal Canin
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,0,2024,901079136,Royal Canin
+Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,,2025,901079136,Royal Canin
+"Pasivos por impuestos corrientes, corriente",2022-12-31,0,2022,901079136,Royal Canin
+"Pasivos por impuestos corrientes, corriente",2023-12-31,0,2023,901079136,Royal Canin
+"Pasivos por impuestos corrientes, corriente",2024-12-31,0,2024,901079136,Royal Canin
+"Pasivos por impuestos corrientes, corriente",2025-12-31,4342361,2025,901079136,Royal Canin
+"Pasivos por impuestos corrientes, no corriente",2022-12-31,0,2022,901079136,Royal Canin
+"Pasivos por impuestos corrientes, no corriente",2023-12-31,0,2023,901079136,Royal Canin
+"Pasivos por impuestos corrientes, no corriente",2024-12-31,0,2024,901079136,Royal Canin
+"Pasivos por impuestos corrientes, no corriente",2025-12-31,,2025,901079136,Royal Canin
+Patrimonio Total,2022-12-31,-9736776,2022,901079136,Royal Canin
+Patrimonio Total,2023-12-31,-9700578,2023,901079136,Royal Canin
+Patrimonio Total,2024-12-31,13271784,2024,901079136,Royal Canin
+Patrimonio Total,2025-12-31,17098823,2025,901079136,Royal Canin
+Plusvalía,2022-12-31,0,2022,901079136,Royal Canin
+Plusvalía,2023-12-31,0,2023,901079136,Royal Canin
+Plusvalía,2024-12-31,0,2024,901079136,Royal Canin
+Plusvalía,2025-12-31,,2025,901079136,Royal Canin
+Prima de emisión,2022-12-31,0,2022,901079136,Royal Canin
+Prima de emisión,2023-12-31,0,2023,901079136,Royal Canin
+Prima de emisión,2024-12-31,0,2024,901079136,Royal Canin
+Prima de emisión,2025-12-31,,2025,901079136,Royal Canin
+Propiedades de inversión a valor razonable con cambios en resultados,2022-12-31,0,2022,901079136,Royal Canin
+Propiedades de inversión a valor razonable con cambios en resultados,2023-12-31,0,2023,901079136,Royal Canin
+Propiedades de inversión a valor razonable con cambios en resultados,2024-12-31,0,2024,901079136,Royal Canin
+Propiedades de inversión a valor razonable con cambios en resultados,2025-12-31,,2025,901079136,Royal Canin
+Propiedades de inversión al costo menos depreciación acumulada y deterioro,2022-12-31,0,2022,901079136,Royal Canin
+Propiedades de inversión al costo menos depreciación acumulada y deterioro,2023-12-31,0,2023,901079136,Royal Canin
+Propiedades de inversión al costo menos depreciación acumulada y deterioro,2024-12-31,0,2024,901079136,Royal Canin
+Propiedades de inversión al costo menos depreciación acumulada y deterioro,2025-12-31,,2025,901079136,Royal Canin
+"Propiedades, planta y equipo",2022-12-31,99237,2022,901079136,Royal Canin
+"Propiedades, planta y equipo",2023-12-31,135612,2023,901079136,Royal Canin
+"Propiedades, planta y equipo",2024-12-31,265760,2024,901079136,Royal Canin
+"Propiedades, planta y equipo",2025-12-31,147368,2025,901079136,Royal Canin
+Provisiones corrientes por beneficios a los empleados,2022-12-31,1004687,2022,901079136,Royal Canin
+Provisiones corrientes por beneficios a los empleados,2023-12-31,1872312,2023,901079136,Royal Canin
+Provisiones corrientes por beneficios a los empleados,2024-12-31,2138389,2024,901079136,Royal Canin
+Provisiones corrientes por beneficios a los empleados,2025-12-31,2590126,2025,901079136,Royal Canin
+Provisiones no corrientes por beneficios a los empleados,2022-12-31,0,2022,901079136,Royal Canin
+Provisiones no corrientes por beneficios a los empleados,2023-12-31,0,2023,901079136,Royal Canin
+Provisiones no corrientes por beneficios a los empleados,2024-12-31,0,2024,901079136,Royal Canin
+Provisiones no corrientes por beneficios a los empleados,2025-12-31,,2025,901079136,Royal Canin
+Préstamos corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Préstamos corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Préstamos corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Préstamos corrientes,2025-12-31,,2025,901079136,Royal Canin
+Superavit por revaluación,2022-12-31,0,2022,901079136,Royal Canin
+Superavit por revaluación,2023-12-31,0,2023,901079136,Royal Canin
+Superavit por revaluación,2024-12-31,0,2024,901079136,Royal Canin
+Superavit por revaluación,2025-12-31,,2025,901079136,Royal Canin
+Total Activos,2022-12-31,20451725,2022,901079136,Royal Canin
+Total Activos,2023-12-31,24305886,2023,901079136,Royal Canin
+Total Activos,2024-12-31,25965415,2024,901079136,Royal Canin
+Total Activos,2025-12-31,39555119,2025,901079136,Royal Canin
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,20352488,2022,901079136,Royal Canin
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,24170274,2023,901079136,Royal Canin
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,25699655,2024,901079136,Royal Canin
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,39407751,2025,901079136,Royal Canin
+Total de activos no corrientes,2022-12-31,99237,2022,901079136,Royal Canin
+Total de activos no corrientes,2023-12-31,135612,2023,901079136,Royal Canin
+Total de activos no corrientes,2024-12-31,265760,2024,901079136,Royal Canin
+Total de activos no corrientes,2025-12-31,147368,2025,901079136,Royal Canin
+Total de pasivos no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Total de pasivos no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Total de pasivos no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Total de pasivos no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Total de patrimonio y pasivos,2022-12-31,20451725,2022,901079136,Royal Canin
+Total de patrimonio y pasivos,2023-12-31,24305886,2023,901079136,Royal Canin
+Total de patrimonio y pasivos,2024-12-31,25965415,2024,901079136,Royal Canin
+Total de patrimonio y pasivos,2025-12-31,39555119,2025,901079136,Royal Canin
+Total pasivos,2022-12-31,30188501,2022,901079136,Royal Canin
+Total pasivos,2023-12-31,34006464,2023,901079136,Royal Canin
+Total pasivos,2024-12-31,12693631,2024,901079136,Royal Canin
+Total pasivos,2025-12-31,22456296,2025,901079136,Royal Canin
+Total pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,30188501,2022,901079136,Royal Canin
+Total pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,34006464,2023,901079136,Royal Canin
+Total pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,12693631,2024,901079136,Royal Canin
+Total pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,22456296,2025,901079136,Royal Canin
+Total provisiones corrientes,2022-12-31,20101082,2022,901079136,Royal Canin
+Total provisiones corrientes,2023-12-31,22718693,2023,901079136,Royal Canin
+Total provisiones corrientes,2024-12-31,2138389,2024,901079136,Royal Canin
+Total provisiones corrientes,2025-12-31,2590126,2025,901079136,Royal Canin
+Total provisiones no corrientes,2022-12-31,0,2022,901079136,Royal Canin
+Total provisiones no corrientes,2023-12-31,0,2023,901079136,Royal Canin
+Total provisiones no corrientes,2024-12-31,0,2024,901079136,Royal Canin
+Total provisiones no corrientes,2025-12-31,,2025,901079136,Royal Canin
+Activos corrientes totales,2022-12-31,55509176,2022,900490865,Simparica
+Activos corrientes totales,2023-12-31,72404817,2023,900490865,Simparica
+Activos corrientes totales,2024-12-31,78444057,2024,900490865,Simparica
+Activos corrientes totales,2025-12-31,95096603,2025,900490865,Simparica
+Activos intangibles distintos de la plusvalía,2022-12-31,251684,2022,900490865,Simparica
+Activos intangibles distintos de la plusvalía,2023-12-31,176179,2023,900490865,Simparica
+Activos intangibles distintos de la plusvalía,2024-12-31,100674,2024,900490865,Simparica
+Activos intangibles distintos de la plusvalía,2025-12-31,25169,2025,900490865,Simparica
+"Activos por impuestos corrientes, corriente",2022-12-31,5996401,2022,900490865,Simparica
+"Activos por impuestos corrientes, corriente",2023-12-31,7305230,2023,900490865,Simparica
+"Activos por impuestos corrientes, corriente",2024-12-31,11584789,2024,900490865,Simparica
+"Activos por impuestos corrientes, corriente",2025-12-31,15352450,2025,900490865,Simparica
+Activos por impuestos diferidos,2022-12-31,1813281,2022,900490865,Simparica
+Activos por impuestos diferidos,2023-12-31,1119038,2023,900490865,Simparica
+Activos por impuestos diferidos,2024-12-31,1509860,2024,900490865,Simparica
+Activos por impuestos diferidos,2025-12-31,1126197,2025,900490865,Simparica
+Capital emitido,2022-12-31,1039133,2022,900490865,Simparica
+Capital emitido,2023-12-31,1039133,2023,900490865,Simparica
+Capital emitido,2024-12-31,1039133,2024,900490865,Simparica
+Capital emitido,2025-12-31,1039133,2025,900490865,Simparica
+Costo de ventas,2022-12-31,70130703,2022,900490865,Simparica
+Costo de ventas,2023-12-31,87816339,2023,900490865,Simparica
+Costo de ventas,2024-12-31,105054892,2024,900490865,Simparica
+Costo de ventas,2025-12-31,118807545,2025,900490865,Simparica
+Costos financieros,2022-12-31,2071950,2022,900490865,Simparica
+Costos financieros,2023-12-31,3013722,2023,900490865,Simparica
+Costos financieros,2024-12-31,1809985,2024,900490865,Simparica
+Costos financieros,2025-12-31,2468893,2025,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2022-12-31,8732505,2022,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2023-12-31,15895750,2023,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2024-12-31,14957663,2024,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes,2025-12-31,16297459,2025,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2022-12-31,125794,2022,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2023-12-31,125794,2023,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2024-12-31,125794,2024,900490865,Simparica
+Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes,2025-12-31,125794,2025,900490865,Simparica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2022-12-31,173554,2022,900490865,Simparica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2023-12-31,4704327,2023,900490865,Simparica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2024-12-31,,2024,900490865,Simparica
+Cuentas comerciales por pagar y otras cuentas por pagar no corrientes,2025-12-31,,2025,900490865,Simparica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2022-12-31,39875869,2022,900490865,Simparica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2023-12-31,47987005,2023,900490865,Simparica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2024-12-31,55805120,2024,900490865,Simparica
+Cuentas por pagar comerciales y otras cuentas por pagar corrientes,2025-12-31,69117250,2025,900490865,Simparica
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2022-12-31,0,2022,900490865,Simparica
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2023-12-31,0,2023,900490865,Simparica
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2024-12-31,0,2024,900490865,Simparica
+Deterioro de valor de ganancias y reversión de pérdidas por deterioro de valor (pérdidas por deterioro de valor) determinado de acuerdo con la NIIF 9,2025-12-31,0,2025,900490865,Simparica
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2022-12-31,0,2022,900490865,Simparica
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2023-12-31,0,2023,900490865,Simparica
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2024-12-31,0,2024,900490865,Simparica
+Diferencia entre el importe en libros de dividendos pagaderos e importe en libros de activos distribuidos distintos al efectivo,2025-12-31,0,2025,900490865,Simparica
+Efectivo y equivalentes al efectivo,2022-12-31,5797667,2022,900490865,Simparica
+Efectivo y equivalentes al efectivo,2023-12-31,10889794,2023,900490865,Simparica
+Efectivo y equivalentes al efectivo,2024-12-31,16190342,2024,900490865,Simparica
+Efectivo y equivalentes al efectivo,2025-12-31,17633186,2025,900490865,Simparica
+Ganancia (pérdida),2022-12-31,1253339,2022,900490865,Simparica
+Ganancia (pérdida),2023-12-31,2189352,2023,900490865,Simparica
+Ganancia (pérdida),2024-12-31,721990,2024,900490865,Simparica
+Ganancia (pérdida),2025-12-31,2695935,2025,900490865,Simparica
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2022-12-31,0,2022,900490865,Simparica
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2023-12-31,0,2023,900490865,Simparica
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2024-12-31,0,2024,900490865,Simparica
+Ganancia (pérdida) acumulada anteriormente reconocida en otro resultado integral que surge de la reclasificación de activos financieros de la categoría de medición de valor razonable con cambios en otro resultado integral a la de valor razonable con cambios en resultados,2025-12-31,0,2025,900490865,Simparica
+Ganancia (pérdida) por actividades de operación,2022-12-31,5002679,2022,900490865,Simparica
+Ganancia (pérdida) por actividades de operación,2023-12-31,6486576,2023,900490865,Simparica
+Ganancia (pérdida) por actividades de operación,2024-12-31,2908508,2024,900490865,Simparica
+Ganancia (pérdida) por actividades de operación,2025-12-31,7030799,2025,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones continuadas,2022-12-31,1253339,2022,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones continuadas,2023-12-31,2189352,2023,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones continuadas,2024-12-31,721990,2024,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones continuadas,2025-12-31,2695935,2025,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones discontinuadas,2022-12-31,0,2022,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones discontinuadas,2023-12-31,0,2023,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones discontinuadas,2024-12-31,0,2024,900490865,Simparica
+Ganancia (pérdida) procedente de operaciones discontinuadas,2025-12-31,0,2025,900490865,Simparica
+"Ganancia (pérdida), antes de impuestos",2022-12-31,2948214,2022,900490865,Simparica
+"Ganancia (pérdida), antes de impuestos",2023-12-31,5154652,2023,900490865,Simparica
+"Ganancia (pérdida), antes de impuestos",2024-12-31,1098523,2024,900490865,Simparica
+"Ganancia (pérdida), antes de impuestos",2025-12-31,4561906,2025,900490865,Simparica
+Ganancia bruta,2022-12-31,28142996,2022,900490865,Simparica
+Ganancia bruta,2023-12-31,29311650,2023,900490865,Simparica
+Ganancia bruta,2024-12-31,28437729,2024,900490865,Simparica
+Ganancia bruta,2025-12-31,34509187,2025,900490865,Simparica
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2022-12-31,0,2022,900490865,Simparica
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2023-12-31,0,2023,900490865,Simparica
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2024-12-31,0,2024,900490865,Simparica
+Ganancias (pérdidas) de cobertura por cobertura de un grupo de partidas con posiciones de riesgo compensadoras,2025-12-31,0,2025,900490865,Simparica
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2022-12-31,0,2022,900490865,Simparica
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2023-12-31,0,2023,900490865,Simparica
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2024-12-31,0,2024,900490865,Simparica
+Ganancias (pérdidas) que surgen de diferencias entre el costo amortizado anterior y el valor razonable de activos financieros reclasificados de la categoría de medición costo amortizado a la categoría de medición de valor razonable con cambios en resultados,2025-12-31,0,2025,900490865,Simparica
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2022-12-31,0,2022,900490865,Simparica
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2023-12-31,0,2023,900490865,Simparica
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2024-12-31,0,2024,900490865,Simparica
+Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado,2025-12-31,0,2025,900490865,Simparica
+Ganancias acumuladas,2022-12-31,21315309,2022,900490865,Simparica
+Ganancias acumuladas,2023-12-31,23504661,2023,900490865,Simparica
+Ganancias acumuladas,2024-12-31,24226651,2024,900490865,Simparica
+Ganancias acumuladas,2025-12-31,26922586,2025,900490865,Simparica
+Gastos de administración,2022-12-31,3073036,2022,900490865,Simparica
+Gastos de administración,2023-12-31,4103013,2023,900490865,Simparica
+Gastos de administración,2024-12-31,5313133,2024,900490865,Simparica
+Gastos de administración,2025-12-31,5609178,2025,900490865,Simparica
+Gastos de ventas,2022-12-31,19905814,2022,900490865,Simparica
+Gastos de ventas,2023-12-31,18876684,2023,900490865,Simparica
+Gastos de ventas,2024-12-31,20247267,2024,900490865,Simparica
+Gastos de ventas,2025-12-31,21720710,2025,900490865,Simparica
+Ingreso (gasto) por impuestos,2022-12-31,1694875,2022,900490865,Simparica
+Ingreso (gasto) por impuestos,2023-12-31,2965300,2023,900490865,Simparica
+Ingreso (gasto) por impuestos,2024-12-31,376533,2024,900490865,Simparica
+Ingreso (gasto) por impuestos,2025-12-31,1865971,2025,900490865,Simparica
+Ingresos de actividades ordinarias,2022-12-31,98273699,2022,900490865,Simparica
+Ingresos de actividades ordinarias,2023-12-31,117127989,2023,900490865,Simparica
+Ingresos de actividades ordinarias,2024-12-31,133492621,2024,900490865,Simparica
+Ingresos de actividades ordinarias,2025-12-31,153316732,2025,900490865,Simparica
+Ingresos financieros,2022-12-31,17485,2022,900490865,Simparica
+Ingresos financieros,2023-12-31,1681798,2023,900490865,Simparica
+Ingresos financieros,2024-12-31,0,2024,900490865,Simparica
+Ingresos financieros,2025-12-31,0,2025,900490865,Simparica
+Inventarios corrientes,2022-12-31,34691535,2022,900490865,Simparica
+Inventarios corrientes,2023-12-31,38080220,2023,900490865,Simparica
+Inventarios corrientes,2024-12-31,35483183,2024,900490865,Simparica
+Inventarios corrientes,2025-12-31,45564784,2025,900490865,Simparica
+Otras ganancias (pérdidas),2022-12-31,0,2022,900490865,Simparica
+Otras ganancias (pérdidas),2023-12-31,0,2023,900490865,Simparica
+Otras ganancias (pérdidas),2024-12-31,0,2024,900490865,Simparica
+Otras ganancias (pérdidas),2025-12-31,0,2025,900490865,Simparica
+Otras provisiones corrientes,2022-12-31,791508,2022,900490865,Simparica
+Otras provisiones corrientes,2023-12-31,668922,2023,900490865,Simparica
+Otras provisiones corrientes,2024-12-31,1174314,2024,900490865,Simparica
+Otras provisiones corrientes,2025-12-31,1334589,2025,900490865,Simparica
+Otras reservas,2022-12-31,524838,2022,900490865,Simparica
+Otras reservas,2023-12-31,524838,2023,900490865,Simparica
+Otras reservas,2024-12-31,524838,2024,900490865,Simparica
+Otras reservas,2025-12-31,524838,2025,900490865,Simparica
+Otros activos financieros no corrientes,2022-12-31,3607,2022,900490865,Simparica
+Otros activos financieros no corrientes,2023-12-31,4490618,2023,900490865,Simparica
+Otros activos financieros no corrientes,2024-12-31,,2024,900490865,Simparica
+Otros activos financieros no corrientes,2025-12-31,,2025,900490865,Simparica
+Otros activos no financieros corrientes,2022-12-31,291068,2022,900490865,Simparica
+Otros activos no financieros corrientes,2023-12-31,233823,2023,900490865,Simparica
+Otros activos no financieros corrientes,2024-12-31,228080,2024,900490865,Simparica
+Otros activos no financieros corrientes,2025-12-31,248724,2025,900490865,Simparica
+Otros activos no financieros no corrientes,2022-12-31,,2022,900490865,Simparica
+Otros activos no financieros no corrientes,2023-12-31,,2023,900490865,Simparica
+Otros activos no financieros no corrientes,2024-12-31,3835459,2024,900490865,Simparica
+Otros activos no financieros no corrientes,2025-12-31,3403389,2025,900490865,Simparica
+Otros gastos,2022-12-31,272833,2022,900490865,Simparica
+Otros gastos,2023-12-31,334347,2023,900490865,Simparica
+Otros gastos,2024-12-31,303199,2024,900490865,Simparica
+Otros gastos,2025-12-31,183819,2025,900490865,Simparica
+Otros ingresos,2022-12-31,111366,2022,900490865,Simparica
+Otros ingresos,2023-12-31,488970,2023,900490865,Simparica
+Otros ingresos,2024-12-31,334378,2024,900490865,Simparica
+Otros ingresos,2025-12-31,35319,2025,900490865,Simparica
+Otros pasivos financieros corrientes,2022-12-31,88639,2022,900490865,Simparica
+Otros pasivos financieros corrientes,2023-12-31,4535142,2023,900490865,Simparica
+Otros pasivos financieros corrientes,2024-12-31,1660712,2024,900490865,Simparica
+Otros pasivos financieros corrientes,2025-12-31,1815752,2025,900490865,Simparica
+Otros pasivos financieros no corrientes,2022-12-31,,2022,900490865,Simparica
+Otros pasivos financieros no corrientes,2023-12-31,3051140,2023,900490865,Simparica
+Otros pasivos financieros no corrientes,2024-12-31,2287031,2024,900490865,Simparica
+Otros pasivos financieros no corrientes,2025-12-31,1720871,2025,900490865,Simparica
+Otros pasivos no financieros corrientes,2022-12-31,489572,2022,900490865,Simparica
+Otros pasivos no financieros corrientes,2023-12-31,716859,2023,900490865,Simparica
+Otros pasivos no financieros corrientes,2024-12-31,894026,2024,900490865,Simparica
+Otros pasivos no financieros corrientes,2025-12-31,750594,2025,900490865,Simparica
+Pasivos corrientes totales,2022-12-31,42269184,2022,900490865,Simparica
+Pasivos corrientes totales,2023-12-31,54973503,2023,900490865,Simparica
+Pasivos corrientes totales,2024-12-31,60455341,2024,900490865,Simparica
+Pasivos corrientes totales,2025-12-31,74309503,2025,900490865,Simparica
+Patrimonio Total,2022-12-31,25909617,2022,900490865,Simparica
+Patrimonio Total,2023-12-31,28098969,2023,900490865,Simparica
+Patrimonio Total,2024-12-31,28820959,2024,900490865,Simparica
+Patrimonio Total,2025-12-31,31516894,2025,900490865,Simparica
+Prima de emisión,2022-12-31,3030337,2022,900490865,Simparica
+Prima de emisión,2023-12-31,3030337,2023,900490865,Simparica
+Prima de emisión,2024-12-31,3030337,2024,900490865,Simparica
+Prima de emisión,2025-12-31,3030337,2025,900490865,Simparica
+"Propiedades, planta y equipo",2022-12-31,10648813,2022,900490865,Simparica
+"Propiedades, planta y equipo",2023-12-31,9460353,2023,900490865,Simparica
+"Propiedades, planta y equipo",2024-12-31,11382946,2024,900490865,Simparica
+"Propiedades, planta y equipo",2025-12-31,7770116,2025,900490865,Simparica
+Provisiones corrientes por beneficios a los empleados,2022-12-31,1023596,2022,900490865,Simparica
+Provisiones corrientes por beneficios a los empleados,2023-12-31,1065575,2023,900490865,Simparica
+Provisiones corrientes por beneficios a los empleados,2024-12-31,921169,2024,900490865,Simparica
+Provisiones corrientes por beneficios a los empleados,2025-12-31,1291318,2025,900490865,Simparica
+Total Activos,2022-12-31,68352355,2022,900490865,Simparica
+Total Activos,2023-12-31,87776799,2023,900490865,Simparica
+Total Activos,2024-12-31,91563331,2024,900490865,Simparica
+Total Activos,2025-12-31,107547268,2025,900490865,Simparica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2022-12-31,55509176,2022,900490865,Simparica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2023-12-31,72404817,2023,900490865,Simparica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2024-12-31,78444057,2024,900490865,Simparica
+Total activos corrientes distintos de los activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios,2025-12-31,95096603,2025,900490865,Simparica
+Total de activos no corrientes,2022-12-31,12843179,2022,900490865,Simparica
+Total de activos no corrientes,2023-12-31,15371982,2023,900490865,Simparica
+Total de activos no corrientes,2024-12-31,13119274,2024,900490865,Simparica
+Total de activos no corrientes,2025-12-31,12450665,2025,900490865,Simparica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2022-12-31,42269184,2022,900490865,Simparica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2023-12-31,54973503,2023,900490865,Simparica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2024-12-31,60455341,2024,900490865,Simparica
+Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta,2025-12-31,74309503,2025,900490865,Simparica
+Total de pasivos no corrientes,2022-12-31,173554,2022,900490865,Simparica
+Total de pasivos no corrientes,2023-12-31,4704327,2023,900490865,Simparica
+Total de pasivos no corrientes,2024-12-31,2287031,2024,900490865,Simparica
+Total de pasivos no corrientes,2025-12-31,1720871,2025,900490865,Simparica
+Total de patrimonio y pasivos,2022-12-31,68352355,2022,900490865,Simparica
+Total de patrimonio y pasivos,2023-12-31,87776799,2023,900490865,Simparica
+Total de patrimonio y pasivos,2024-12-31,91563331,2024,900490865,Simparica
+Total de patrimonio y pasivos,2025-12-31,107547268,2025,900490865,Simparica
+Total pasivos,2022-12-31,42442738,2022,900490865,Simparica
+Total pasivos,2023-12-31,59677830,2023,900490865,Simparica
+Total pasivos,2024-12-31,62742372,2024,900490865,Simparica
+Total pasivos,2025-12-31,76030374,2025,900490865,Simparica
+Total provisiones corrientes,2022-12-31,1815104,2022,900490865,Simparica
+Total provisiones corrientes,2023-12-31,1734497,2023,900490865,Simparica
+Total provisiones corrientes,2024-12-31,2095483,2024,900490865,Simparica
+Total provisiones corrientes,2025-12-31,2625907,2025,900490865,Simparica

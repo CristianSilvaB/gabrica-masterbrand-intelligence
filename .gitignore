@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/*.xlsx
+!data/raw/*.csv
 .env
 ml_state.json
 ml_states.json
