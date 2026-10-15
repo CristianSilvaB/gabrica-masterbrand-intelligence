@@ -147,6 +147,13 @@ def main():
         sys.exit(1)
 
     df_total = pl.concat(dfs).unique(subset=["fuente", "objetivo", "texto_opinion"])
+    # Filtrar homónimos ajenos (películas, animación, videojuegos)
+    cond_ruido = ~pl.col("texto_opinion").str.contains(r'(?i)(coraline|kubo|stop[\s-]motion|silent\s?hill|fortune\'?s\s?run|animation studio|pel[ií]cula|estudio laika)')
+    cond_homonym = (
+        ~pl.col("objetivo").is_in(["Laika", "Hills"]) |
+        pl.col("texto_opinion").str.contains(r'(?i)\b(perr|gat|mascot|cachorr|veterinar|pulga|garrapata|alimento|comida|croqueta|pienso|pastill|dosis|pedido|tienda|compr|servicio|app|entrega)\b')
+    )
+    df_total = df_total.filter(cond_ruido & cond_homonym)
     logger.info(f"Total opiniones únicas a auditar: {df_total.height:,}")
 
     # Procesar fila por fila en memoria

@@ -47,16 +47,19 @@ def call_gemini_batch(api_key: str, model: str, batch: List[Dict[str, any]], max
     """Envía un lote de opiniones a Gemini y retorna su análisis estructurado en JSON."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     
-    prompt = f"""Eres un analista experto de Inteligencia de Mercado y Percepción del Consumidor en la industria de mascotas para Gabrica.
-Analiza con rigor el sentimiento de cada una de las siguientes opiniones sobre productos de mascotas y extrae el tema central.
+    prompt = f"""Eres un analista senior de Inteligencia de Mercado y Percepción del Consumidor en la categoría de mascotas (Gabrica Colombia).
+Evalúa el sentimiento del consumidor ESPECÍFICAMENTE HACIA LA MARCA EVALUADA ('marca_evaluada') en cada opinión.
 
-Reglas estrictas:
-1. Responde ÚNICAMENTE con un arreglo JSON válido (array de objetos).
-2. Cada objeto debe tener exactamente estos campos:
-   - "id": el número de identificación recibido en la entrada.
-   - "sentimiento": exactamente uno de los valores: "positivo", "negativo" o "neutral".
-   - "tema": una categoría breve de 2-4 palabras que describa el aspecto evaluado (ejemplos: "sabor/palatabilidad", "salud digestiva", "precio/costo", "efectos secundarios", "logística/entrega", "recomendación veterinaria", "alergias/piel").
-   - "resumen": síntesis de la opinión en máximo 10 palabras.
+CRITERIOS ESTRICTOS DE SENTIMIENTO HACIA LA MARCA EVALUADA:
+- 'positivo': El usuario expresa satisfacción, efectividad, preferencia, beneficio o recomendación de la marca_evaluada.
+- 'negativo': El usuario expresa quejas, ineficacia, efectos secundarios, precio excesivo, mala atención o rechazo hacia la marca_evaluada.
+- 'neutral': Consultas médicas o veterinarias generales sin reclamo hacia la marca, preguntas de dosis, consultas de uso, o menciones informativas objetivas. Si el usuario agradece o elogia al youtuber/veterinario del video pero no evalúa el producto/marca, es 'neutral'.
+- 'descartar': Comentarios sobre películas, animación, videojuegos, música, homónimos ajenos, en otros idiomas (inglés, alemán, etc.), o spam ajeno a mascotas.
+
+REGLAS DE TEMA ('tema'): Categoría breve de 2-4 palabras que describa el aspecto evaluado (ejemplos: 'salud digestiva', 'eficacia antiparasitaria', 'precio/costo', 'efectos secundarios', 'logística/entrega', 'palatabilidad/sabor', 'consulta médica', 'alergias/piel', 'atención al cliente').
+REGLAS DE RESUMEN ('resumen'): Síntesis ejecutiva de la opinión en máximo 10 palabras.
+
+Responde ÚNICAMENTE con un array JSON de objetos con: id, sentimiento, tema, resumen.
 
 Opiniones a clasificar:
 {json.dumps(batch, ensure_ascii=False)}"""
@@ -111,10 +114,10 @@ Opiniones a clasificar:
 
 # Patrones de filtrado semántico para YouTube (inteligencia de mercado para mascotas)
 SPANISH_MARKERS = r'(?i)\b(el|la|los|las|un|una|de|del|en|y|que|con|por|para|mi|mis|su|sus|este|esta|al|es|son|muy|buen|bueno|buena|gracias|le|les|se|me|te|nos)\b'
-ANIMATION_STUDIO_NOISE = r'(?i)\b(film|movie|cast|trailer|director|animation|character|actor|actress|coraline|kubo|stop[\s-]motion|cinema|theatre)\b'
-PET_PATTERN = r'(?i)\b(perr[oas]|gat[oas]|mascot[as]|cachorr[oas]|canin[oas]|felin[oas]|pelud[oas])\b'
-HEALTH_PATTERN = r'(?i)\b(veterinar|pulga|garrapata|parasit|dosis|recet|pastill|enferm|v[oó]mit|diarre|alerg|reacci[oó]n|s[ií]ntom|infecc|intoxic)\b'
-PRODUCT_PATTERN = r'(?i)\b(alimento|comida|croqueta|pienso|pat[eé]|pepa|sabor|palatab|gust|rechaz|calidad|precio|costo|car[oa]|barat[oa]|compr|tienda|sirve|funciona|marca|efecto|resultado)\b'
+NOISE_PATTERN = r'(?i)\b(film|movie|cast|trailer|director|animation|animaci[oó]n|character|personaje|actor|actress|actriz|coraline|kubo|stop[\s-]motion|cinema|cine|pel[ií]cula|theatre|teatro|silent\s?hill|fortune\'?s\s?run|videojuego|gameplay|the\s?weeknd|soundtrack|álbum|album|hotmail|sputnik|sovi[eé]tic|espacial|cohete|astronauta|serie\s+de\s+tv|episodio)\b'
+PET_PATTERN = r'(?i)\b(perr[oas]|gat[oas]|mascot[as]|cachorr[oas]|canin[oas]|felin[oas]|pelud[oas]|michi[s]?|lomito[s]?)\b'
+HEALTH_PATTERN = r'(?i)\b(veterinar|pulga|garrapata|parasit|dosis|recet|pastill|enferm|v[oó]mit|diarre|alerg|reacci[oó]n|s[ií]ntom|infecc|intoxic|desparasit|pipeta|collar|comprimido|tableta|tratamiento)\b'
+PRODUCT_PATTERN = r'(?i)\b(alimento|comida|croqueta|pienso|pat[eé]|pepa|sabor|palatab|gust|rechaz|calidad|precio|costo|car[oa]|barat[oa]|compr|tienda|sirve|funciona|marca|efecto|resultado|entrega|pedido|atenci[oó]n|servicio)\b'
 BRAND_PATTERN = r'(?i)\b(hills|bravecto|nexgard|simparica|purina|pro\s?plan|gabrica|agrocampo|laika|royal|acana|orijen|credelio|revolution)\b'
 
 
@@ -129,10 +132,21 @@ def filtrar_opiniones_youtube(
     total_original = df_yt.height
     logger.info(f"🔍 Aplicando filtro inteligente a comentarios de YouTube ({total_original} comentarios originales)...")
 
+    # Para marcas con homónimos fuertes en cine/geografía (Laika, Hills), exigir contexto veterinario/mascota explícito
+    cond_homonym = (
+        ~pl.col("objetivo").is_in(["Laika", "Hills"]) |
+        (
+            pl.col("texto_opinion").str.contains(PET_PATTERN) |
+            pl.col("texto_opinion").str.contains(HEALTH_PATTERN) |
+            pl.col("texto_opinion").str.contains(PRODUCT_PATTERN)
+        )
+    )
+
     condicion_relevancia = (
         (pl.col("texto_opinion").str.len_chars() >= min_chars) &
         (pl.col("texto_opinion").str.contains(SPANISH_MARKERS)) &
-        (~pl.col("texto_opinion").str.contains(ANIMATION_STUDIO_NOISE)) &
+        (~pl.col("texto_opinion").str.contains(NOISE_PATTERN)) &
+        cond_homonym &
         (
             pl.col("texto_opinion").str.contains(BRAND_PATTERN) |
             (
@@ -208,6 +222,12 @@ def main():
         action="store_true",
         help="Desactiva el filtro semántico de YouTube (no recomendado: consume cuota masiva)."
     )
+    parser.add_argument(
+        "--recalificar",
+        "--force",
+        action="store_true",
+        help="Fuerza la recalificación completa de todas las opiniones con Gemini, ignorando el caché previo de 12_reviews_gemini.csv."
+    )
     args = parser.parse_args()
 
     api_key = get_gemini_api_key()
@@ -254,14 +274,14 @@ def main():
     # 3. Manejo Incremental: Cache de análisis previos de Gemini
     cols_esperadas = ["fuente", "objetivo", "texto_opinion", "sentimiento", "tema", "resumen"]
     df_existente = None
-    if OUTPUT_FILE.exists():
+    if OUTPUT_FILE.exists() and not args.recalificar:
         try:
             df_existente = pl.read_csv(OUTPUT_FILE)
             logger.info(f"Dataset Gemini previo detectado con {df_existente.height} opiniones ya clasificadas.")
         except Exception as e:
             logger.warning(f"No se pudo leer archivo previo: {e}")
 
-    if df_existente is not None and all(c in df_existente.columns for c in cols_esperadas):
+    if df_existente is not None and all(c in df_existente.columns for c in cols_esperadas) and not args.recalificar:
         df_ya_analizado = df_unificado.join(
             df_existente.select(cols_esperadas),
             on=["fuente", "objetivo", "texto_opinion"],
@@ -275,6 +295,8 @@ def main():
         logger.info(f"Reutilizando {df_ya_analizado.height} clasificaciones existentes de Gemini.")
         logger.info(f"Opiniones nuevas pendientes para Gemini: {df_pendientes.height}")
     else:
+        if args.recalificar:
+            logger.info("🔄 Modo recalificación activado: ignorando caché existente y procesando dataset completo.")
         df_ya_analizado = pl.DataFrame(schema={
             "fuente": pl.String, "objetivo": pl.String, "texto_opinion": pl.String,
             "sentimiento": pl.String, "tema": pl.String, "resumen": pl.String
@@ -303,7 +325,12 @@ def main():
         
         # Preparar payload para Gemini
         lote_input = [
-            {"id": idx, "texto": html.unescape(fila["texto_opinion"])[:300]}
+            {
+                "id": idx,
+                "marca_evaluada": fila["objetivo"],
+                "fuente": fila["fuente"],
+                "texto": html.unescape(fila["texto_opinion"])[:1000]
+            }
             for idx, fila in enumerate(lote_filas)
         ]
 
@@ -323,7 +350,10 @@ def main():
             if not res or not res.get("resumen"):
                 continue  # Solo guardar si Gemini realmente analizó la opinión
 
-            sent = str(res.get("sentimiento", "neutral")).lower()
+            sent = str(res.get("sentimiento", "neutral")).strip().lower()
+            if sent == "descartar":
+                # Omitir ruido de películas/juegos, idiomas extranjeros o spam ajeno a mascotas
+                continue
             if sent not in ["positivo", "negativo", "neutral"]:
                 sent = "neutral"
 
@@ -350,9 +380,12 @@ def main():
                 logger.warning(f"No se pudo guardar checkpoint: {e_ck}")
 
         # Pausa de cortesía para respetar rate limits de 15 RPM
-        time.sleep(2.5)
+        time.sleep(3.5)
 
-    df_nuevos = pl.DataFrame(nuevos_analisis)
+    if nuevos_analisis:
+        df_nuevos = pl.DataFrame(nuevos_analisis)
+    else:
+        df_nuevos = pl.DataFrame(schema={c: pl.String for c in cols_esperadas})
 
     # 5. Consolidar y Exportar
     df_consolidado = pl.concat([
