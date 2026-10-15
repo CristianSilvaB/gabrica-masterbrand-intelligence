@@ -39,9 +39,9 @@ Aquí residen los resultados listos para ser consumidos por tableros de BI, anal
 - 🌐 **`11_reviews_multicanal.csv`**: Dataset complementario multicanal (Mercado Libre, Amazon, TikTok, Facebook, Instagram, Reddit) estructurado con el mismo esquema (`fuente`, `objetivo`, `texto_opinion`) listo para el modelo NLP.
 - 🤖 **`12_reviews_gemini.csv`**: Dataset enriquecido con análisis cualitativo mediante Google Gemini Flash-Lite. Incluye las columnas `fuente`, `objetivo`, `texto_opinion`, `sentimiento`, `tema` y `resumen`.
 - 🏷️ **`13_catalogo_marcas_gabrica.csv`**: Taxonomía oficial extraída del portal de Gabrica con 57 variantes de marcas, categorías de producto, fabricantes y mapeo de competidores directos en Colombia.
-- ⚡ **`14_motivaciones_tensiones_barreras.csv`**: Base de 1,727 tensiones sintácticas (*"Quiero X pero Y"*), barreras de precio/disponibilidad y motivaciones de bienestar con su correspondiente oportunidad estratégica para Gabrica.
-- 🏺 **`15_mitos_ritos_oportunidades.csv`**: Clasificación semiocultural de 5,222 observaciones sobre los 4 ritos de cuidado animal, debates de dietas BARF y 3,970 oportunidades de conquista de usuarios en marcas rivales.
-- ⚔️ **`16_verbatims_dolores_competencia.csv`**: Banco de 15,023 verbatims literales de fallas y quejas en marcas rivales (Bravecto, Nexgard, Purina, etc.) mapeados con la solución y contra-argumento de campaña de Gabrica.
+- ⚡ **`14_motivaciones_tensiones_barreras.csv`**: Base de 1,716 tensiones sintácticas (*"Quiero X pero Y"*), barreras de precio/disponibilidad y motivaciones de bienestar con su correspondiente oportunidad estratégica para Gabrica.
+- 🏺 **`15_mitos_ritos_oportunidades.csv`**: Clasificación semiocultural de 5,194 observaciones sobre los 4 ritos de cuidado animal, debates de dietas BARF y 3,954 oportunidades de conquista de usuarios en marcas rivales.
+- ⚔️ **`16_verbatims_dolores_competencia.csv`**: Banco de 14,520 verbatims literales de fallas y quejas en marcas rivales (Bravecto, Nexgard, Purina, etc.) mapeados con la solución y contra-argumento de campaña de Gabrica.
 
 ---
 
